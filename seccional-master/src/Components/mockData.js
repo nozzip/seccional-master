@@ -42,81 +42,103 @@ export const dataBeneficios = [
   },
   {
     id: 2,
-    title: 'BBeneficios 2',
-    category: 'Santiago',
+    title: 'Posada y Spa - Don Numas',
+    category: 'Salta',
     thumbnail:
-      'https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280',
+      'https://scontent.faep7-1.fna.fbcdn.net/v/t1.18169-9/1970678_933325583358850_4809063943030314534_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHdzMjmvdISTqVOnwRRQmhVPlRdo0pLv3E-VF2jSku_cQ2_Tp4FMdtCYlqeqwcz7r7kXLpPN2yhdHHTMks4h_fq&_nc_ohc=2poiVDTDmdMAX-9WYeG&_nc_ht=scontent.faep7-1.fna&oh=00_AT8r8F2zKngEaETldIW54PzCQI5JiB9LfgDVYCoQvnpSnQ&oe=62959969',
     short_description:
-      ' is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for lorem ipsum will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)',
-    mail: 'sancristobal@sancristobal',
-    telephone: '381-4-458780',
+      'Rodeada de la majestuosidad de las montañas de Villa San Lorenzo, la frescura y el verde de la “Selva de Yungas”, nuestra Posada es una invitación a disfrutar de la naturaleza, acompañado de la comodidad de nuestras instalaciones, una atención personalizada y la calidez de un ambiente familiar.',
+    mail: 'donnumas.com.ar - 10% descuento',
+    telephone: 'Guzman Pompillio 1470, San Lorenzo - 3874 020957',
   },
 
   {
     id: 3,
-    title: 'Beneficios 3',
+    title: 'Hotel La Linda',
     category: 'Salta',
     thumbnail:
-      'https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280',
+      'https://exp.cdn-hotels.com/hotels/18000000/17810000/17805000/17804929/ac55c315_z.jpg?impolicy=fcrop&w=500&h=333&q=medium',
     short_description:
-      'Phasellus varius sit amet odio a hendrerit. Aenean in tempus justo. Nam malesuada leo eu auctor fermentum. Nullam vel arcu dapibus, faucibus massa at, semper velit. Donec venenatis risus euismod semper volutpat. Nullam volutpat sagittis nisi eu tempus. Pellentesque tempor sapien eget sapien sagittis, sit amet porta sem rutrum. Vivamus semper lacinia sapien vel condimentum. Curabitur varius laoreet tellus a consectetur. Aliquam ornare tellus in nunc feugiat, ullamcorper vestibulum diam suscipit. Donec nulla risus, gravida consectetur lorem non, venenatis rhoncus eros. Curabitur nec sagittis purus. Morbi vehicula commodo varius. Suspendisse at orci hendrerit, placerat erat eget, rutrum neque. Suspendisse maximus, elit sit amet tincidunt suscipit, tellus eros suscipit nisi, quis consectetur lorem mi eu tortor.',
-    mail: 'sancristobal@sancristobal',
-    telephone: '381-4-458780',
+      'El Hotel de la Linda se encuentra en Salta, es una encantadora casa de estilo colonial con dos patios interiores, y ofrece habitaciones con conexión WiFi gratuita, TV por cable, aire acondicionado frio calor y baño privados, es un Hotel económico, en pleno centro y con las comodidades necesarias. Fue refaccionado siguiendo los parámetros que se exigen para conservar el patrimonio arquitectónico en la Provincia de Salta. Cuenta con 21 habitaciones en planta baja y cuatro habitaciones nuevas en planta alta.',
+    mail: 'hoteldelalinda.com.ar - 12% descuento ',
+    telephone: 'Dean Funes 80, Salta - 387 4319141',
   },
   {
     id: 4,
-    title: 'Beneficios 4',
-    category: 'Tucuman',
+    title: 'Hotel Mirador del Cerro',
+    category: 'Salta',
     thumbnail:
-      'https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280',
+      'http://www.hotelmiradordelcerro.com/index_r1_c1.jpg',
     short_description:
-      'Nullam scelerisque finibus volutpat. Cras sit amet pulvinar ex, a tempus massa. Etiam libero justo, dignissim at odio sed, facilisis blandit orci. Integer sollicitudin euismod magna vitae malesuada. Praesent tempor est eget risus rhoncus, a tristique dolor imperdiet. Nam ullamcorper nulla quis felis vehicula mollis. Ut condimentum lacus neque, sit amet malesuada tellus interdum at. Ut sodales lacinia justo',
-    mail: 'sancristobal@sancristobal',
-    telephone: '381-4-458780',
+      'De marcado estilo colonial en su arquitectura sobresale el trabajo artesanal en la herrería de sus puertas, ventanas, rejas y muebles, asi como sus techos realizados en fina madera de quina y quebracho. La combinacion de laja y los objetos típicos de las culturas precolombinas crean un ambiente calido y confotable donde disfrutar de su estadía.',
+    mail: 'www.hotelmiradordelcerro.com - 25% descuento',
+    telephone: 'Alvarado 48, Salta - 387 4228627',
   },
   {
     id: 5,
-    title: 'Beneficios 5',
-    category: 'Tucuman',
+    title: 'Hotel Boutique Plaza de las Aljabas',
+    category: 'Salta',
     thumbnail:
-      'https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280',
+      'http://plaza-boutique.saltahotelsweb.com/data/Photos/r1920x1080/7283/728378/728378260.JPEG',
     short_description:
-      'Sed eleifend odio sed mauris volutpat rhoncus. Maecenas non convallis ipsum. Nam congue porttitor ex ac cursus. Duis hendrerit tortor aliquam ipsum sollicitudin, a condimentum libero facilisis. Phasellus ac nibh mattis est sollicitudin ultricies. Sed in sodales magna. Donec risus nisl, sodales eu mauris eget, placerat interdum dolor. Nunc sed nunc fermentum, scelerisque tellus et, lobortis augue. Etiam at enim nunc.',
-    mail: 'sancristobal@sancristobal',
-    telephone: '381-4-458780',
+      'Con una piscina, una sauna y un campo de golf, el Plaza De Las Aljabas Hotel Salta está situado cerca de la Plaza Güemes. Este hotel está situado en el centro de Salta, a 1.2 km del Museo Arqueológico de Alta Montaña.Este hotel está situado a menos de 0.3 km del Museo Pajcha Arte Etnico. La cercanía de una estación de tren permite explorar el Palacio de la Legislatura de Salta. sin dificultades. Todas las habitaciones están amuebladas con un teléfono directo, climatización individual y un escritorio. El cuarto de baño privado también dispone de toallas, un secador de pelo y un gorro de ducha. Los huéspedes de Plaza De Las Aljabas Hotel disfrutarán de un desayuno continental diario durante su estancia. Se puede encontrar la Macacha y La Vieja Estacion a 125 metros. El Plaza De Las Aljabas Hotel ofrece una masoterapia y terapia de spa gratis. Las otras instalaciones incluyen una piscina exterior.',
+    mail: '20% Efectivo - 15% Tarjeta',
+    telephone: 'Mitre 910, Salta - 387 4219455',
   },
   {
     id: 6,
-    title: 'Beneficios 6',
-    category: 'Santiago',
+    title: 'Hotel Bo Encanto & Spa',
+    category: 'Salta',
     thumbnail:
-      'https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280',
+      'https://scontent.faep7-1.fna.fbcdn.net/v/t31.18172-8/17159321_1355690191154109_4507220940566479441_o.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGneQ3hoDxSblZKK1ojZH_irzNrpz2gfr2vM2unPaB-vZATD1k3hvK_ddAY_itGltiAce2PxjdRlEmRYV27t7rc&_nc_ohc=SfVUE2gE9okAX8LWumW&_nc_ht=scontent.faep7-1.fna&oh=00_AT8ohnHX3nMw8bZi0cFxtqyJhB31aDmtqnLGYU__yzJ7zA&oe=6296E5A8',
     short_description:
-      'Sed eleifend odio sed mauris volutpat rhoncus. Maecenas non convallis ipsum. Nam congue porttitor ex ac cursus. Duis hendrerit tortor aliquam ipsum sollicitudin, a condimentum libero facilisis. Phasellus ac nibh mattis est sollicitudin ultricies. Sed in sodales magna. Donec risus nisl, sodales eu mauris eget, placerat interdum dolor. Nunc sed nunc fermentum, scelerisque tellus et, lobortis augue. Etiam at enim nunc.',
-    mail: 'sancristobal@sancristobal',
-    telephone: '381-4-458780',
+      'Hotel Bo Encanto & Spa es un pequeño hotel que brinda calidad y confort para las vacaciones soñadas',
+    mail: 'www.facebook.com/bodechicoanahotelsalta - 20% Efectivo - 15% Tarjeta',
+    telephone: '25 de Mayo 25, Chicoana - 387 4907068',
   },
   {
     id: 7,
-    title: 'Beneficios 7',
-    category: 'Catamarca',
+    title: 'Hotel Termas de Rosario de la Frontera',
+    category: 'Salta',
     thumbnail:
-      'https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280',
+      'https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/88056602_101650371453931_5438716571528724480_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGGG7JsQ0fm5wO3G_0HEpo68zKkexjmIBrzMqR7GOYgGq0Gu5vlQ6KpdVkQhi9QSfobhNybp-MAEdP207xPBIv7&_nc_ohc=hCrnAUke2MgAX-PInmf&tn=LryXJ_9wP_-TvCqU&_nc_ht=scontent.faep7-1.fna&oh=00_AT8Na2XbPdkZK3dqsbUUxUDR_OnIDQ-pkaaZyjtN9BPpzQ&oe=6294C577',
     short_description:
-      'Sed eleifend odio sed mauris volutpat rhoncus. Maecenas non convallis ipsum. Nam congue porttitor ex ac cursus. Duis hendrerit tortor aliquam ipsum sollicitudin, a condimentum libero facilisis. Phasellus ac nibh mattis est sollicitudin ultricies. Sed in sodales magna. Donec risus nisl, sodales eu mauris eget, placerat interdum dolor. Nunc sed nunc fermentum, scelerisque tellus et, lobortis augue. Etiam at enim nunc.',
-    mail: 'sancristobal@sancristobal',
-    telephone: '381-4-458780',
+      'El Hotel Termas se encuentra en obras de noviembre de 2017 siendo esta la última etapa de la puesta en valor y recuperación total del histórico edificio. La inversión que está realizando el Gobierno de la Provincia es de $ 30 millones, correspondiente al Plan Bicentenario,',
+    mail: 'www.hoteltermasalta.com.ar',
+    telephone: 'Rosario de la Frontera, Salta - 387 5728101 3876 481004/204',
   },
   {
     id: 8,
-    title: 'Beneficios 8',
-    category: 'Tucuman',
+    title: 'Cabañas Tia Moca',
+    category: 'Salta',
     thumbnail:
-      'https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280',
+      'http://aefipcomodoro.org.ar/wp-content/uploads/2021/04/WhatsApp_Image_2021-01-28_at_173307-6dab7a60.jpeg',
     short_description:
-      'Sed eleifend odio sed mauris volutpat rhoncus. Maecenas non convallis ipsum. Nam congue porttitor ex ac cursus. Duis hendrerit tortor aliquam ipsum sollicitudin, a condimentum libero facilisis. Phasellus ac nibh mattis est sollicitudin ultricies. Sed in sodales magna. Donec risus nisl, sodales eu mauris eget, placerat interdum dolor. Nunc sed nunc fermentum, scelerisque tellus et, lobortis augue. Etiam at enim nunc.',
-    mail: 'sancristobal@sancristobal',
-    telephone: '381-4-458780',
+      'A metros del aeropuerto, un lugar tranquilo para disfrutar de la naturaleza y descansar.podes disfrutar de un lugar lleno de paisajes y de excursiones cercanas, cabalgatas cerca del dique cabra corral campo quijano. Brindamos la comodidades a nuestros huespedes para que puedan disfrutar de la tranquilidad.',
+    mail: '20% descuento',
+    telephone: 'Pasaje Luis S/N, Villa Violeta, San Luis - 387 4262265 387 5065329',
+  },
+  {
+    id: 9,
+    title: 'Cabañas Portal de San Lorenzo',
+    category: 'Salta',
+    thumbnail:
+      'http://aefipcomodoro.org.ar/wp-content/uploads/2021/04/62d08bc3-fcd4-426e-9cf6-992c004f8ba7-820c579c.jpeg',
+    short_description:
+      '',
+    mail: '15% descuento',
+    telephone: 'J M Castilla 20, San Lorenzo - 11 30927733 ',
+  },
+  {
+    id: 10,
+    title: 'Cabañas Tia Moca',
+    category: 'Salta',
+    thumbnail:
+      'http://aefipcomodoro.org.ar/wp-content/uploads/2021/04/WhatsApp_Image_2021-01-28_at_173307-6dab7a60.jpeg',
+    short_description:
+      'A metros del aeropuerto, un lugar tranquilo para disfrutar de la naturaleza y descansar.podes disfrutar de un lugar lleno de paisajes y de excursiones cercanas, cabalgatas cerca del dique cabra corral campo quijano. Brindamos la comodidades a nuestros huespedes para que puedan disfrutar de la tranquilidad.',
+    mail: '20% descuento',
+    telephone: 'Pasaje Luis S/N, Villa Violeta - 381-4-458780',
   },
 ];
 
