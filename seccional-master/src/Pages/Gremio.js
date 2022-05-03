@@ -138,11 +138,8 @@ const useStyles = makeStyles((theme) => ({
 
   button: {
     color: 'orange',
-    '&:hover': {
-      color: 'white',
-
-      backgroundColor: 'orange',
-      transition: 'all 0.3s ease-out',
+    '&:hover': {            
+      transition: 'all 0.3s ease-out',      
     },
   },
 }));

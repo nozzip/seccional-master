@@ -54,7 +54,7 @@ const useStyles = makeStyles((theme) => ({
     },
   },
   img: {
-    padding: theme.spacing(-1),
+    padding: theme.spacing(0),
     height: '100%',
   },
   popover: {},
@@ -67,17 +67,18 @@ const useStyles = makeStyles((theme) => ({
     alignItems: 'center',
     justifyContent: 'space-between',
     padding: theme.spacing(2),
-    borderBottom: '3px solid #ff9e1c',
+    borderBottom: '5px solid #ff9e1c',
   },
   button: {
     width: '100%',
     height: '100%',
   },
   texth2: {
+    paddingTop: theme.spacing(0),    
     maxWidth: '800px',
     padding: theme.spacing(2),
     fontSize: '20px',
-    borderBottom: '5px solid #ff9e1c',
+    borderBottom: '2px solid #ff9e1c',
   },
   texth3: {
     display: 'flex',

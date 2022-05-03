@@ -71,7 +71,7 @@ export const dataBeneficios = [
       'http://www.hotelmiradordelcerro.com/index_r1_c1.jpg',
     short_description:
       'De marcado estilo colonial en su arquitectura sobresale el trabajo artesanal en la herrería de sus puertas, ventanas, rejas y muebles, asi como sus techos realizados en fina madera de quina y quebracho. La combinacion de laja y los objetos típicos de las culturas precolombinas crean un ambiente calido y confotable donde disfrutar de su estadía.',
-    mail: 'www.hotelmiradordelcerro.com - 25% descuento',
+    mail: 'hotelmiradordelcerro.com - 25% descuento',
     telephone: 'Alvarado 48, Salta - 387 4228627',
   },
   {
@@ -93,7 +93,7 @@ export const dataBeneficios = [
       'https://scontent.faep7-1.fna.fbcdn.net/v/t31.18172-8/17159321_1355690191154109_4507220940566479441_o.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGneQ3hoDxSblZKK1ojZH_irzNrpz2gfr2vM2unPaB-vZATD1k3hvK_ddAY_itGltiAce2PxjdRlEmRYV27t7rc&_nc_ohc=SfVUE2gE9okAX8LWumW&_nc_ht=scontent.faep7-1.fna&oh=00_AT8ohnHX3nMw8bZi0cFxtqyJhB31aDmtqnLGYU__yzJ7zA&oe=6296E5A8',
     short_description:
       'Hotel Bo Encanto & Spa es un pequeño hotel que brinda calidad y confort para las vacaciones soñadas',
-    mail: 'www.facebook.com/bodechicoanahotelsalta - 20% Efectivo - 15% Tarjeta',
+    mail: 'facebook.com/bodechicoanahotelsalta - 20% Efectivo - 15% Tarjeta',
     telephone: '25 de Mayo 25, Chicoana - 387 4907068',
   },
   {
@@ -104,7 +104,7 @@ export const dataBeneficios = [
       'https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/88056602_101650371453931_5438716571528724480_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGGG7JsQ0fm5wO3G_0HEpo68zKkexjmIBrzMqR7GOYgGq0Gu5vlQ6KpdVkQhi9QSfobhNybp-MAEdP207xPBIv7&_nc_ohc=hCrnAUke2MgAX-PInmf&tn=LryXJ_9wP_-TvCqU&_nc_ht=scontent.faep7-1.fna&oh=00_AT8Na2XbPdkZK3dqsbUUxUDR_OnIDQ-pkaaZyjtN9BPpzQ&oe=6294C577',
     short_description:
       'El Hotel Termas se encuentra en obras de noviembre de 2017 siendo esta la última etapa de la puesta en valor y recuperación total del histórico edificio. La inversión que está realizando el Gobierno de la Provincia es de $ 30 millones, correspondiente al Plan Bicentenario,',
-    mail: 'www.hoteltermasalta.com.ar',
+    mail: 'hoteltermasalta.com.ar',
     telephone: 'Rosario de la Frontera, Salta - 387 5728101 3876 481004/204',
   },
   {
@@ -131,14 +131,58 @@ export const dataBeneficios = [
   },
   {
     id: 10,
-    title: 'Cabañas Tia Moca',
+    title: 'Terrazas del Lago',
     category: 'Salta',
     thumbnail:
-      'http://aefipcomodoro.org.ar/wp-content/uploads/2021/04/WhatsApp_Image_2021-01-28_at_173307-6dab7a60.jpeg',
+      'https://scontent.faep7-1.fna.fbcdn.net/v/t31.18172-8/18237790_1346740638738261_9047375779253288402_o.jpg?_nc_cat=108&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHLLNy3_DSUOfyHNW_r3NUtxV62--LVWCbFXrb74tVYJsQmZHTuvdgwu-Ro5QCyCBr7CoZl1EbvJxFTm11PWTBC&_nc_ohc=axXEQPRxISAAX81H-Lb&tn=LryXJ_9wP_-TvCqU&_nc_ht=scontent.faep7-1.fna&oh=00_AT-5oIZhDLb9K0KZyP7p7005nSqLUD1mZV6aWc3xbPMvrA&oe=6294F619',
     short_description:
-      'A metros del aeropuerto, un lugar tranquilo para disfrutar de la naturaleza y descansar.podes disfrutar de un lugar lleno de paisajes y de excursiones cercanas, cabalgatas cerca del dique cabra corral campo quijano. Brindamos la comodidades a nuestros huespedes para que puedan disfrutar de la tranquilidad.',
-    mail: '20% descuento',
-    telephone: 'Pasaje Luis S/N, Villa Violeta - 381-4-458780',
+      'A orillas del dique Cabra Corral, enclavado entre los cerros y el lago, en un lugar privilegiado por la naturaleza, se encuentra Terrazas del Lago, posada y restaurant.',
+    mail: 'terrazasdel-lago.com.ar - 10% descuento ',
+    telephone: 'Camino al Dique km 9.5, Cabra Corral - 387 5538464',
+  },
+  {
+    id: 11,
+    title: 'Hostal Finca las Margaritas',
+    category: 'Salta',
+    thumbnail:
+      'https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/123646021_1875500035934547_4602794994777363098_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHRmzLbifRdzoftl9I6zHpAgI0JWnxgT8CAjQlafGBPwBVni-CFhlydE_uvmY_4Y0UGMYbYeWQC0h-1ywyJAGyR&_nc_ohc=uIVnmZvWL8gAX9euFUp&_nc_ht=scontent.faep7-1.fna&oh=00_AT8ksHvBbCysuhD_ErmhhqSkaK3LaFxNpRRxsKAqrDyRUw&oe=629889DC',
+    short_description:
+      'Finca Las Margaritas es una casa solariega con encanto y de estilo rural, equipada con pileta climatizada y rodeada de un jardín . El alojamiento facilita estacionamiento gratuito. El centro de Chicoana está a 8 km. Las habitaciones de la Finca Las Margaritas presentan una decoración inspirada en diversas temáticas agrícolas e incluyen wifi gratis y chimenea. Además, disponen de baño privado. El alojamiento ofrece clases de cocina regional y proporciona préstamo de bicicletas. La Finca Las Margaritas queda a 48 km de Salta y a 49 km del aeropuerto Martín Miguel de Güemes.',
+    mail: 'fincalasmargaritas.com.ar',
+    telephone: 'Bella Vista, Chicoana - 387 4154781',
+  },
+  {
+    id: 12,
+    title: 'Hotel Alto del Viña',
+    category: 'Jujuy',
+    thumbnail:
+      'http://hotelaltosdelavina.com.ar/wp-content/uploads/2015/09/logo_footer.png',
+    short_description:
+      'El hotel se encuentra en un lugar privilegiado aprovechando el paisaje, con balcones de hermosas visuales sobre la ciudad, el valle de Xibi Xibi y su acceso a la Quebrada de Humahuaca. Rodeado de montañas, en un sitio pintoresco y residencial, próximo al centro de S.S. de Jujuy, ofrece un paisaje que ejercita el puro contacto con la naturaleza. 60 habitaciones equipadas con la ultima tecnología: DDN, DDI, TV por cable, Secador de cabellos, Frigobar, A/A y calefacción central, Cofres de seguridad digitales; la decoración cálida, los muebles de época y su vista lo harán sentir en un lugar único e inolvidable. Además contamos con salones para realizar cualquier tipo de evento empresarial o social, con el servicio acorde a las exigencias de nuestros Clientes.',
+    mail: 'hotelaltosdelavina.com.ar - 20% s/tarifa de mostrador',
+    telephone: 'Av. Pasquini 50, B° Alto La Viña - Jujuy  388 4791077 388 4262626',
+  },
+  {
+    id: 13,
+    title: 'Hotel Alvear',
+    category: 'Jujuy',
+    thumbnail:
+      'https://scontent.faep7-1.fna.fbcdn.net/v/t31.18172-8/411866_205906209537618_1448236902_o.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFgglPh4WtKKqtTNT4gajSViOSJGHc1lDGI5IkYdzWUMRth3HlALsj4JLkuif1K65yrsRiAgrheXkkJa7SRoIoa&_nc_ohc=Zs8Uze39_4QAX-RnUCL&_nc_ht=scontent.faep7-1.fna&oh=00_AT-cRtlppOH5DtcsMha6TAX3Et11sOq-ckhgRTTlgE-bHQ&oe=6296F4AC',
+    short_description:
+      'facebook.com/HotelAlvearJujuy',
+    mail: '10% descuento',
+    telephone: 'Senador Pérez 398, Jujuy - 388 4244580',
+  },
+  {
+    id: 14,
+    title: 'Hotel Spa Termas de Reyes',
+    category: 'Jujuy',
+    thumbnail:
+      'https://scontent.faep7-1.fna.fbcdn.net/v/t1.18169-9/157012_471712959550013_2123134189_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFc1rC6tnx6T-KbQvEdJDwSN-YkMLeuj_035iQwt66P_c2FoEtZ8jZTk6BEUoI6fq6MAAaAMjmqwaGA5YdxniBE&_nc_ohc=Pl_osEVfjhQAX_ugjYt&_nc_ht=scontent.faep7-1.fna&oh=00_AT_hvQnLCIp651ctPcgGLPWRz0DMDTw9CEu4Y2EMjHPn7Q&oe=62984D35',
+    short_description:
+      'facebook.com/termasdereyes',
+    mail: '20% a partir de la 3ra noche',
+    telephone: '388 4922522',
   },
 ];
 
