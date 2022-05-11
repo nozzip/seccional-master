@@ -184,6 +184,39 @@ export const dataBeneficios = [
     mail: '20% a partir de la 3ra noche',
     telephone: '388 4922522',
   },
+  {
+    id: 15,
+    title: 'La Posada del Rio',
+    category: 'Jujuy',
+    thumbnail:
+      'https://laposadadelrio.com/wp-content/uploads/2021/10/000-LOGO-LA-POSADA-2021-cuadrado-ok-512x512-2.png',
+    short_description:
+      'La Posada del Rio es uno de los mas bellos lugares en el mundo, la Quebrada de Humahuca fue declarada patrimonio del Mundo por la UNESCO. Las posadas están situadas en la provincia de Jujuy alberga una serie de antiguos pueblos que han sabido mantener sus tradiciones y costumbres en estado puro',
+    mail: 'laposadadelrio.com - 20% efectivo 5% tarjeta (temporada*)',
+    telephone: 'Av. Costanera 625 - 388 524 5829',
+  },
+  {
+    id: 16,
+    title: 'Hostal de Altura',
+    category: 'Jujuy',
+    thumbnail:
+      'http://hostaldealtura.com.ar/wp-content/uploads/2019/12/logo-copia-e1576354484725.png',
+    short_description:
+      'Hostal de Altura es un hospedaje que abrió sus puertas en julio del 2019. Se encuentra a 900 metros del centro de Tilcara en la falda del cerro negro. Esto permite que si bien el camino para llegar sea en subida, cuente con unas de las mejores vistas del pueblo desde su terraza, ideal para relajarse y descansar luego de días completos de excursión.',
+    mail: 'hostaldealtura.com.ar - 15% descuento',
+    telephone: '388 470 8915',
+  },
+  {
+    id: 17,
+    title: 'Hotel el Colonial',
+    category: 'Tucuman',
+    thumbnail:
+      'https://s3-us-west-2.amazonaws.com/ar.com.sinergiasoluciones.portal/contenido/c_512/TO/logo_509808.png',
+    short_description:
+      'Con una importante remodelación, Hotel Colonial Tafi del Valle by DOT Tradition fusiona lo autóctono con lo moderno, dando como resultado una arquitectura exquisita. Situado a 40 mts. de la plaza principal y a 60 mts. del principal centro gastronómico y social de la ciudad de Tafí del Valle. Una ubicación realmente privilegiada para disfrutar el corazón de Tafí del valle. Hotel Colonial Tafi del Valle by DOT Tradition ofrece el servicio de desayuno y media pensión incluido en todas sus tarifas. Cuenta con pileta en temporada de verano, parrillas y terraza con vista panorámica del valle. Habitaciones de primer nivel con servicios de excelencia, para una estadía inigualable con familias y amigos. Nuestro personal altamente capacitado y competente, estará para asistirlo en lo que necesite. Hotel Colonial Tafi del Valle by DOT Tradition, su lugar en el norte argentino.',
+    mail: 'hotelcolonialtafi.com.ar - 15% descuento  ',
+    telephone: '  Los Faroles esq. Belgrano, Tafí del Valle - 386 742 0140',
+  },
 ];
 
 /*Tarjetas Final de Pagina*/

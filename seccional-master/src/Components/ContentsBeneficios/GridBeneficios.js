@@ -45,17 +45,17 @@ const useStyles = makeStyles((theme) => ({
     height: 'auto',
     overflow: 'hidden',
     boxShadow: '2px 2px 5px 2px #888888',
-    '&:hover': {
-      border: '3px solid rgba(235,148,12, .2)',
-      borderRadius: '15px',
+    '&:hover': {       
       transition: 'transform .5s',
-      transform: 'scale(1.1)',
-      padding: theme.spacing(0),
+      transform: 'scale(1.2)',
+      
     },
+
   },
   img: {
     padding: theme.spacing(0),
     height: '100%',
+   
   },
   popover: {},
   contenedorTexto: {
