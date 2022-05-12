@@ -211,11 +211,55 @@ export const dataBeneficios = [
     title: 'Hotel el Colonial',
     category: 'Tucuman',
     thumbnail:
-      'https://s3-us-west-2.amazonaws.com/ar.com.sinergiasoluciones.portal/contenido/c_512/TO/logo_509808.png',
+      'https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/269296966_4985820381451927_6704762421604320922_n.png?_nc_cat=100&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeHdf322yHHv93PBqV_TJXvWMO9ZrHQC7oMw71msdALug6UJ5XMsLR3rZRB5mW61tTWjJHCQIcAub4CZa9ur_DgI&_nc_ohc=32jJ80cFDR0AX8p3E6P&_nc_ht=scontent.faep7-1.fna&oh=00_AT-4UsPQszGCq0KuMHrTflvRg1Inv2yevm1wMjk7jMRQ2A&oe=6282A9C1',
     short_description:
       'Con una importante remodelación, Hotel Colonial Tafi del Valle by DOT Tradition fusiona lo autóctono con lo moderno, dando como resultado una arquitectura exquisita. Situado a 40 mts. de la plaza principal y a 60 mts. del principal centro gastronómico y social de la ciudad de Tafí del Valle. Una ubicación realmente privilegiada para disfrutar el corazón de Tafí del valle. Hotel Colonial Tafi del Valle by DOT Tradition ofrece el servicio de desayuno y media pensión incluido en todas sus tarifas. Cuenta con pileta en temporada de verano, parrillas y terraza con vista panorámica del valle. Habitaciones de primer nivel con servicios de excelencia, para una estadía inigualable con familias y amigos. Nuestro personal altamente capacitado y competente, estará para asistirlo en lo que necesite. Hotel Colonial Tafi del Valle by DOT Tradition, su lugar en el norte argentino.',
     mail: 'hotelcolonialtafi.com.ar - 15% descuento  ',
     telephone: '  Los Faroles esq. Belgrano, Tafí del Valle - 386 742 0140',
+  },
+  {
+    id: 18,
+    title: 'Cabañas Los Carolinos',
+    category: 'Tucuman',
+    thumbnail:
+      'https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/245642528_4193991770726170_5280266171393540835_n.jpg?_nc_cat=110&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeFg_HhxGCtEXochyiKOcBGrISsrEQ-BcIYhKysRD4Fwhs6oNSQHv9CPlcF_sLQ-6dOW-WN7paaORSemE3lN7dcn&_nc_ohc=YkRVOwjBT6wAX__rIQS&_nc_ht=scontent.faep7-1.fna&oh=00_AT-V7SDPWO1VVn64NsZMz9PTR66JXltnTCaDOP4q90VOGQ&oe=62818572',
+    short_description:
+      'Los Carolinos by DOT Cabana, ubicado en la provincia de Tucumán, a 1,8 km de la quebradita de Tafí del Valle y a 3km del centro de la ciudad es la opción ideal para  parejas, familias y grupos de amigos que buscan el contacto con la naturaleza. Ofrece vistas a la montaña, WiFi gratuito y aparcamiento privado gratuito y se encuentra en Tafí del Valle. El lodge ofrece un gran parque, zona de estar, TV de pantalla plana vía satélite, cocina totalmente equipada con microondas y nevera, y baño privado con artículos de aseo gratuitos. Después de un día de senderismo o ciclismo, los huéspedes pueden relajarse en el jardín, la piscina o en la zona de estar compartida. El alojamiento está a 105 km de Yerba Buena y a 70 km de Famaillá. El aeropuerto internacional Teniente General Benjamín Matienzo, es el más cercano, está a 115 km de Los Carolinos.',
+    mail: 'loscarolinostafi.com.ar - 15% descuento  ',
+    telephone: 'Km 66, Tafí del Valle - 381 477 1696',
+  },
+  {
+    id: 19,
+    title: 'Hotel Bicentenario Suite & Spa',
+    category: 'Tucuman',
+    thumbnail:
+      'https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/130262155_3849172538459900_8591182454410585746_n.png?_nc_cat=100&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeGzJZGhkyJGEf0Clr2ex8w8xIMkcETH_evEgyRwRMf962W2UGyPNTVfT0kwyV_CP700ZlLTCuY6qasCfJOfOOY7&_nc_ohc=C7nkMLPsb3MAX97wD86&_nc_ht=scontent.faep7-1.fna&oh=00_AT-6yOhqI7zKkHMxmWOPixsxS95uS5v0FxkAYd_Na-nqqw&oe=62A0E963',
+    short_description:
+      'Hace doscientos años, hombres y mujeres que buscaban la libertad, recorrían los caminos del Virreinato del Río de la Plata, de sur a norte, de este a oeste, para reunirse en la provincia de Tucumán y firmar la carta que declaraba su independencia del Corona española y dio a luz a una nueva nación. Doscientos años después, abre el Hotel Bicentenario, hogar de los nuevos líderes argentinos y extranjeros que visitan esta histórica provincia. A 150 metros de la Plaza de la Independencia, en la calle 21 de Las Heras, el edificio de 8 plantas y 70 habitaciones cuentan con todas las comodidades de un hotel de primer nivel. Diseñado con modernos conceptos de diseño y funcionalidad, el hotel cuenta con restaurante, garaje(sujeto a disponibilidad), gimnasio, spa completo y solárium entre algunos de sus destacados servicios.',
+    mail: 'www.hotelbicentenario.com.ar - 15% descuento  ',
+    telephone: 'Las Heras 21, Tucumán - 381 431 9119',
+  },
+  {
+    id: 20,
+    title: 'Hotel Termal Los Cardones & Spa',
+    category: 'Santiago',
+    thumbnail:
+      'http://loscardonestrh.com.ar/wp-content/uploads/2016/05/LosCadones-Logo-Gris-01-1.png',
+    short_description:
+      'Descubra nuestros servicios. Los mas altos standares de servicio en Las Termas de Río Hondo...',
+    mail: 'loscardonestrh.com.ar/es - 15% descuento  ',
+    telephone: 'San Martin 759, Termas del Rio Hondo - 3858 4 24169',
+  },
+  {
+    id: 21,
+    title: 'Nuevo Hotel Bristol',
+    category: 'Santiago',
+    thumbnail:
+      'https://vive-media-tpvbooking.netdna-ssl.com/175458/7.jpg',
+    short_description:
+      'El Nuevo Hotel Bristol Santiago del Estero se encuentra a 400 metros del Museo de la Imprenta y cuenta con un patio y un bar en el sitio. El Centro Cultural del Bicentenario está a solo 450 metros de la propiedad.',
+    mail: '20% descuento  ',
+    telephone: 'Moreno Sur 677 - 421 8888',
   },
 ];
 
@@ -427,27 +471,27 @@ export const dataNoticiasMesa = [
 
 export const photos = [
   {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/269553104_1341086366337291_4659774838717284170_n.jpg?_nc_cat=100&ccb=1-6&_nc_sid=0debeb&_nc_eui2=AeFxjVeJemSM0NgzA5KsYg_zm1MJprPD4ESbUwmms8PgRHRzOlEseaMN73_vBjaqITq8WrQ4YymBazFESmynT4Cm&_nc_ohc=RzK1wC5DYB8AX_qpmaf&_nc_oc=AQn2QZjpKscLZONNZQplhbey7nPdwPZay6At7kYzP4f610X7IUBtW23ZbfkzPAgu9ys&_nc_ht=scontent.faep7-1.fna&oh=00_AT-tjjWGR-bSUg_6IbZKI81PhibmOkgkslestRID29PHXQ&oe=62817E52",
     width: 5,
     height: 2
   },
   {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/269605081_1341087093003885_4248039806535842060_n.jpg?_nc_cat=101&ccb=1-6&_nc_sid=0debeb&_nc_eui2=AeH-jtVVG9a9jycNT7iK_J8Rt_NUHE69bty381QcTr1u3DVxe3ycqk0GTPMy3bkCEepIsLKUFvz6AqXTVP_Qyemd&_nc_ohc=Ek37rMdLkekAX9OLHeA&_nc_ht=scontent.faep7-1.fna&oh=00_AT-UKEoegleEUj0UJnkkhp5csaqRDWIchFhLq0kE-wzI6A&oe=628185C8",
     width: 1,
     height: 1
   },
   {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/268707625_1341086169670644_4047416866384553174_n.jpg?_nc_cat=104&ccb=1-6&_nc_sid=0debeb&_nc_eui2=AeGjr6wmbafQ-puXLrqTVQ71vGRkd_NeL--8ZGR3814v7xBgSj_Lz-3E9w-GrDdlXvUMnHO3BqrjAYpYo4YZXRVR&_nc_ohc=3fP9eKvvJ20AX9k9byk&_nc_oc=AQmAx74eRFq5OGI3bQAwL3HvaEGS4Sb9WeTHOC5SoquM9AhTYjzTiUXRpVDs9Dxv1dg&_nc_ht=scontent.faep7-1.fna&oh=00_AT943CJCurCiGruhIIezORYe5clIwbjq9p7BJxELlvKwCg&oe=6282BB70",
     width: 2,
     height: 2
   },
   {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/266166565_1341088953003699_7262336503299340767_n.jpg?_nc_cat=110&ccb=1-6&_nc_sid=0debeb&_nc_eui2=AeHo8MqARYOg_eimIDSj9Knog411D3oglXqDjXUPeiCVerH_hffS_JMIj7Ab7b2SK5NUmImBQCHwsPI9i7BOo3rE&_nc_ohc=IaC7LWJ5rZgAX9k6Pk2&_nc_ht=scontent.faep7-1.fna&oh=00_AT_GGcqPpiSPmE2Knu6DOaWrdm7HgKBc8Sc4YdySAQQ4VA&oe=628257F6",
     width: 6,
     height: 4
   },
   {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/75398060_2420802471471283_8342550355560628224_n.jpg?_nc_cat=109&ccb=1-6&_nc_sid=730e14&_nc_eui2=AeG1Ba_x7TqYXHm__N447qrQDYYweSd1ZYwNhjB5J3VljGpagyH0teg6che0U9NvXHFyh9IkHxsV9y61ID0SV5F8&_nc_ohc=AI3fVYzHUfkAX-00oqf&_nc_ht=scontent.faep7-1.fna&oh=00_AT90RQXtsrqFVdGqjmgdDKmH3Drcb7iqvJN01MVSnctW2g&oe=62A1448B",
     width: 1,
     height: 1
   },
