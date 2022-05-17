@@ -472,7 +472,7 @@ export const dataNoticiasMesa = [
 export const photos = [
   {
     src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/269553104_1341086366337291_4659774838717284170_n.jpg?_nc_cat=100&ccb=1-6&_nc_sid=0debeb&_nc_eui2=AeFxjVeJemSM0NgzA5KsYg_zm1MJprPD4ESbUwmms8PgRHRzOlEseaMN73_vBjaqITq8WrQ4YymBazFESmynT4Cm&_nc_ohc=RzK1wC5DYB8AX_qpmaf&_nc_oc=AQn2QZjpKscLZONNZQplhbey7nPdwPZay6At7kYzP4f610X7IUBtW23ZbfkzPAgu9ys&_nc_ht=scontent.faep7-1.fna&oh=00_AT-tjjWGR-bSUg_6IbZKI81PhibmOkgkslestRID29PHXQ&oe=62817E52",
-    width: 5,
+    width: 4,
     height: 2
   },
   {
@@ -487,69 +487,95 @@ export const photos = [
   },
   {
     src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/266166565_1341088953003699_7262336503299340767_n.jpg?_nc_cat=110&ccb=1-6&_nc_sid=0debeb&_nc_eui2=AeHo8MqARYOg_eimIDSj9Knog411D3oglXqDjXUPeiCVerH_hffS_JMIj7Ab7b2SK5NUmImBQCHwsPI9i7BOo3rE&_nc_ohc=IaC7LWJ5rZgAX9k6Pk2&_nc_ht=scontent.faep7-1.fna&oh=00_AT_GGcqPpiSPmE2Knu6DOaWrdm7HgKBc8Sc4YdySAQQ4VA&oe=628257F6",
-    width: 6,
-    height: 4
+    width: 2,
+    height: 1
   },
   {
     src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/75398060_2420802471471283_8342550355560628224_n.jpg?_nc_cat=109&ccb=1-6&_nc_sid=730e14&_nc_eui2=AeG1Ba_x7TqYXHm__N447qrQDYYweSd1ZYwNhjB5J3VljGpagyH0teg6che0U9NvXHFyh9IkHxsV9y61ID0SV5F8&_nc_ohc=AI3fVYzHUfkAX-00oqf&_nc_ht=scontent.faep7-1.fna&oh=00_AT90RQXtsrqFVdGqjmgdDKmH3Drcb7iqvJN01MVSnctW2g&oe=62A1448B",
+    width: 2,
+    height: 1
+  },
+  {
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/279312336_1131615141019604_2060125132263970542_n.jpg?_nc_cat=101&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeEqdyieXLpsISHHVa7oESpERg4ZkwhAJIVGDhmTCEAkhe9TF4bQlwD9YPJHVgxuJb8i3kZMhFGjRXnz-C-rwFPJ&_nc_ohc=sYml0x80IFcAX9M5r9X&_nc_ht=scontent.faep7-1.fna&oh=00_AT8DqDAU2lm1emenYnEzHUqsAgbPxloNCME_Ku2Kz-4uAA&oe=6287EE48",
     width: 1,
     height: 1
   },
   {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
-    width: 1,
-    height: 1
-  },
-  {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
-    width: 5,
-    height: 5
-  },
-  {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
-    width: 10,
-    height: 3
-  },
-  {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
-    width: 6,
-    height: 3
-  },
-  {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
-    width: 1,
-    height: 1
-  },
-  {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/279294075_1131611771019941_2459122917700796518_n.jpg?_nc_cat=108&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeEPIMtr3g-Yx-we0ml8RH9VfcF_phX09Q99wX-mFfT1D5TyLkArbzVwzxtfw9vqjDihXty_ecXSJS0D8plQLTb4&_nc_ohc=hNyUWGuANCwAX8Smk72&_nc_ht=scontent.faep7-1.fna&oh=00_AT-IapI0vF05D66Jg43Y6vsxzchcCkEi0EfP8FsmdqwwAQ&oe=6288B4AA",
     width: 2,
     height: 2
   },
   {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/278025135_1115763232604795_6307251722278410834_n.jpg?_nc_cat=101&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeG1AyMEdnM43gj9yYPH0tA1DLrGOC7QNa0MusY4LtA1rbGaOkQu6BQlNaBUN3XUtscSUAaWVKN1MQDrMk-Oadla&_nc_ohc=VLNm-8ZcZGQAX84wd72&_nc_ht=scontent.faep7-1.fna&oh=00_AT_UtSuO3vyCsZQDvsOHEQrZXjOu6BVnZmHufwzOyCHSBg&oe=6288FC60",
+    width: 10,
+    height: 4
+  },
+  {
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/272956220_1081742882673497_2332403940775858762_n.jpg?_nc_cat=104&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeHuVO4qyavtAp9jUoeVhio2ypKsoBEKXv7KkqygEQpe_hvIf8Dgw1jBBPtDw2ubPUyvItNpcfdfr76hDLZKn9ET&_nc_ohc=izHZRT-OrVAAX-6iVPc&_nc_ht=scontent.faep7-1.fna&oh=00_AT_xTTFwK9C8hlAKaWMBabIoKc-2EKJ_KNSVXWYtB2ZbNQ&oe=6289089F",
+    width: 3,
+    height: 3
+  },
+  {
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/272980592_1081734479341004_7730703725595854594_n.jpg?_nc_cat=105&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeENfgZ_gNsP_4ZEFEcSUeFvIrhy86-xAIIiuHLzr7EAglRinupvx-pr8Ud207Wn8jfmHqL5BwoskJ4cW23sbOHv&_nc_ohc=g8zjwvOS5W0AX_XQ5Fl&_nc_oc=AQl8958oEew0mf0Roa2zxP1dp2o_bevTCMJB15p2JNaBW4x4gC08Wps3Zki0HDQEGWQ&_nc_ht=scontent.faep7-1.fna&oh=00_AT__rgL0AIyhxHlU2X26Pb8WorP_cvdaW9zVco4l1dBKSg&oe=6288A76D",
+    width: 1,
+    height: 1
+  },
+  {
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/273199608_1075723633275422_1204429465929428588_n.jpg?_nc_cat=111&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeEFraimIIlkd1u_JpYtmAIOn5BDj7wup2qfkEOPvC6najdJWKUtcrnOwaOiRzAtC408Qq_6NzNowd05iI_Kk-4f&_nc_ohc=katZ5w4whfIAX-R0bw5&_nc_ht=scontent.faep7-1.fna&oh=00_AT_thySqtR-crP56bMSigMUelU8rLEBFEDT7CM0JDrnSpw&oe=62887283",
+    width: 2,
+    height: 2
+  },
+  {
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/271211470_1057296998451419_3003477749336207128_n.jpg?_nc_cat=109&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeFTKCqg9G5OOht4FaQRAEqKcvYTBGLyEJly9hMEYvIQmaSzUoDSFfaplt2ImM7btopn9lzlhd0jPC8I8JP3sRmG&_nc_ohc=l8Wl4bdtUdIAX_HMaJn&_nc_ht=scontent.faep7-1.fna&oh=00_AT8F0rfCbcaRzDUYAlwqAeTtTrSqtjkhXx16chjV-ceD0A&oe=62897511",
     width: 4,
     height: 3
   },
   {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/242198928_990578578456595_583811814123958519_n.jpg?_nc_cat=110&ccb=1-6&_nc_sid=730e14&_nc_eui2=AeGk3l6p14tMAp9jYgq8Fr6104cB_h9rmrfThwH-H2uat5aqv54LUXz6w9KZaKYbCnj4IeRRQ_dcRKXCicz8ytYz&_nc_ohc=s2VwnDW4ofMAX8ibCDH&tn=LryXJ_9wP_-TvCqU&_nc_ht=scontent.faep7-1.fna&oh=00_AT9J3MQZ5Z-IKiFfx_YzT0YT_c3LBQZHgcabOMCv4JktcA&oe=6288487B",
     width: 4,
     height: 3
   },
   {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/223221105_950744455773341_6861026971906533719_n.jpg?_nc_cat=111&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeFzXlfQgOAO015bOuDxjR6oBo4xhYEJCg8GjjGFgQkKD2RjqYcYNKzG4ZbQNHbmUIvTOBzdvmZWKWO4E9L_Qu3P&_nc_ohc=2kmHzXEMw1kAX-ZfV-9&_nc_ht=scontent.faep7-1.fna&oh=00_AT84tAdsTBn9r_Ia-A-dI7HvQRccMGVtUGtm-5ypyN0b3A&oe=628848CD",
     width: 4,
     height: 3
   },
   {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/241148167_976232693224517_1348415497629906965_n.jpg?_nc_cat=103&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeGNWl0viwL0hkofbZE8vvrdyyw_dlKZTqbLLD92UplOpifexoiQ12DN2VPU2WOFqtEqMxok8GU9i6xexkba8KZO&_nc_ohc=C4BcMvnCU4oAX-Gf_fE&_nc_oc=AQkEC7OlntoI2xjqMu3_lcVzf4_Iey44gmP428Wdp2NZLxKyOfjwGY3xJHEpFXS55Ro&tn=LryXJ_9wP_-TvCqU&_nc_ht=scontent.faep7-1.fna&oh=00_AT-UCznh6dDXctsEu1u4A8fTE_j_5QVbKANyjF9_393gLg&oe=628857D6",
     width: 4,
     height: 3
   },
   {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/222499486_950744445773342_1506597318155208340_n.jpg?_nc_cat=109&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeHdVD4i9bZwtcSx03BnF9u-w9NX0CIZVYTD01fQIhlVhOMZET4pIYDQs2IpWqQyIb6ISv0gIpIOWo12yveYq_gH&_nc_ohc=sN7m_Su5WrEAX9eSWxy&_nc_ht=scontent.faep7-1.fna&oh=00_AT8JpJ2RaJ-GgQndUSqbInidMQ2LZ_0I_4RLjea-BqoINw&oe=62892231",
     width: 4,
     height: 3
-  }
+  },
+  {
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/192155885_916785759169211_3075296163313705078_n.jpg?_nc_cat=102&ccb=1-6&_nc_sid=730e14&_nc_eui2=AeEGKTz5jAWldFXrb6mkyTMraTg7ozrwnmxpODujOvCebDiGY_Ay5y5hbrhe6ABY9E2caDJZhW7qDgMbSAzKYwyc&_nc_ohc=S4gVC8PQHSEAX-wZWwZ&_nc_ht=scontent.faep7-1.fna&oh=00_AT8vGLo51oTVNxFX5gz0gWtBUsCwHFPiVDeEgwKPiJTh9Q&oe=62AAC9EA",
+    width: 1,
+    height: 1
+  },
+  {
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/191816863_916785735835880_5722573749050438646_n.jpg?_nc_cat=102&ccb=1-6&_nc_sid=730e14&_nc_eui2=AeEIsF1_XURRyMJ5V4WZUf-fD9-Kun700qQP34q6fvTSpCg3jeAfhVlFbtKZGDFQQFvzK8M4Kdr9nnv7tMiUxwqW&_nc_ohc=TUvGBzeXxg4AX97C8Ry&_nc_ht=scontent.faep7-1.fna&oh=00_AT8T5oMqjDAeKxkT1LJwXcdkqaG88HdWi-mtLvHVlDAEHg&oe=62AA4D18",
+    width: 2,
+    height: 1
+   },
+  {
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/174442237_891406735040447_3986737324015475161_n.jpg?_nc_cat=107&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeEWN4D0b_FARO-bL8m5IUkp3wkFQj1bfwTfCQVCPVt_BNIKm1G1dIB8sLhowRYJv0o1n5SviBfEgfyZ4jy8CrYJ&_nc_ohc=TnM9G5S9TnQAX9qEOX2&_nc_ht=scontent.faep7-1.fna&oh=00_AT9p95GT0FmAJf9OF0Bg2PXfBV24m_gRWwhyziZ2R0np2Q&oe=62A946E8",
+    width: 4,
+    height: 3
+  },
+  {
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/164129949_876880806493040_3905323353294911489_n.jpg?_nc_cat=110&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeEhvjLSBllc8HWtkhrvaJdiyGgRMzJTIaXIaBEzMlMhpXPxnPAHy9kVmBHA6QtmzO408y5lsfuZ9Lu_w8MdnKSI&_nc_ohc=chua4Z9whJQAX_dbGS_&_nc_ht=scontent.faep7-1.fna&oh=00_AT-gQjUHNK9GMUE2HqBMjAl7w8VLhIIYcped8GovGLfbPg&oe=62A8CE5A",
+    width: 5,
+    height: 6
+  },
+  {
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/164293356_876880783159709_5799478478660642378_n.jpg?_nc_cat=102&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeGEgpWapSWpQr1pbBE7OLxS9jogsZ31gpT2OiCxnfWClPSjrAR-Sd-zW_8WVoq9SeK4vFAExbN82fY8L2JscdkS&_nc_ohc=Y0u5JBG7Ub8AX95cOMd&_nc_ht=scontent.faep7-1.fna&oh=00_AT8DTpC7_hCD1W8jA_t5ALNoak6IYVtbX7D_0Iw8wzOokQ&oe=62A7D522",
+    width: 10,
+    height: 6
+  },  
+
 ];
 
 
@@ -611,13 +637,48 @@ export const photosServiciosSanLorenzo = [
 
 export const photosServiciosAzucena = [
   {
-    src: "http://donnumas.com.ar/wp-content/uploads/2020/12/dsc_6166-1.jpg",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/254552735_407883704152842_833389622039478071_n.jpg?_nc_cat=110&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeEdR_XAJtyYH9r4IGv0Z1I6DghTWLv8A6cOCFNYu_wDp_-lNR-2Jre3F000r4sgLZX8plJid-1v3YcfR4HCl_s9&_nc_ohc=Zv_LE8qk1UkAX_azEoB&_nc_ht=scontent.faep7-1.fna&oh=00_AT_XoR-xb3Zp7Bx7SjTiPbJiPwPpx8UU3NMdoBDpFOehJw&oe=6288877C",
     width: 1,
     height: 1
   },
   {
-    src: "http://donnumas.com.ar/wp-content/uploads/2020/12/dsc_6166-1.jpg",
-    width: 0,
-    height: 0
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/254552735_407883704152842_833389622039478071_n.jpg?_nc_cat=110&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeEdR_XAJtyYH9r4IGv0Z1I6DghTWLv8A6cOCFNYu_wDp_-lNR-2Jre3F000r4sgLZX8plJid-1v3YcfR4HCl_s9&_nc_ohc=Zv_LE8qk1UkAX_azEoB&_nc_ht=scontent.faep7-1.fna&oh=00_AT_XoR-xb3Zp7Bx7SjTiPbJiPwPpx8UU3NMdoBDpFOehJw&oe=6288877C",
+    width: 1,
+    height: 1
+  }, 
+  {
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/272956605_1080835596097559_9151759775780527587_n.jpg?_nc_cat=103&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeHW2KmHcpGJOQ4peJsB4mR53stb0NxBiYfey1vQ3EGJh1i-99t1ZMUkAceaqzUV6s3cb-IddjKy-gsJyi5sra4b&_nc_ohc=ryBbSyFRTUYAX8Hco-s&tn=LryXJ_9wP_-TvCqU&_nc_ht=scontent.faep7-1.fna&oh=00_AT_iWp3qfpkOr6h_7Jco5wGCInZxJBwaRwxmUHeLR-vckg&oe=6288A081",
+    width: 1,
+    height: 1
   },  
+  {
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/182826302_292232395717974_1922318036092758223_n.jpg?_nc_cat=100&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeFOC6yKphi7ci7jQ577Is_0xFotQFY4pnPEWi1AVjimcy_mhQz4et7cd4OFATQmRW2D8nWIDq9Ge0lba_lnGglN&_nc_ohc=Rx-ufVOSUOYAX9RR71k&_nc_ht=scontent.faep7-1.fna&oh=00_AT89z7EsW2rkRy3irRjbb3P0lte-nMBbTCmUTva_0qwdAQ&oe=62A83F03",
+    width: 1,
+    height: 1
+  },  
+  {
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/182575717_292232345717979_5057480786581940716_n.jpg?_nc_cat=110&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeFwEdZoV2TDkZk1_DAUTGhmUaNFyNBiJABRo0XI0GIkAJoUo-5Erj2vgZgOZWLhfsmaoHjdicaz2cIib1ErcWou&_nc_ohc=vw6NWrZuwrQAX8JxKYJ&_nc_ht=scontent.faep7-1.fna&oh=00_AT8ScoUQo8wfq8sUe07VxAsMgEIr1u3UDDcVCHAAh3eFOw&oe=62A9C916",
+    width: 1,
+    height: 1
+  },
+  {
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/182524079_292232335717980_3762911808105202552_n.jpg?_nc_cat=108&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeFXyvixHyQmUg-YY3s6T-zMg848ZD9TJGeDzjxkP1MkZxadsvLcCnf8iJs18GEONDbRfTo515ZSBjj5V00gKeeV&_nc_ohc=TD4lccKf8N8AX_UWL2f&tn=LryXJ_9wP_-TvCqU&_nc_ht=scontent.faep7-1.fna&oh=00_AT8tGTGRdTm_9oWIVHRvi3mmYMETLB3FVCy0Ab16mTRZ-g&oe=62A7C7BE",
+    width: 1,
+    height: 1
+  }, 
+  {
+    src: "",
+    width: 1,
+    height: 1
+  }, 
+  {
+    src: "",
+    width: 1,
+    height: 1
+  }, 
+  {
+    src: "",
+    width: 1,
+    height: 1
+  },    
 ];

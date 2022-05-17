@@ -22,7 +22,8 @@ const useStyles = makeStyles((theme) => ({
 
   card2: {    
     display:'flex',
-    flexDirection:'column',
+    flexDirection:'column',     
+    overflow:'auto',
     borderRight:'3px solid orange',
     borderRadius:'10px',
     height:'210px',   
@@ -30,22 +31,24 @@ const useStyles = makeStyles((theme) => ({
   },
 
   titulo: {
-    margin: theme.spacing(1),
-    paddingTop: theme.spacing(3),
+    margin: theme.spacing(2),
+    paddingTop: theme.spacing(2),
     fontFamily: 'Lato',    
     fontWeight: '800',
   },
 
   subtitulo:{
-    margin: theme.spacing(1),
-    fontFamily:'Lato',
-    fontWeight: '800',
+    marginLeft: theme.spacing(1),
+    marginRight: theme.spacing(1),
+    fontFamily:'Trebuchet MS',
+    fontWeight: '300',
   },
 
   texto:{
-    margin: theme.spacing(1),
-    fontFamily:'Lato',    
-    fontWeight: '800',
+    marginLeft: theme.spacing(4),
+    marginRight: theme.spacing(4),
+    fontFamily:'Trebuchet MS',    
+    fontWeight: '300',
     paddingBottom: theme.spacing(3),
   },
 }));
@@ -124,15 +127,15 @@ export function Azucena() {
         </Grid>
         <Grid item xs={8} md={8}>
           <Card className={classes.card2}>
-            <Typography variant='h5' align='center' className={classes.titulo}>AZUCENA</Typography>
-            <Typography variant='subtitle1' align='center' className={classes.subtitulo}>
-              AZUCENA
+            <Typography variant='h4' align='center' className={classes.titulo}>CLUB AZUCENA</Typography>
+            <Typography variant='subtitle2' align='center' className={classes.subtitulo}>
+              Sarmiento 480, Yerba Buena, Tucumán - Tel: 381 354-5911 
             </Typography>
             <Typography variant='body2' align="center" className={classes.texto}>
-              Ofrecemos a nuestros afiliados un lugar donde pueden disfrutar de pileta climatizada, paddle, futbol 5, etc
+              Con gran pasión y esfuerzo proponemos a nuestros afiliados disfrutar de actividades deportivas como paddle, squash, fútbol y pileta climatizada. Como también utilizar las instalaciones para sus reuniones sociales con quincho, asadores y salón climatizado
               <br />
               {
-                'Numero de contacto: 255755784 '
+                
               }
             </Typography>
           </Card>
