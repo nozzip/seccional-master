@@ -17,12 +17,13 @@ const useStyles = makeStyles((theme) => ({
     display: 'flex',
     flexWrap: 'wrap',
     justifyContent: 'center',
-    width: '100%',
+    width: '100%',    
   },
 
   card: {
     display: 'flex',
-    margin: theme.spacing(2, -2, 2, -2),
+    margin: theme.spacing(2, 0, 2, 0),
+    padding: theme.spacing(0, 5, 0, 5),
     borderBottom: 'solid 3px orange',
     borderRight: 'solid 3px orange',
   },
@@ -32,15 +33,16 @@ const useStyles = makeStyles((theme) => ({
     fontSize: '4vw',
   },
   cardcontent: {
-    display: 'flex',
+    display: 'flex',    
     flexDirection: 'column',
     justifyContent: 'center',
   },
 
   media: {
-    width: '100%',
+    display:'flex',    
     height: '200px',
-    objectFit: 'cover',
+    justifyContent:'center',
+    objectFit: 'contain',
   },
 
   titulocontent: {
@@ -52,7 +54,7 @@ const useStyles = makeStyles((theme) => ({
     paddingBottom: theme.spacing(3),
   },
 
-  textocontent: {
+  textocontent: {    
     fontSize: '3vh',
     fontFamily: 'Helvetica',
     textIndent: '50px',

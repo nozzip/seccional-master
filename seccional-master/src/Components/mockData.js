@@ -348,97 +348,33 @@ export const dataCaruselSection1 = [
     short_description: 'Nuestros afiliados disfrutan de estos beneficios',
   },
 ];
-
+/*PRENSA*/
 export const dataNoticias = [
   {
-    id: 1,
-    title: 'TRASLADO DE LICENCIAS ORDINARIAS 2019 Y 2020',
-    subtitle: 'id 1 dataNoticiasMesa',
-    thumbnail:
-      'https://i.pinimg.com/originals/a4/f8/f9/a4f8f91b31d2c63a015ed34ae8c13bbd.jpg',
-    titulo: 'Nuestros afiliados disfrutan de estos beneficios',
-    subtitulo: 'Lorem ipsum dolor sit amet',
-    texto:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tempus ullamcorper tellus, a egestas enim sagittis sed. In ultricies purus sem, vel varius enim facilisis nec. Sed pretium a ante ac consectetur. Sed suscipit dolor enim, sed viverra neque egestas nec. Nullam ut leo tempus, vehicula quam quis, feugiat velit. Vestibulum interdum, mi id pharetra facilisis, arcu enim fermentum felis, quis pharetra leo urna molestie felis. Cras a massa quis augue porta convallis id vel ligula. Curabitur varius porttitor arcu. Fusce egestas tincidunt feugiat. Aliquam at dui eros.Vestibulum risus lorem, venenatis id nisi et, rutrum commodo sem. Aenean ut urna vel est ultrices ultrices. Aenean in mauris eu justo interdum porta. Donec suscipit enim nec volutpat maximus. Maecenas finibus eu odio quis congue. Nullam eget mollis massa. Nunc a lacinia libero, at feugiat sapien. Maecenas fringilla libero et odio vulputate, sit amet euismod mi bibendum. Pellentesque consequat velit vitae accumsan commodo. Ut orci sem, ornare ut vulputate et, convallis in mi. Suspendisse vel est at sapien molestie luctus eget non lectus. Donec a suscipit sem, ac hendrerit ligula. Cras consectetur pulvinar nisl, eu volutpat metus cursus pharetra. Curabitur id felis nibh.Aliquam eu libero nec ante dictum malesuada. Morbi luctus viverra lectus. Sed nec congue augue. Maecenas quis odio non ipsum mattis fermentum. Etiam malesuada ut ante sed iaculis. In vel pretium libero. Pellentesque nisl nibh, fringilla sed nisi ut, aliquam tempus ligula. Suspendisse sollicitudin nisi ut augue mollis ultrices. Suspendisse aliquet at lacus non dignissim. Aliquam erat volutpat. Aenean convallis velit quis sapien dapibus fermentum. Ut eget gravida diam. Nulla sed lacus enim. Nullam tempus sollicitudin magna, at consequat mauris volutpat et. Cras venenatis dignissim fringilla.',
-    date: '10 de Agosto, 2022',
-  },
-  {
     id: 2,
-    title: 'REGRESO A LA PRESENCIALIDAD',
+    title: <p style={{color:'#263050'}}>AVANCES NECESARIOS EN EL CAMINO QUE QUEDA POR RECORRER</p>,
+    subtitle: '',
     thumbnail:
-      'https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280',
-    titulo: 'Nuestros afiliados disfrutan de estos beneficios',
-    subtitulo: 'Lorem ipsum dolor sit amet',
-    texto:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tempus ullamcorper tellus, a egestas enim sagittis sed. In ultricies purus sem, vel varius enim facilisis nec. Sed pretium a ante ac consectetur. Sed suscipit dolor enim, sed viverra neque egestas nec. Nullam ut leo tempus, vehicula quam quis, feugiat velit. Vestibulum interdum, mi id pharetra facilisis, arcu enim fermentum felis, quis pharetra leo urna molestie felis. Cras a massa quis augue porta convallis id vel ligula. Curabitur varius porttitor arcu. Fusce egestas tincidunt feugiat. Aliquam at dui eros.Vestibulum risus lorem, venenatis id nisi et, rutrum commodo sem. Aenean ut urna vel est ultrices ultrices. Aenean in mauris eu justo interdum porta. Donec suscipit enim nec volutpat maximus. Maecenas finibus eu odio quis congue. Nullam eget mollis massa. Nunc a lacinia libero, at feugiat sapien. Maecenas fringilla libero et odio vulputate, sit amet euismod mi bibendum. Pellentesque consequat velit vitae accumsan commodo. Ut orci sem, ornare ut vulputate et, convallis in mi. Suspendisse vel est at sapien molestie luctus eget non lectus. Donec a suscipit sem, ac hendrerit ligula. Cras consectetur pulvinar nisl, eu volutpat metus cursus pharetra. Curabitur id felis nibh.Aliquam eu libero nec ante dictum malesuada. Morbi luctus viverra lectus. Sed nec congue augue. Maecenas quis odio non ipsum mattis fermentum. Etiam malesuada ut ante sed iaculis. In vel pretium libero. Pellentesque nisl nibh, fringilla sed nisi ut, aliquam tempus ligula. Suspendisse sollicitudin nisi ut augue mollis ultrices. Suspendisse aliquet at lacus non dignissim. Aliquam erat volutpat. Aenean convallis velit quis sapien dapibus fermentum. Ut eget gravida diam. Nulla sed lacus enim. Nullam tempus sollicitudin magna, at consequat mauris volutpat et. Cras venenatis dignissim fringilla.',
-    date: '1230 de Agosto, 2022',
+      'https://i.imgur.com/uDz3VqV.png',
+    titulo: '',
+    subtitulo: '',
+    texto: <img width='75%' src='https://aefip.org.ar/images/COMUNICADOS/2022/05_16_2022_comunicado.png'></img> 
+      ,
+    date: '16 de Mayo, 2022',
   },
   {
-    id: 3,
-    title: 'LA FUERZA DE UN GREMIO CON HISTORIA',
+    id: 1,
+    title: <p style={{color:'#263050'}}>ES MOMENTO DE RESPUESTAS ACORDE CON LA REALIDAD</p>,
+    subtitle: '',
     thumbnail:
-      'https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280',
-    titulo: 'Nuestros afiliados disfrutan de estos beneficios',
-    subtitulo: 'Lorem ipsum dolor sit amet',
-    texto:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tempus ullamcorper tellus, a egestas enim sagittis sed. In ultricies purus sem, vel varius enim facilisis nec. Sed pretium a ante ac consectetur. Sed suscipit dolor enim, sed viverra neque egestas nec. Nullam ut leo tempus, vehicula quam quis, feugiat velit. Vestibulum interdum, mi id pharetra facilisis, arcu enim fermentum felis, quis pharetra leo urna molestie felis. Cras a massa quis augue porta convallis id vel ligula. Curabitur varius porttitor arcu. Fusce egestas tincidunt feugiat. Aliquam at dui eros.Vestibulum risus lorem, venenatis id nisi et, rutrum commodo sem. Aenean ut urna vel est ultrices ultrices. Aenean in mauris eu justo interdum porta. Donec suscipit enim nec volutpat maximus. Maecenas finibus eu odio quis congue. Nullam eget mollis massa. Nunc a lacinia libero, at feugiat sapien. Maecenas fringilla libero et odio vulputate, sit amet euismod mi bibendum. Pellentesque consequat velit vitae accumsan commodo. Ut orci sem, ornare ut vulputate et, convallis in mi. Suspendisse vel est at sapien molestie luctus eget non lectus. Donec a suscipit sem, ac hendrerit ligula. Cras consectetur pulvinar nisl, eu volutpat metus cursus pharetra. Curabitur id felis nibh.Aliquam eu libero nec ante dictum malesuada. Morbi luctus viverra lectus. Sed nec congue augue. Maecenas quis odio non ipsum mattis fermentum. Etiam malesuada ut ante sed iaculis. In vel pretium libero. Pellentesque nisl nibh, fringilla sed nisi ut, aliquam tempus ligula. Suspendisse sollicitudin nisi ut augue mollis ultrices. Suspendisse aliquet at lacus non dignissim. Aliquam erat volutpat. Aenean convallis velit quis sapien dapibus fermentum. Ut eget gravida diam. Nulla sed lacus enim. Nullam tempus sollicitudin magna, at consequat mauris volutpat et. Cras venenatis dignissim fringilla.',
-    date: '102 de Agosto, 20223',
+      'https://i.imgur.com/uDz3VqV.png',
+    titulo: '',
+    subtitulo: '',
+    texto: <img width='75%' src='https://aefip.org.ar/images/COMUNICADOS/2022/05_12_2022.jpeg'></img> 
+      ,
+    date: '16 de Mayo, 2022',
   },
-  {
-    id: 4,
-    title: 'ACUERDO PARITARIO 2021',
-    thumbnail:
-      'https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280',
-    titulo: 'Nuestros afiliados disfrutan de estos beneficios',
-    subtitulo: 'Lorem ipsum dolor sit amet',
-    texto:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tempus ullamcorper tellus, a egestas enim sagittis sed. In ultricies purus sem, vel varius enim facilisis nec. Sed pretium a ante ac consectetur. Sed suscipit dolor enim, sed viverra neque egestas nec. Nullam ut leo tempus, vehicula quam quis, feugiat velit. Vestibulum interdum, mi id pharetra facilisis, arcu enim fermentum felis, quis pharetra leo urna molestie felis. Cras a massa quis augue porta convallis id vel ligula. Curabitur varius porttitor arcu. Fusce egestas tincidunt feugiat. Aliquam at dui eros.Vestibulum risus lorem, venenatis id nisi et, rutrum commodo sem. Aenean ut urna vel est ultrices ultrices. Aenean in mauris eu justo interdum porta. Donec suscipit enim nec volutpat maximus. Maecenas finibus eu odio quis congue. Nullam eget mollis massa. Nunc a lacinia libero, at feugiat sapien. Maecenas fringilla libero et odio vulputate, sit amet euismod mi bibendum. Pellentesque consequat velit vitae accumsan commodo. Ut orci sem, ornare ut vulputate et, convallis in mi. Suspendisse vel est at sapien molestie luctus eget non lectus. Donec a suscipit sem, ac hendrerit ligula. Cras consectetur pulvinar nisl, eu volutpat metus cursus pharetra. Curabitur id felis nibh.Aliquam eu libero nec ante dictum malesuada. Morbi luctus viverra lectus. Sed nec congue augue. Maecenas quis odio non ipsum mattis fermentum. Etiam malesuada ut ante sed iaculis. In vel pretium libero. Pellentesque nisl nibh, fringilla sed nisi ut, aliquam tempus ligula. Suspendisse sollicitudin nisi ut augue mollis ultrices. Suspendisse aliquet at lacus non dignissim. Aliquam erat volutpat. Aenean convallis velit quis sapien dapibus fermentum. Ut eget gravida diam. Nulla sed lacus enim. Nullam tempus sollicitudin magna, at consequat mauris volutpat et. Cras venenatis dignissim fringilla.',
-    date: '102 de Agosto, 20223',
-  },
-  {
-    id: 5,
-    title: 'SEGUNDA REUNION POR NEGOCIACION PARITARIA',
-    thumbnail:
-      'https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280',
-    titulo: 'Nuestros afiliados disfrutan de estos beneficios',
-    subtitulo: 'Lorem ipsum dolor sit amet',
-    texto:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tempus ullamcorper tellus, a egestas enim sagittis sed. In ultricies purus sem, vel varius enim facilisis nec. Sed pretium a ante ac consectetur. Sed suscipit dolor enim, sed viverra neque egestas nec. Nullam ut leo tempus, vehicula quam quis, feugiat velit. Vestibulum interdum, mi id pharetra facilisis, arcu enim fermentum felis, quis pharetra leo urna molestie felis. Cras a massa quis augue porta convallis id vel ligula. Curabitur varius porttitor arcu. Fusce egestas tincidunt feugiat. Aliquam at dui eros.Vestibulum risus lorem, venenatis id nisi et, rutrum commodo sem. Aenean ut urna vel est ultrices ultrices. Aenean in mauris eu justo interdum porta. Donec suscipit enim nec volutpat maximus. Maecenas finibus eu odio quis congue. Nullam eget mollis massa. Nunc a lacinia libero, at feugiat sapien. Maecenas fringilla libero et odio vulputate, sit amet euismod mi bibendum. Pellentesque consequat velit vitae accumsan commodo. Ut orci sem, ornare ut vulputate et, convallis in mi. Suspendisse vel est at sapien molestie luctus eget non lectus. Donec a suscipit sem, ac hendrerit ligula. Cras consectetur pulvinar nisl, eu volutpat metus cursus pharetra. Curabitur id felis nibh.Aliquam eu libero nec ante dictum malesuada. Morbi luctus viverra lectus. Sed nec congue augue. Maecenas quis odio non ipsum mattis fermentum. Etiam malesuada ut ante sed iaculis. In vel pretium libero. Pellentesque nisl nibh, fringilla sed nisi ut, aliquam tempus ligula. Suspendisse sollicitudin nisi ut augue mollis ultrices. Suspendisse aliquet at lacus non dignissim. Aliquam erat volutpat. Aenean convallis velit quis sapien dapibus fermentum. Ut eget gravida diam. Nulla sed lacus enim. Nullam tempus sollicitudin magna, at consequat mauris volutpat et. Cras venenatis dignissim fringilla.',
-    date: '102 de Agosto, 20223',
-  },
-  {
-    id: 6,
-    title: 'OPERATIVO VACUNACION DE PERSONAL',
-    thumbnail:
-      'https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280',
-    titulo: 'Nuestros afiliados disfrutan de estos beneficios',
-    subtitulo: 'Lorem ipsum dolor sit amet',
-    texto:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tempus ullamcorper tellus, a egestas enim sagittis sed. In ultricies purus sem, vel varius enim facilisis nec. Sed pretium a ante ac consectetur. Sed suscipit dolor enim, sed viverra neque egestas nec. Nullam ut leo tempus, vehicula quam quis, feugiat velit. Vestibulum interdum, mi id pharetra facilisis, arcu enim fermentum felis, quis pharetra leo urna molestie felis. Cras a massa quis augue porta convallis id vel ligula. Curabitur varius porttitor arcu. Fusce egestas tincidunt feugiat. Aliquam at dui eros.Vestibulum risus lorem, venenatis id nisi et, rutrum commodo sem. Aenean ut urna vel est ultrices ultrices. Aenean in mauris eu justo interdum porta. Donec suscipit enim nec volutpat maximus. Maecenas finibus eu odio quis congue. Nullam eget mollis massa. Nunc a lacinia libero, at feugiat sapien. Maecenas fringilla libero et odio vulputate, sit amet euismod mi bibendum. Pellentesque consequat velit vitae accumsan commodo. Ut orci sem, ornare ut vulputate et, convallis in mi. Suspendisse vel est at sapien molestie luctus eget non lectus. Donec a suscipit sem, ac hendrerit ligula. Cras consectetur pulvinar nisl, eu volutpat metus cursus pharetra. Curabitur id felis nibh.Aliquam eu libero nec ante dictum malesuada. Morbi luctus viverra lectus. Sed nec congue augue. Maecenas quis odio non ipsum mattis fermentum. Etiam malesuada ut ante sed iaculis. In vel pretium libero. Pellentesque nisl nibh, fringilla sed nisi ut, aliquam tempus ligula. Suspendisse sollicitudin nisi ut augue mollis ultrices. Suspendisse aliquet at lacus non dignissim. Aliquam erat volutpat. Aenean convallis velit quis sapien dapibus fermentum. Ut eget gravida diam. Nulla sed lacus enim. Nullam tempus sollicitudin magna, at consequat mauris volutpat et. Cras venenatis dignissim fringilla.',
-    date: '102 de Agosto, 20223',
-  },
-  {
-    id: 7,
-    title: 'OPERATIVO VACUNACION DE PERSONAL',
-    thumbnail:
-      'https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280',
-    titulo: 'Nuestros afiliados disfrutan de estos beneficios',
-    subtitulo: 'Lorem ipsum dolor sit amet',
-    texto:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tempus ullamcorper tellus, a egestas enim sagittis sed. In ultricies purus sem, vel varius enim facilisis nec. Sed pretium a ante ac consectetur. Sed suscipit dolor enim, sed viverra neque egestas nec. Nullam ut leo tempus, vehicula quam quis, feugiat velit. Vestibulum interdum, mi id pharetra facilisis, arcu enim fermentum felis, quis pharetra leo urna molestie felis. Cras a massa quis augue porta convallis id vel ligula. Curabitur varius porttitor arcu. Fusce egestas tincidunt feugiat. Aliquam at dui eros.Vestibulum risus lorem, venenatis id nisi et, rutrum commodo sem. Aenean ut urna vel est ultrices ultrices. Aenean in mauris eu justo interdum porta. Donec suscipit enim nec volutpat maximus. Maecenas finibus eu odio quis congue. Nullam eget mollis massa. Nunc a lacinia libero, at feugiat sapien. Maecenas fringilla libero et odio vulputate, sit amet euismod mi bibendum. Pellentesque consequat velit vitae accumsan commodo. Ut orci sem, ornare ut vulputate et, convallis in mi. Suspendisse vel est at sapien molestie luctus eget non lectus. Donec a suscipit sem, ac hendrerit ligula. Cras consectetur pulvinar nisl, eu volutpat metus cursus pharetra. Curabitur id felis nibh.Aliquam eu libero nec ante dictum malesuada. Morbi luctus viverra lectus. Sed nec congue augue. Maecenas quis odio non ipsum mattis fermentum. Etiam malesuada ut ante sed iaculis. In vel pretium libero. Pellentesque nisl nibh, fringilla sed nisi ut, aliquam tempus ligula. Suspendisse sollicitudin nisi ut augue mollis ultrices. Suspendisse aliquet at lacus non dignissim. Aliquam erat volutpat. Aenean convallis velit quis sapien dapibus fermentum. Ut eget gravida diam. Nulla sed lacus enim. Nullam tempus sollicitudin magna, at consequat mauris volutpat et. Cras venenatis dignissim fringilla.',
-    date: '102 de Agosto, 20223',
-  },
-  {
-    id: 8,
-    title: 'OPERATIVO VACUNACION DE PERSONAL',
-    thumbnail:
-      'https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280',
-    titulo: 'Nuestros afiliados disfrutan de estos beneficios',
-    subtitulo: 'Lorem ipsum dolor sit amet',
-    texto:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tempus ullamcorper tellus, a egestas enim sagittis sed. In ultricies purus sem, vel varius enim facilisis nec. Sed pretium a ante ac consectetur. Sed suscipit dolor enim, sed viverra neque egestas nec. Nullam ut leo tempus, vehicula quam quis, feugiat velit. Vestibulum interdum, mi id pharetra facilisis, arcu enim fermentum felis, quis pharetra leo urna molestie felis. Cras a massa quis augue porta convallis id vel ligula. Curabitur varius porttitor arcu. Fusce egestas tincidunt feugiat. Aliquam at dui eros.Vestibulum risus lorem, venenatis id nisi et, rutrum commodo sem. Aenean ut urna vel est ultrices ultrices. Aenean in mauris eu justo interdum porta. Donec suscipit enim nec volutpat maximus. Maecenas finibus eu odio quis congue. Nullam eget mollis massa. Nunc a lacinia libero, at feugiat sapien. Maecenas fringilla libero et odio vulputate, sit amet euismod mi bibendum. Pellentesque consequat velit vitae accumsan commodo. Ut orci sem, ornare ut vulputate et, convallis in mi. Suspendisse vel est at sapien molestie luctus eget non lectus. Donec a suscipit sem, ac hendrerit ligula. Cras consectetur pulvinar nisl, eu volutpat metus cursus pharetra. Curabitur id felis nibh.Aliquam eu libero nec ante dictum malesuada. Morbi luctus viverra lectus. Sed nec congue augue. Maecenas quis odio non ipsum mattis fermentum. Etiam malesuada ut ante sed iaculis. In vel pretium libero. Pellentesque nisl nibh, fringilla sed nisi ut, aliquam tempus ligula. Suspendisse sollicitudin nisi ut augue mollis ultrices. Suspendisse aliquet at lacus non dignissim. Aliquam erat volutpat. Aenean convallis velit quis sapien dapibus fermentum. Ut eget gravida diam. Nulla sed lacus enim. Nullam tempus sollicitudin magna, at consequat mauris volutpat et. Cras venenatis dignissim fringilla.',
-    date: '102 de Agosto, 20223',
-  },
+ 
 ];
 
 export const dataNoticiasMesa = [
@@ -471,8 +407,8 @@ export const dataNoticiasMesa = [
 
 export const photos = [
   {
-    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/269553104_1341086366337291_4659774838717284170_n.jpg?_nc_cat=100&ccb=1-6&_nc_sid=0debeb&_nc_eui2=AeFxjVeJemSM0NgzA5KsYg_zm1MJprPD4ESbUwmms8PgRHRzOlEseaMN73_vBjaqITq8WrQ4YymBazFESmynT4Cm&_nc_ohc=RzK1wC5DYB8AX_qpmaf&_nc_oc=AQn2QZjpKscLZONNZQplhbey7nPdwPZay6At7kYzP4f610X7IUBtW23ZbfkzPAgu9ys&_nc_ht=scontent.faep7-1.fna&oh=00_AT-tjjWGR-bSUg_6IbZKI81PhibmOkgkslestRID29PHXQ&oe=62817E52",
-    width: 4,
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.18169-9/11162473_1616429731925868_6878169976450705560_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE6i0ju7g3jC4SSI1Mgw0YGe_IJUkj_6Bp78glSSP_oGusU0Jj6usBIKgb9XBjyOWvKsykQhkc6gr6bRzIcWPRH&_nc_ohc=Uknzz4flxKAAX8UCEBP&_nc_ht=scontent.faep7-1.fna&oh=00_AT8eHjXDNAetLEc_JebZDxmI02HmQ0jAGYEzvgF-VH502g&oe=62ADAB2E",
+    width: 2,
     height: 2
   },
   {
@@ -496,19 +432,19 @@ export const photos = [
     height: 1
   },
   {
-    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/279312336_1131615141019604_2060125132263970542_n.jpg?_nc_cat=101&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeEqdyieXLpsISHHVa7oESpERg4ZkwhAJIVGDhmTCEAkhe9TF4bQlwD9YPJHVgxuJb8i3kZMhFGjRXnz-C-rwFPJ&_nc_ohc=sYml0x80IFcAX9M5r9X&_nc_ht=scontent.faep7-1.fna&oh=00_AT8DqDAU2lm1emenYnEzHUqsAgbPxloNCME_Ku2Kz-4uAA&oe=6287EE48",
-    width: 1,
-    height: 1
-  },
-  {
-    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/279294075_1131611771019941_2459122917700796518_n.jpg?_nc_cat=108&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeEPIMtr3g-Yx-we0ml8RH9VfcF_phX09Q99wX-mFfT1D5TyLkArbzVwzxtfw9vqjDihXty_ecXSJS0D8plQLTb4&_nc_ohc=hNyUWGuANCwAX8Smk72&_nc_ht=scontent.faep7-1.fna&oh=00_AT-IapI0vF05D66Jg43Y6vsxzchcCkEi0EfP8FsmdqwwAQ&oe=6288B4AA",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/60165935_656125451500056_5470646646897377280_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=cdbe9c&_nc_eui2=AeHlSzxv9216-s5PfNsPdK3sOgHs5pBta2c6AezmkG1rZzoWfuU3w2ATLb7eVWS-7Iaf9wxtI-J8sUsTmo9Ta41A&_nc_ohc=Jda6ZAAsKgUAX8EAQB-&_nc_ht=scontent.faep7-1.fna&oh=00_AT8JppbZg2xelTnIROia_UAcp48B46TwS64TOyOtZ2JiFA&oe=62AD5F50",
     width: 2,
     height: 2
   },
   {
-    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/278025135_1115763232604795_6307251722278410834_n.jpg?_nc_cat=101&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeG1AyMEdnM43gj9yYPH0tA1DLrGOC7QNa0MusY4LtA1rbGaOkQu6BQlNaBUN3XUtscSUAaWVKN1MQDrMk-Oadla&_nc_ohc=VLNm-8ZcZGQAX84wd72&_nc_ht=scontent.faep7-1.fna&oh=00_AT_UtSuO3vyCsZQDvsOHEQrZXjOu6BVnZmHufwzOyCHSBg&oe=6288FC60",
-    width: 10,
-    height: 4
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/79299669_798862027226397_6705539328925237248_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cdbe9c&_nc_eui2=AeG66kNekzmppW26uFzLKYnhGIqpiEqGRxwYiqmISoZHHK4wqtrnhFl-NzegYSEcaOVyEUwG0IVJJfGRb7SsZ7ZN&_nc_ohc=pN9aDAU3trQAX8ULvCm&_nc_ht=scontent.faep7-1.fna&oh=00_AT_vB0f-Yb73GohFYmu8Mk8oFjLq8lFvxMYo7KDZ4Dixlw&oe=62AEB5CB",
+    width: 1,
+    height: 1
+  },
+  {
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/278101388_1115763342604784_4825300053284656328_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGj6zYICg37iT5FQuFgPLOl1kM8gbwVHezWQzyBvBUd7E-VRqKcaEnnNnTx5WUz6JYuDoyzTzRbkFms342RnRfA&_nc_ohc=dy_DXXIDDkUAX8IUewd&_nc_ht=scontent.faep7-1.fna&oh=00_AT9CPhRfkYEh4nvUfjb_hYIdWCBXlsvJLmqMJtJwv3RlBw&oe=628C5A3E",
+    width: 1,
+    height: 1
   },
   {
     src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/272956220_1081742882673497_2332403940775858762_n.jpg?_nc_cat=104&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeHuVO4qyavtAp9jUoeVhio2ypKsoBEKXv7KkqygEQpe_hvIf8Dgw1jBBPtDw2ubPUyvItNpcfdfr76hDLZKn9ET&_nc_ohc=izHZRT-OrVAAX-6iVPc&_nc_ht=scontent.faep7-1.fna&oh=00_AT_xTTFwK9C8hlAKaWMBabIoKc-2EKJ_KNSVXWYtB2ZbNQ&oe=6289089F",
@@ -516,24 +452,24 @@ export const photos = [
     height: 3
   },
   {
-    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/272980592_1081734479341004_7730703725595854594_n.jpg?_nc_cat=105&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeENfgZ_gNsP_4ZEFEcSUeFvIrhy86-xAIIiuHLzr7EAglRinupvx-pr8Ud207Wn8jfmHqL5BwoskJ4cW23sbOHv&_nc_ohc=g8zjwvOS5W0AX_XQ5Fl&_nc_oc=AQl8958oEew0mf0Roa2zxP1dp2o_bevTCMJB15p2JNaBW4x4gC08Wps3Zki0HDQEGWQ&_nc_ht=scontent.faep7-1.fna&oh=00_AT__rgL0AIyhxHlU2X26Pb8WorP_cvdaW9zVco4l1dBKSg&oe=6288A76D",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/272965530_1077642889750163_3753381084762057710_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeH85I02GMMeRElPNmJ9EEdz6q6VVD8nMljqrpVUPycyWLnWISI51S1Pc8zhj6u7L65k6wem1V3LhnQ2N0okvQ6E&_nc_ohc=ZL-ter4smloAX9_AxzP&_nc_ht=scontent.faep7-1.fna&oh=00_AT-6-0gNIfEj2cCcNts3bPVf_nVf89OR-vgr0FdELrPhUg&oe=628C962E",
     width: 1,
     height: 1
   },
   {
-    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/273199608_1075723633275422_1204429465929428588_n.jpg?_nc_cat=111&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeEFraimIIlkd1u_JpYtmAIOn5BDj7wup2qfkEOPvC6najdJWKUtcrnOwaOiRzAtC408Qq_6NzNowd05iI_Kk-4f&_nc_ohc=katZ5w4whfIAX-R0bw5&_nc_ht=scontent.faep7-1.fna&oh=00_AT_thySqtR-crP56bMSigMUelU8rLEBFEDT7CM0JDrnSpw&oe=62887283",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/268965855_1049407555907030_8800929283089373789_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFKqXIxXstCbT63sbi8Kcu4srGyV8PTOKOysbJXw9M4o1zQk1fnoXsglRdTI08qW2EX7vwqeUFDkcrhxZXycpTz&_nc_ohc=jV1bHeT7-9YAX_gOXtQ&_nc_ht=scontent.faep7-1.fna&oh=00_AT_q_iLjOmWh_gsueIz45AmVH0u60CmuQ6yk9smCRW9uOg&oe=628D5211",
     width: 2,
     height: 2
   },
   {
     src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/271211470_1057296998451419_3003477749336207128_n.jpg?_nc_cat=109&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeFTKCqg9G5OOht4FaQRAEqKcvYTBGLyEJly9hMEYvIQmaSzUoDSFfaplt2ImM7btopn9lzlhd0jPC8I8JP3sRmG&_nc_ohc=l8Wl4bdtUdIAX_HMaJn&_nc_ht=scontent.faep7-1.fna&oh=00_AT8F0rfCbcaRzDUYAlwqAeTtTrSqtjkhXx16chjV-ceD0A&oe=62897511",
-    width: 4,
-    height: 3
+    width: 2,
+    height: 2
   },
   {
     src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/242198928_990578578456595_583811814123958519_n.jpg?_nc_cat=110&ccb=1-6&_nc_sid=730e14&_nc_eui2=AeGk3l6p14tMAp9jYgq8Fr6104cB_h9rmrfThwH-H2uat5aqv54LUXz6w9KZaKYbCnj4IeRRQ_dcRKXCicz8ytYz&_nc_ohc=s2VwnDW4ofMAX8ibCDH&tn=LryXJ_9wP_-TvCqU&_nc_ht=scontent.faep7-1.fna&oh=00_AT9J3MQZ5Z-IKiFfx_YzT0YT_c3LBQZHgcabOMCv4JktcA&oe=6288487B",
-    width: 4,
-    height: 3
+    width: 2,
+    height: 1
   },
   {
     src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/223221105_950744455773341_6861026971906533719_n.jpg?_nc_cat=111&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeFzXlfQgOAO015bOuDxjR6oBo4xhYEJCg8GjjGFgQkKD2RjqYcYNKzG4ZbQNHbmUIvTOBzdvmZWKWO4E9L_Qu3P&_nc_ohc=2kmHzXEMw1kAX-ZfV-9&_nc_ht=scontent.faep7-1.fna&oh=00_AT84tAdsTBn9r_Ia-A-dI7HvQRccMGVtUGtm-5ypyN0b3A&oe=628848CD",
@@ -566,7 +502,7 @@ export const photos = [
     height: 3
   },
   {
-    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/164129949_876880806493040_3905323353294911489_n.jpg?_nc_cat=110&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeEhvjLSBllc8HWtkhrvaJdiyGgRMzJTIaXIaBEzMlMhpXPxnPAHy9kVmBHA6QtmzO408y5lsfuZ9Lu_w8MdnKSI&_nc_ohc=chua4Z9whJQAX_dbGS_&_nc_ht=scontent.faep7-1.fna&oh=00_AT-gQjUHNK9GMUE2HqBMjAl7w8VLhIIYcped8GovGLfbPg&oe=62A8CE5A",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/278227303_1117666802414438_849494515284360152_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeEYisVvAtVIxRwa2NOKbplMmKfGQ21cV-2Yp8ZDbVxX7YZ4TWUz7K5yQcYdFThIYpTbA_474c9rrtSyx5jo-XAy&_nc_ohc=TxhSCp0RwjwAX-k08XK&_nc_ht=scontent.faep7-1.fna&oh=00_AT94Is5f3who0_ERUcmd__qaCL86V4fIsqmyTmKpnodo2Q&oe=628C7C25",
     width: 5,
     height: 6
   },
@@ -574,29 +510,36 @@ export const photos = [
     src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/164293356_876880783159709_5799478478660642378_n.jpg?_nc_cat=102&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeGEgpWapSWpQr1pbBE7OLxS9jogsZ31gpT2OiCxnfWClPSjrAR-Sd-zW_8WVoq9SeK4vFAExbN82fY8L2JscdkS&_nc_ohc=Y0u5JBG7Ub8AX95cOMd&_nc_ht=scontent.faep7-1.fna&oh=00_AT8DTpC7_hCD1W8jA_t5ALNoak6IYVtbX7D_0Iw8wzOokQ&oe=62A7D522",
     width: 10,
     height: 6
-  },  
+  },
+  {
+    src: "https://i.imgur.com/Y5Nzz55.png",
+    width: 10,
+    height: 6
+  },    
+
+  
 
 ];
 
 
 export const photosServiciosMollar = [
   {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/133182811_826063868241401_6068563398621084171_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGgWN8j7NX3BGz2QicS8IqGILfKakAdNwQgt8pqQB03BHmQ63U6ectuJ7oeJb_2oAADDkedkbXAox-c1alU2pwx&_nc_ohc=cgBVJ2VGUXgAX8YQb_s&_nc_ht=scontent.faep7-1.fna&oh=00_AT9d91Au8K2ZVbtAqXnIloE3Ido4s0T-OQ2vTve7VkSq6Q&oe=62AC3796",
     width: 1,
     height: 1
   },
   {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/138346697_834354324079022_941313134606046863_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGtWEhuQ8gq5duTsL6Bj9qQ2x8wPhAlZKfbHzA-ECVkp4iyeiljVRQImdYeZME2P-vKGEuiRkjoRAaEqxJcCcTQ&_nc_ohc=y7FGqafxf30AX8Fz6Aw&_nc_ht=scontent.faep7-1.fna&oh=00_AT8XYIBUkKJWYL4uC3vAy5U8wEJZxuYwYPvsDRUM6MQoBQ&oe=62AC87D8",
     width: 0,
     height: 0
   },
   {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/137348179_834354434079011_3901741534237519203_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFfyTZIY5waLjIHuzMderxY2GkJzv1RBULYaQnO_VEFQq61MPidKyBRxWptDgGPmtfsjOZ5qkwO_CqFGgbN37AL&_nc_ohc=cTLTrDTB2kYAX8cG5hz&_nc_ht=scontent.faep7-1.fna&oh=00_AT-ClFM1qq71a41Rt7nf84-9bxtK1uRB-ZdRiKhn5Si4Xg&oe=62AC508C",
     width: 0,
     height: 0
   },
   {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/137216223_834354454079009_5365317438419953413_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFmMDUj4A6qyUrHp8ebRea6L0_z69fKBfgvT_Pr18oF-K23p8-6SWUrQZx4ESp3hRLdPpM2eKxoRAKKDGPviBWu&_nc_ohc=5l8A90lXrJcAX8-XjbZ&tn=LryXJ_9wP_-TvCqU&_nc_ht=scontent.faep7-1.fna&oh=00_AT_Wz7pOSs6vls_KSvMRDs1qDtHOqd-UkXTH1tze0t18kQ&oe=62AC62A6",
     width: 0,
     height: 0
   },
@@ -667,7 +610,7 @@ export const photosServiciosAzucena = [
     height: 1
   }, 
   {
-    src: "",
+    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/124413055_792816168232838_6978802438471234602_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGCySlxtHavvoAvH2Biu85UO_-7f0onk_U7_7t_SieT9UcAkJB3hOAlzVUf3PAvurorE-iHw_8JMR95i_I-i4A4&_nc_ohc=8fL2E_Qjne8AX8ko2EA&_nc_ht=scontent.faep7-1.fna&oh=00_AT-75AHud9rJ8_lZ5nGjZGqGoDnDPogY7uDEsO-j0AHcxg&oe=62AE6026",
     width: 1,
     height: 1
   }, 
