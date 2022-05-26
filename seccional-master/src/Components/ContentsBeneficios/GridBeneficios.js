@@ -47,14 +47,17 @@ const useStyles = makeStyles((theme) => ({
     boxShadow: '2px 2px 5px 2px #888888',
     '&:hover': {       
       transition: 'transform .5s',
-      transform: 'scale(1.2)',
-      
+      transform: 'scale(1.2)',      
     },
 
   },
   img: {
     padding: theme.spacing(0),
     height: '100%',
+    '&:hover': {       
+      transition: 'transform .5s',
+      transform: 'scale(0.95)',      
+    },
    
   },
   popover: {},

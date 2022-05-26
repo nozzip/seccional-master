@@ -26,17 +26,24 @@ const useStyles = makeStyles((theme) => ({
         outline: '1px solid orange',
         borderRadius: '20px',
       },
+      '*::-webkit-scrollbar-track-piece:end': {
+        background: 'transparent',
+        marginBottom: '30px',
+    },
+    '*::-webkit-scrollbar-track-piece:start': {
+      background: 'transparent',
+      marginTop: '30px',
+  },
     },
   },
 
-  card: {
+  card: {    
     height: '210px',
   },
 
   card2: {
     display: 'flex',
     flexDirection: 'column',
-
     borderRight: '3px solid orange',
     borderRadius: '10px',
     height: '210px',
@@ -51,9 +58,8 @@ const useStyles = makeStyles((theme) => ({
     fontSize: '3vw',
   },
 
-  subtitulo: {
-    marginLeft: theme.spacing(1),
-    marginRight: theme.spacing(1),
+  subtitulo: {    
+    margin: theme.spacing(0, 1, 2, 1),
     fontFamily: 'Trebuchet MS',
     fontWeight: '800',
   },
@@ -88,17 +94,22 @@ function Mollar() {
               align="center"
               className={classes.subtitulo}
             >
-              San Miguel de Tucumán, Tucumán
+              El Mollar, Tucumán - Tel:{' '}
+              <a href="https://wa.me/+5493816844462" target="_blank">
+                <WhatsAppIcon style={{ fontSize: '20px', color: '#25D366' }} />
+              </a>
+              / 381 435-2805
             </Typography>
             <Typography
               variant="body2"
               align="center"
               className={classes.texto}
             >
-              Ofrecemos a nuestros afiliados un lugar donde pueden disfrutar de
-              pileta climatizada, paddle, futbol 5, etc
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s, when an unknown
               <br />
-              {'Numero de contacto: 382248788 '}
+              {'Lorem Ipsum is simply dummy text of the printing and typesetting              industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown'}
             </Typography>
           </Card>
         </Grid>
@@ -122,24 +133,29 @@ export function SanLorenzo() {
         <Grid item xs={8} md={8}>
           <Card className={classes.card2}>
             <Typography variant="h5" align="center" className={classes.titulo}>
-              San Lorenzo
+              SAN LORENZO
             </Typography>
             <Typography
               variant="subtitle1"
               align="center"
               className={classes.subtitulo}
             >
-              San Lorenzo, Salta
+              San Lorenzo, Salta - Tel:{' '}
+              <a href="https://wa.me/+5493816844462" target="_blank">
+                <WhatsAppIcon style={{ fontSize: '20px', color: '#25D366' }} />
+              </a>
+              / 381 435-2805
             </Typography>
             <Typography
               variant="body2"
-              align="center"
+              align="left"
               className={classes.texto}
             >
-              Ofrecemos a nuestros afiliados un lugar donde pueden disfrutar de
-              pileta climatizada, paddle, futbol 5, etc
+             Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s, when an unknown
               <br />
-              {'Numero de contacto: 255755784 '}
+              {'Lorem Ipsum is simply dummy text of the printing and typesetting              industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown'}
             </Typography>
           </Card>
         </Grid>
