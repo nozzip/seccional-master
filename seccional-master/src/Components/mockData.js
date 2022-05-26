@@ -358,7 +358,7 @@ export const dataNoticias = [
       'https://i.imgur.com/uDz3VqV.png',
     titulo: '',
     subtitulo: '',
-    texto: <img width='75%' src='https://aefip.org.ar/images/COMUNICADOS/2022/05_16_2022_comunicado.png'></img> 
+    texto: <img width='75%' src='https://aefip.org.ar/images/COMUNICADOS/2022/05_16_2022_comunicado.png'></img>
       ,
     date: '16 de Mayo, 2022',
   },
@@ -370,11 +370,11 @@ export const dataNoticias = [
       'https://i.imgur.com/uDz3VqV.png',
     titulo: '',
     subtitulo: '',
-    texto: <img width='75%' src='https://aefip.org.ar/images/COMUNICADOS/2022/05_12_2022.jpeg'></img> 
+    texto: <img width='75%' src='https://aefip.org.ar/images/COMUNICADOS/2022/05_12_2022.jpeg'></img>
       ,
     date: '16 de Mayo, 2022',
   },
- 
+
 ];
 
 export const dataNoticiasMesa = [
@@ -515,9 +515,9 @@ export const photos = [
     src: "https://i.imgur.com/Y5Nzz55.png",
     width: 10,
     height: 6
-  },    
+  },
 
-  
+
 
 ];
 
@@ -575,30 +575,26 @@ export const photosServiciosSanLorenzo = [
     src: "http://donnumas.com.ar/wp-content/uploads/2020/12/dsc_6166-1.jpg",
     width: 0,
     height: 0
-  },  
+  },
 ];
 
 export const photosServiciosAzucena = [
   {
-    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/254552735_407883704152842_833389622039478071_n.jpg?_nc_cat=110&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeEdR_XAJtyYH9r4IGv0Z1I6DghTWLv8A6cOCFNYu_wDp_-lNR-2Jre3F000r4sgLZX8plJid-1v3YcfR4HCl_s9&_nc_ohc=Zv_LE8qk1UkAX_azEoB&_nc_ht=scontent.faep7-1.fna&oh=00_AT_XoR-xb3Zp7Bx7SjTiPbJiPwPpx8UU3NMdoBDpFOehJw&oe=6288877C",
+    src: "https://scontent.ftuc1-2.fna.fbcdn.net/v/t39.30808-6/254552735_407883704152842_833389622039478071_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE5e9SrwRD7ydODy6Yz1BP8DghTWLv8A6cOCFNYu_wDp9hJ4MkboybqKQesCCxfrrY&_nc_ohc=Y3WA4hF-2TAAX-sUybT&_nc_ht=scontent.ftuc1-2.fna&oh=00_AT8RfTeaSc3rVYabGs1pyIG1TomIP7S-WU9jyDZi_eKaTg&oe=629464FC",
     width: 1,
     height: 1
   },
   {
-    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/254552735_407883704152842_833389622039478071_n.jpg?_nc_cat=110&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeEdR_XAJtyYH9r4IGv0Z1I6DghTWLv8A6cOCFNYu_wDp_-lNR-2Jre3F000r4sgLZX8plJid-1v3YcfR4HCl_s9&_nc_ohc=Zv_LE8qk1UkAX_azEoB&_nc_ht=scontent.faep7-1.fna&oh=00_AT_XoR-xb3Zp7Bx7SjTiPbJiPwPpx8UU3NMdoBDpFOehJw&oe=6288877C",
+    src: "https://scontent.ftuc1-2.fna.fbcdn.net/v/t39.30808-6/254552735_407883704152842_833389622039478071_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE5e9SrwRD7ydODy6Yz1BP8DghTWLv8A6cOCFNYu_wDp9hJ4MkboybqKQesCCxfrrY&_nc_ohc=Y3WA4hF-2TAAX-sUybT&_nc_ht=scontent.ftuc1-2.fna&oh=00_AT8RfTeaSc3rVYabGs1pyIG1TomIP7S-WU9jyDZi_eKaTg&oe=629464FC",
     width: 1,
     height: 1
-  }, 
-  {
-    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t39.30808-6/272956605_1080835596097559_9151759775780527587_n.jpg?_nc_cat=103&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeHW2KmHcpGJOQ4peJsB4mR53stb0NxBiYfey1vQ3EGJh1i-99t1ZMUkAceaqzUV6s3cb-IddjKy-gsJyi5sra4b&_nc_ohc=ryBbSyFRTUYAX8Hco-s&tn=LryXJ_9wP_-TvCqU&_nc_ht=scontent.faep7-1.fna&oh=00_AT_iWp3qfpkOr6h_7Jco5wGCInZxJBwaRwxmUHeLR-vckg&oe=6288A081",
-    width: 1,
-    height: 1
-  },  
+  },
+
   {
     src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/182826302_292232395717974_1922318036092758223_n.jpg?_nc_cat=100&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeFOC6yKphi7ci7jQ577Is_0xFotQFY4pnPEWi1AVjimcy_mhQz4et7cd4OFATQmRW2D8nWIDq9Ge0lba_lnGglN&_nc_ohc=Rx-ufVOSUOYAX9RR71k&_nc_ht=scontent.faep7-1.fna&oh=00_AT89z7EsW2rkRy3irRjbb3P0lte-nMBbTCmUTva_0qwdAQ&oe=62A83F03",
     width: 1,
     height: 1
-  },  
+  },
   {
     src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/182575717_292232345717979_5057480786581940716_n.jpg?_nc_cat=110&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeFwEdZoV2TDkZk1_DAUTGhmUaNFyNBiJABRo0XI0GIkAJoUo-5Erj2vgZgOZWLhfsmaoHjdicaz2cIib1ErcWou&_nc_ohc=vw6NWrZuwrQAX8JxKYJ&_nc_ht=scontent.faep7-1.fna&oh=00_AT8ScoUQo8wfq8sUe07VxAsMgEIr1u3UDDcVCHAAh3eFOw&oe=62A9C916",
     width: 1,
@@ -608,20 +604,11 @@ export const photosServiciosAzucena = [
     src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/182524079_292232335717980_3762911808105202552_n.jpg?_nc_cat=108&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeFXyvixHyQmUg-YY3s6T-zMg848ZD9TJGeDzjxkP1MkZxadsvLcCnf8iJs18GEONDbRfTo515ZSBjj5V00gKeeV&_nc_ohc=TD4lccKf8N8AX_UWL2f&tn=LryXJ_9wP_-TvCqU&_nc_ht=scontent.faep7-1.fna&oh=00_AT8tGTGRdTm_9oWIVHRvi3mmYMETLB3FVCy0Ab16mTRZ-g&oe=62A7C7BE",
     width: 1,
     height: 1
-  }, 
+  },
   {
     src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/124413055_792816168232838_6978802438471234602_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGCySlxtHavvoAvH2Biu85UO_-7f0onk_U7_7t_SieT9UcAkJB3hOAlzVUf3PAvurorE-iHw_8JMR95i_I-i4A4&_nc_ohc=8fL2E_Qjne8AX8ko2EA&_nc_ht=scontent.faep7-1.fna&oh=00_AT-75AHud9rJ8_lZ5nGjZGqGoDnDPogY7uDEsO-j0AHcxg&oe=62AE6026",
     width: 1,
     height: 1
-  }, 
-  {
-    src: "",
-    width: 1,
-    height: 1
-  }, 
-  {
-    src: "",
-    width: 1,
-    height: 1
-  },    
+  },
+
 ];
