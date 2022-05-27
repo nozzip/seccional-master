@@ -37,7 +37,7 @@ const useStyles = makeStyles((theme) => ({
     },
   },
 
-  card: {    
+  card: {
     height: '210px',
   },
 
@@ -58,7 +58,7 @@ const useStyles = makeStyles((theme) => ({
     fontSize: '3vw',
   },
 
-  subtitulo: {    
+  subtitulo: {
     margin: theme.spacing(0, 1, 2, 1),
     fontFamily: 'Trebuchet MS',
     fontWeight: '800',
@@ -95,7 +95,7 @@ function Mollar() {
               className={classes.subtitulo}
             >
               El Mollar, Tucumán - Tel:{' '}
-              <a href="https://wa.me/+5493816844462" target="_blank">
+              <a href="https://wa.me/+5493816844462" target="_blank" rel="noreferrer">
                 <WhatsAppIcon style={{ fontSize: '20px', color: '#25D366' }} />
               </a>
               / 381 435-2805
@@ -140,8 +140,8 @@ export function SanLorenzo() {
               align="center"
               className={classes.subtitulo}
             >
-              San Lorenzo, Salta - Tel:{' '}
-              <a href="https://wa.me/+5493816844462" target="_blank">
+              San Lorenzo, Salta - Tel:
+              <a href="https://wa.me/+5493816844462" target="_blank" rel="noreferrer">
                 <WhatsAppIcon style={{ fontSize: '20px', color: '#25D366' }} />
               </a>
               / 381 435-2805
@@ -184,8 +184,8 @@ export function Azucena() {
               align="center"
               className={classes.subtitulo}
             >
-              Sarmiento 480, Yerba Buena, Tucumán - Tel:{' '}
-              <a href="https://wa.me/+5493816844462" target="_blank">
+              Sarmiento 480, Yerba Buena, Tucumán - Tel:
+              <a href="https://wa.me/+5493816844462" target="_blank" rel="noreferrer">
                 <WhatsAppIcon style={{ fontSize: '20px', color: '#25D366' }} />
               </a>
               / 381 435-2805

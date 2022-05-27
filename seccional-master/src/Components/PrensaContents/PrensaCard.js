@@ -7,8 +7,6 @@ import CardActions from '@material-ui/core/CardActions';
 import Collapse from '@material-ui/core/Collapse';
 import IconButton from '@material-ui/core/IconButton';
 import Typography from '@material-ui/core/Typography';
-import FavoriteIcon from '@material-ui/icons/Favorite';
-import ShareIcon from '@material-ui/icons/Share';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import { dataNoticias } from '../mockData';
 
@@ -17,7 +15,7 @@ const useStyles = makeStyles((theme) => ({
     display: 'flex',
     flexWrap: 'wrap',
     justifyContent: 'center',
-    width: '100%',    
+    width: '100%',
   },
 
   card: {
@@ -33,13 +31,13 @@ const useStyles = makeStyles((theme) => ({
     fontSize: '4vw',
   },
   cardcontent: {
-    display: 'flex',    
+    display: 'flex',
     flexDirection: 'column',
     justifyContent: 'center',
   },
 
   media: {
-    display:'flex',    
+    display:'flex',
     height: '200px',
     justifyContent:'center',
     objectFit: 'contain',
@@ -54,7 +52,7 @@ const useStyles = makeStyles((theme) => ({
     paddingBottom: theme.spacing(3),
   },
 
-  textocontent: {    
+  textocontent: {
     fontSize: '3vh',
     fontFamily: 'Helvetica',
     textIndent: '50px',
@@ -133,7 +131,7 @@ function Item(props) {
 
         <Collapse in={expanded} timeout="auto" unmountOnExit>
           <CardContent className={classes.cardcontent}>
-            <img className={classes.media} src={props.item.thumbnail} />
+            <img className={classes.media} src={props.item.thumbnail} alt='' />
             <Typography
               color="textPrimary"
               component="p"

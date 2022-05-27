@@ -1,8 +1,9 @@
 import { React, useEffect } from 'react';
-import { makeStyles, Grid, Typography, Paper } from '@material-ui/core';
+import { makeStyles, Grid, Typography } from '@material-ui/core';
 import Carusel from '../Components/ContentsFront/Carusel';
 import CardServicios from '../Components/ContentsFront/CardServicios';
 import CardNovedades from '../Components/ContentsFront/CardNovedades';
+import CardServiciosMesa from '../Components/ContentsFront/CardServiciosMesa';
 import { motion } from 'framer-motion';
 import CardNoticias from '../Components/ContentsFront/CardNoticias';
 import Layer1 from '../Components/Layer/Layer1';
@@ -277,18 +278,15 @@ function Inicio() {
                 initial="hidden"
                 animate="visible"
               >
-                <CardNovedades />                
+                <CardNovedades />
               </motion.div>
             </Grid>
-            
           </Grid>
-          
           <Grid item xs={12} className={classes.spacer2}>
             <Layer2 />
           </Grid>
         </Grid>
       </Grid>
-
       <Grid item xs={12} className={classes.sectionNoticiasfront}>
         <Grid item xs={12} className={classes.contenedorh1}>
           <Typography align="left" className={classes.h1Noticiasfront}>
@@ -308,7 +306,7 @@ function Inicio() {
       <Grid item xs={12} className={classes.section3}>
         <Grid item xs={12} className={classes.contenedorh1section3}>
           <Typography align="right" className={classes.h1section3}>
-            TURISMO
+
           </Typography>
         </Grid>
       </Grid>
@@ -321,9 +319,12 @@ function Inicio() {
           <Link to="/Servicios" style={{ textDecoration: 'none' }}>
             <CardServicios />
           </Link>
+          <a href='https://aefip.org.ar/index.php/beneficios' target='_blank' rel="noreferrer" style={{ textDecoration: 'none'}}>
+          <CardServiciosMesa />
+          </a>
         </motion.div>
       </Grid>
-      
+
     </>
   );
 }

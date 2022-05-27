@@ -283,22 +283,8 @@ export const dataServicios = [
     id: 3,
     title: 'SALON SAN LORENZO',
     thumbnail:
-      'https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280',
+      'https://i.ibb.co/r2nSZPz/image.png',
     short_description: 'Salta',
-  },
-  {
-    id: 4,
-    title: 'TURISMO NOROESTE',
-    thumbnail:
-      'https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280',
-    short_description: '',
-  },
-  {
-    id: 5,
-    title: 'TURISMO POR CONVENIO MESA',
-    thumbnail:
-      'https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280',
-    short_description: '',
   },
 ];
 
@@ -360,7 +346,7 @@ export const dataNoticias = [
       'https://i.imgur.com/uDz3VqV.png',
     titulo: '',
     subtitulo: '',
-    texto: <img width='75%' src='https://aefip.org.ar/images/COMUNICADOS/2022/05_16_2022_comunicado.png'></img>
+    texto: <img width='75%' src='https://aefip.org.ar/images/COMUNICADOS/2022/05_16_2022_comunicado.png' alt='banner comunicado'></img>
       ,
     date: '16 de Mayo, 2022',
   },
@@ -372,7 +358,7 @@ export const dataNoticias = [
       'https://i.imgur.com/uDz3VqV.png',
     titulo: '',
     subtitulo: '',
-    texto: <img width='75%' src='https://aefip.org.ar/images/COMUNICADOS/2022/05_12_2022.jpeg'></img>
+    texto: <img width='75%' src='https://aefip.org.ar/images/COMUNICADOS/2022/05_12_2022.jpeg' alt='banner comunicado'></img>
       ,
     date: '16 de Mayo, 2022',
   },
@@ -506,9 +492,9 @@ export const dataNoticias = [
     height: 1
   },
   {
-    src: "https://i.ibb.co/rFqBzpP/image.png",
+    src: "https://i.ibb.co/vVfNTd5/image.png",
     width: 1,
-    height: 1
+    height: 2
   },
   {
     src: "https://i.ibb.co/JkPgLXk/image.png",

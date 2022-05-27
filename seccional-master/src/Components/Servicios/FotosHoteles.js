@@ -2,22 +2,10 @@ import React, { useState, useCallback } from "react";
 import Gallery from "react-photo-gallery";
 import Carousel, { Modal, ModalGateway } from "react-images";
 import { photosServiciosMollar, photosServiciosSanLorenzo, photosServiciosAzucena } from "../mockData";
-import { makeStyles } from "@material-ui/core";
-
-
-
-const useStyles = makeStyles((theme) => ({
-
-  carousel:{
-    backgroundColor:'green',
-  },
-}));
-
 
 
 function ServiciosGaleriaMollar() {
 
-  const classes = useStyles();
   const [currentImage, setCurrentImage] = useState(0);
   const [viewerIsOpen, setViewerIsOpen] = useState(false);
 
@@ -56,7 +44,7 @@ export default ServiciosGaleriaMollar;
 
 export function GaleriaSanLorenzo() {
 
-  const classes = useStyles();
+
   const [currentImage, setCurrentImage] = useState(0);
   const [viewerIsOpen, setViewerIsOpen] = useState(false);
 
@@ -93,7 +81,7 @@ export function GaleriaSanLorenzo() {
 
 export function GaleriaAzucena() {
 
-  const classes = useStyles();
+
   const [currentImage, setCurrentImage] = useState(0);
   const [viewerIsOpen, setViewerIsOpen] = useState(false);
 

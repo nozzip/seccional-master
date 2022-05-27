@@ -2,7 +2,6 @@ import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import Grid from '@material-ui/core/Grid';
 import Paper from '@material-ui/core/Paper';
-import { dataServicios } from '../mockData';
 import { Typography } from '@material-ui/core';
 
 
@@ -34,13 +33,13 @@ const useStyles = makeStyles((theme) => ({
     '&:hover': {
       transform: 'scale(1.1)',
       transition: 'all 0.2s ease-out',
-      textShadow: '10px 10px 8px #a65137',
+      textShadow: '10px 10px 8px #263050',
     },
   },
   title: {
     fontFamily: 'Lato',
     fontWeight: 800,
-    fontSize: '7vw',
+    fontSize: '8vw',
   },
   text: {
     fontFamily: 'Lato',
@@ -49,39 +48,26 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-export default function CardServicios(props) {
+export default function CardServiciosMesa(props) {
   const classes = useStyles();
 
-  return (
-    <Grid xs={12} className={classes.grid}>
-      {dataServicios.map((item, i) => (
-        <Item key={i} item={item} />
-      ))}
-    </Grid>
-  );
-}
-
-function Item(props) {
-  const classes = useStyles();
   return (
     <Paper className={classes.paper}>
       <div
         className={classes.img}
         style={{
           backgroundImage: `linear-gradient(0deg, rgba(0, 0, 0, 0.3) 0%,
-            rgba(0, 0, 0, 0.6) 100%), url(${props.item.thumbnail})`,
-          backgroundSize: 'cover',
+            rgba(0, 0, 0, 0.6) 100%), url(https://aefip.org.ar/templates/yootheme/cache/logo_aefip_675-fe0737ab-b5b20375.png)`,
+          backgroundSize: 'auto',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',
+          backgroundColor:'#263050',
         }}
       >
         <Grid container>
           <Grid item xs={12} className={classes.contenedorTexto}>
             <Typography variant="h1" align="center" className={classes.title}>
-              {props.item.title}
-            </Typography>
-            <Typography variant="h2" align="center" className={classes.text}>
-              {props.item.short_description}
+              TURISMO CONVENIADO POR MESA
             </Typography>
           </Grid>
         </Grid>

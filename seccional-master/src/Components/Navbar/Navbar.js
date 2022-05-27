@@ -10,8 +10,7 @@ import { Grid, useTheme, useMediaQuery } from '@material-ui/core';
 import DrawerComponent from './Drawer';
 
 const useStyles = makeStyles((theme) => ({
-  root: {
-  },
+  root: {},
   barapp: {
     display: 'flex',
     flexDirection: 'row',
@@ -91,8 +90,6 @@ function Navbar(props) {
                   <Link to="/Galeria" style={{ textDecoration: 'none' }}>
                     <Button className={classes.button}>Galeria</Button>
                   </Link>
-
-
                 </div>
               )}
             </Toolbar>
@@ -105,11 +102,8 @@ function Navbar(props) {
 
 export default Navbar;
 
-{
-  /* <Link to="/iniciar-sesion" style={{ textDecoration: 'none' }}>
+/* <Link to="/iniciar-sesion" style={{ textDecoration: 'none' }}>
               <Button className={classes.button}>Iniciar Sesión</Button>
             </Link> */
-}
-{
-  /* <DropDown /> */
-}
+
+/* <DropDown /> */

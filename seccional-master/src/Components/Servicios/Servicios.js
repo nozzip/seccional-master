@@ -33,13 +33,13 @@ function Servicios() {
         <SanLorenzo />
       </Grid>
       <Grid item xs={12} className={classes.card1}>
-        
+
       </Grid>
       <Grid item xs={12} className={classes.card1}>
-        
+
       </Grid>
       <Grid item xs={12} className={classes.card1}>
-        
+
       </Grid>
     </Grid>
   );
@@ -47,6 +47,5 @@ function Servicios() {
 
 export default Servicios;
 
-{
+
   /* <ServiciosGaleria /> */
-}

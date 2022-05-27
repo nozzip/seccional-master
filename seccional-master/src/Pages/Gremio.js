@@ -138,8 +138,8 @@ const useStyles = makeStyles((theme) => ({
 
   button: {
     color: 'orange',
-    '&:hover': {            
-      transition: 'all 0.3s ease-out',      
+    '&:hover': {
+      transition: 'all 0.3s ease-out',
     },
   },
 }));
@@ -154,7 +154,7 @@ function Gremio() {
           <CardMedia
             className={classes.image}
             component="img"
-            image="https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280"
+            image="https://media.istockphoto.com/vectors/user-icon-flat-isolated-on-white-background-user-symbol-vector-vector-id1300845620?k=20&m=1300845620&s=612x612&w=0&h=f4XTZDAv7NPuZbG0habSpU0sNgECM0X7nbKzTUta3n8="
           />
           <CardContent className={classes.cardcontent}>
             <Typography className={classes.texto}>DARUIS MIGUEL</Typography>
@@ -411,6 +411,7 @@ function Gremio() {
             <a
               href="https://aefip.org.ar/images/documentos/AEFIP_Mesa_Directiva_Nacional_-_Convenio_Colectivo_de_Trabajo_CCT.pdf"
               target="_blank"
+              rel="noreferrer"
               style={{ textDecoration: 'none', color: 'inherit' }}
             >
               CONVENIO COLECTIVO DE TRABAJO (PDF
@@ -425,6 +426,7 @@ function Gremio() {
             <a
               href="https://aefip.org.ar/index.php/institucional/estatuto"
               target="_blank"
+              rel="noreferrer"
               style={{ textDecoration: 'none', color: 'inherit' }}
             >
               ESTATUTO
