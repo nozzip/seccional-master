@@ -1,5 +1,6 @@
 {
   "name": "uno",
+  "homepage": "https://aefipnoroeste.org.ar",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,10 +23,7 @@
     "react-twitter-embed": "^3.0.3",
     "web-vitals": "^1.1.1"
   },
-  "homepage": "https://nozzip.github.io/seccional/",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
