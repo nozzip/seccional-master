@@ -58,8 +58,8 @@ function Navbar(props) {
   const isMobile = useMediaQuery(theme.breakpoints.down('sm'));
 
   return (
-    <Grid container className={classes.root} zeroMinWidth>
-      <Grid item xs={12}>
+    <Grid container className={classes.root} >
+      <Grid item xs={12} zeroMinWidth>
         <HideOnScroll {...props}>
           <AppBar className={classes.barapp}>
             <Link to="/">

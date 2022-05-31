@@ -230,8 +230,8 @@ function Inicio() {
 
   return (
     <>
-      <Grid container className={classes.gridinicio} zeroMinWidth>
-        <Grid item xs={12} className={classes.section1}>
+      <Grid container className={classes.gridinicio} >
+        <Grid item xs={12} className={classes.section1} zeroMinWidth>
           <Grid item xs={12} className={classes.main}>
             <Main />
           </Grid>
@@ -243,7 +243,7 @@ function Inicio() {
             animate="visible"
             className={classes.gridtitulo}
           >
-            <Typography className={classes.titulo} align="center" autofocus>
+            <Typography className={classes.titulo} align="center" autoFocus>
               SECCIONAL NOROESTE
             </Typography>
 

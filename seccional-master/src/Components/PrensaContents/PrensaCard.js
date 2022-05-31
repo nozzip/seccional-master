@@ -80,7 +80,7 @@ const useStyles = makeStyles((theme) => ({
 function PrensaCard(props) {
   const classes = useStyles();
   return (
-    <Grid xs={12} className={classes.grid}>
+    <Grid item xs={12} className={classes.grid}>
       {dataNoticias.map((item, i) => (
         <Item key={i} item={item} />
       ))}
@@ -102,8 +102,7 @@ function Item(props) {
         <CardContent>
           <Typography
             className={classes.cardtitulo}
-            color="textPrimary"
-            component="p"
+            color="textPrimary"            
             align="left"
           >
             {props.item.title}
@@ -133,8 +132,7 @@ function Item(props) {
           <CardContent className={classes.cardcontent}>
             <img className={classes.media} src={props.item.thumbnail} alt='' />
             <Typography
-              color="textPrimary"
-              component="p"
+              color="textPrimary"              
               align="center"
               className={classes.titulocontent}
             >

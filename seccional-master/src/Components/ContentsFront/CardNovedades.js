@@ -53,16 +53,16 @@ function Item(props) {
           />
           <CardContent>
             
-            <Typography gutterBottom variant="h5" component="h2" align="center">
+            <Typography gutterBottom variant="h5"  align="center">
               {props.item.title}
-              <a href="https://wa.me/+5493816844462" target="_blank">
-                <WhatsAppIcon style={{ color: '#25D366' }} fontSize="Large" />
+              <a href="https://wa.me/+5493816844462" target="_blank" rel="noreferrer">
+                <WhatsAppIcon style={{ color: '#25D366' }} fontSize="large" />
               </a>
             </Typography>
             <Typography
               variant="h5"
               color="textPrimary"
-              component="p"
+              
               align="center"
               className={classes.font}
             >

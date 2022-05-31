@@ -53,7 +53,7 @@ export default function CardServicios(props) {
   const classes = useStyles();
 
   return (
-    <Grid xs={12} className={classes.grid}>
+    <Grid item xs={12} className={classes.grid}>
       {dataServicios.map((item, i) => (
         <Item key={i} item={item} />
       ))}

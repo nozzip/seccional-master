@@ -117,10 +117,10 @@ export default function GridBeneficios(props) {
   };
 
   return (
-    <Grid container className={classes.chip} zeroMinWidth>
+    <Grid container className={classes.chip}>
       <Chip
         onClick={() => filter('Todos')}
-        variant="filled"
+        variant="default"
         clickable={true}
         size="medium"
         label="Todos"
@@ -128,7 +128,7 @@ export default function GridBeneficios(props) {
       />
       <Chip
         onClick={() => filter('Tucuman')}
-        variant="filled"
+        variant="default"
         clickable={true}
         size="medium"
         label="Tucumán"
@@ -136,7 +136,7 @@ export default function GridBeneficios(props) {
       />
       <Chip
         onClick={() => filter('Catamarca')}
-        variant="filled"
+        variant="default"
         clickable={true}
         size="medium"
         label="Catamarca"
@@ -144,7 +144,7 @@ export default function GridBeneficios(props) {
       />
       <Chip
         onClick={() => filter('Salta')}
-        variant="filled"
+        variant="default"
         clickable={true}
         size="medium"
         label="Salta"
@@ -152,7 +152,7 @@ export default function GridBeneficios(props) {
       />
       <Chip
         onClick={() => filter('Santiago')}
-        variant="filled"
+        variant="default"
         clickable={true}
         size="medium"
         label="Santiago"
@@ -160,7 +160,7 @@ export default function GridBeneficios(props) {
       />
       <Chip
         onClick={() => filter('Jujuy')}
-        variant="filled"
+        variant="default"
         clickable={true}
         size="medium"
         label="Jujuy"
@@ -168,14 +168,14 @@ export default function GridBeneficios(props) {
       />
       <Chip
         onClick={() => filter('Oran')}
-        variant="filled"
+        variant="default"
         clickable={true}
         size="medium"
         label="Oran"
         className={classes.chipIcon}
       />
 
-      <Grid xs={12} item className={classes.grid}>
+      <Grid item xs={12} className={classes.grid}>
         {beneficios.map((item, i) => (
           <Item key={i} item={item} />
         ))}
@@ -245,7 +245,7 @@ function Item(props) {
   );
 }
 
-{
+
   /* <div>
 <Button aria-describedby={id} variant="contained" onClick={handleClick}>
   Open Popover
@@ -263,4 +263,4 @@ function Item(props) {
   <Typography sx={{ p: 2 }}>The content of the Popover.</Typography>
 </Popover>
 </div> */
-}
+

@@ -415,7 +415,7 @@ function Gremio() {
               style={{ textDecoration: 'none', color: 'inherit' }}
             >
               CONVENIO COLECTIVO DE TRABAJO (PDF
-              <GetAppIcon fontSize="4vw" />)
+              <GetAppIcon fontSize="large" />)
             </a>
           </Typography>
         </Button>

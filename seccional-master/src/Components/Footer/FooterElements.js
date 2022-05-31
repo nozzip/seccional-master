@@ -70,6 +70,7 @@ export default function FooterElements() {
                 <a
                   href="https://www.facebook.com/aefip.seccionalnoroeste"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <FacebookIcon style={{ fontSize: '8vw', color: '#4267B2' }} />
                 </a>
@@ -78,6 +79,7 @@ export default function FooterElements() {
                 <a
                   href="https://www.instagram.com/aefipseccionalnoroeste/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <InstagramIcon
                     style={{ fontSize: '8vw', color: '#cd486b' }}
@@ -90,12 +92,13 @@ export default function FooterElements() {
                 <a
                   href="https://twitter.com/AEFIPNoa?ref_src=twsrc%5Etfw"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <TwitterIcon style={{ fontSize: '8vw', color: '#1DA1F2' }} />
                 </a>
               </Grid>
               <Grid className={classes.icons}>
-                <a href="https://wa.me/+5493816844462" target="_blank">
+                <a href="https://wa.me/+5493816844462" target="_blank" rel="noreferrer">
                   <WhatsAppIcon style={{ fontSize: '8vw', color: '#25D366' }} />
                 </a>
               </Grid>

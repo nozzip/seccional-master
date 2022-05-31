@@ -26,8 +26,8 @@ function Galeria() {
     window.scrollTo(0, 0)
   }, [])
   return (
-    <Grid container className={classes.grid} zeroMinWidth>
-      <Grid item>
+    <Grid container className={classes.grid} >
+      <Grid item zeroMinWidth>
         <Typography
           className={classes.titulo}
           align="right"

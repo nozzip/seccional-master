@@ -1,6 +1,6 @@
 import React from 'react';
 import Carousel from 'react-material-ui-carousel';
-import { Paper, makeStyles, Typography } from '@material-ui/core';
+import { Paper, makeStyles } from '@material-ui/core';
 import dataCarusel from '../mockData';
 import { Grid } from '@material-ui/core';
 

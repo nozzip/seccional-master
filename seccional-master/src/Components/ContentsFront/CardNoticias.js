@@ -8,7 +8,6 @@ import {
   CardMedia,
   CardContent,
 } from '@material-ui/core';
-import Prensa from '../../Pages/Prensa';
 import { Link } from 'react-router-dom';
 
 import { dataNoticias } from '../mockData';
@@ -55,7 +54,7 @@ const useStyles = makeStyles((theme) => ({
 function CardNoticias(props) {
   const classes = useStyles();
   return (
-    <Grid xs={12} className={classes.grid}>
+    <Grid item xs={12} className={classes.grid}>
       {dataNoticias.slice(0, 4).map((item, i) => (
         <Item key={i} item={item} />
       ))}

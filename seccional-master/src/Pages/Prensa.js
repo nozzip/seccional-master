@@ -26,8 +26,8 @@ function Prensa() {
     window.scrollTo(0, 0)
   }, [])
   return (
-    <Grid container className={classes.grid} zeroMinWidth autofocus>
-      <Grid item xs={12}>
+    <Grid container className={classes.grid}  autoFocus>
+      <Grid item xs={12} zeroMinWidth>
         <Typography
           className={classes.titulo}
           align="right"

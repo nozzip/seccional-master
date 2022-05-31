@@ -2,7 +2,6 @@ import './App.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Navbar from './Components/Navbar/Navbar';
 import Beneficios from './Pages/Beneficios';
-import IniciarSesion from './Pages/IniciarSesion';
 import Inicio from './Pages/Inicio';
 import Prensa from './Pages/Prensa';
 import Galeria from './Pages/Galeria';
@@ -19,13 +18,11 @@ function App() {
       <Navbar />
       <Switch>
         <Route exact path="/" component={Inicio} />
-        <Route path="/beneficios" component={Beneficios} />
-        {/* <Route path="/iniciar-sesion" component={IniciarSesion} /> */}
+        <Route path="/beneficios" component={Beneficios} />        
         <Route path="/prensa" component={Prensa} />
         <Route path="/galeria" component={Galeria} />
         <Route path="/servicios" component={Servicios} />
         <Route path="/gremio" component={Gremio} />
-
       </Switch>
       <FooterElements />
     </Router>
@@ -34,3 +31,6 @@ function App() {
 }
 
 export default App;
+
+
+/* <Route path="/iniciar-sesion" component={IniciarSesion} /> */
