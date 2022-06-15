@@ -1,7 +1,7 @@
 import React from 'react';
 import Carousel from 'react-material-ui-carousel';
 import { Paper, makeStyles } from '@material-ui/core';
-import dataCarusel from '../mockData';
+import { dataCaruselBanner } from '../mockData';
 import { Grid } from '@material-ui/core';
 
 const useStyles = makeStyles((theme) => ({
@@ -15,10 +15,11 @@ const useStyles = makeStyles((theme) => ({
     display: 'flex',
     alignItems: 'center',
     flexDirection: 'column',
-    maxHeight: '750px',
+    maxHeight: 'auto',
   },
   img: {
-    height: '500px',
+      height:'auto',
+      width:'100%',
   },
   title: {
     width: '150px',
@@ -29,25 +30,25 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-function Carusel(props) {
+function CaruselBanner(props) {
   const classes = useStyles();
   return (
     <Grid item xs={12}>
       <Carousel
         className={classes.carousel}
         spacing={1}
-        autoPlay={true}
+        autoPlay={false}
         navButtonsAlwaysVisible={false}
         navButtonsProps={{
           style: {
-            backgroundColor: '#ff8b14',
+            backgroundColor: '#ee7752',
             borderRadius: '40px',
           },
         }}
-        indicators={true}
+        indicators={false}
         animation="slide"
       >
-        {dataCarusel.map((item, i) => (
+        {dataCaruselBanner.map((item, i) => (
           <Item key={i} item={item} />
         ))}
       </Carousel>
@@ -68,4 +69,4 @@ function Item(props) {
   );
 }
 
-export default Carusel;
+export default CaruselBanner;

@@ -10,6 +10,7 @@ import Layer1 from '../Components/Layer/Layer1';
 import Layer2 from '../Components/Layer/Layer2';
 import Main from '../Components/Layer/Main';
 import { Link } from 'react-router-dom';
+import CaruselBanner from '../Components/ContentsFront/CaruselBanner';
 
 const useStyles = makeStyles((theme) => ({
   gridinicio: {
@@ -263,6 +264,9 @@ function Inicio() {
             </Typography>
           </Grid>
           <Grid item xs={12} className={classes.section2a}>
+            <Grid item xs={12}>
+                <CaruselBanner/>
+               </Grid>
             <Grid item xs={12} md={6} className={classes.carusel}>
               <motion.div
                 variants={caruselVariants}

@@ -5,27 +5,283 @@ const dataCarusel = [
     id: 1,
     title: '',
     thumbnail:
-      'https://i.imgur.com/uECOaEP.png',
-    short_description: '',
+      'https://i.ibb.co/RvynTqK/Melo-Walter.jpg',
+    short_description: '2 de junio',
   },
   {
     id: 2,
     title: '',
     thumbnail:
-      'https://i.imgur.com/7D0zraW.png',
-    short_description: '',
+      'https://i.ibb.co/8761j9B/Palavecino-Luisa.jpg',
+    short_description: '2 de junio',
   },
   {
     id: 3,
     title: '',
     thumbnail:
-      'https://i.imgur.com/WXlphHs.png',
-    short_description: '',
+      'https://i.ibb.co/Fbk0tZK/Nicoloff-Liliana.jpg',
+    short_description: '3 de junio',
   },
+  {
+    id: 4,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/kx35C2c/Maidana-Juan-Carlos.jpg',
+    short_description: '3 de junio',
+  },
+  {
+    id: 5,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/yhnZPJz/Alberdi-Cornet-Jose-Mathias.jpg',
+    short_description: '4 de junio',
+  },
+  {
+    id: 6,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/YyrXfxn/Laud-Jorge-Eduardo.jpg',
+    short_description: '5 de junio',
+  },
+  {
+    id: 7,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/qDPJNGx/Orellana-Edgardo.jpg',
+    short_description: '6 de junio',
+  },
+  {
+    id: 8,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/Y0SYfNS/Costilla-Campero-Gonzalo.jpg',
+    short_description: '7 de junio',
+  },
+  {
+    id: 9,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/WWqpM8r/Romero-Jose-Martin.jpg',
+    short_description: '8 de junio',
+  },
+  {
+    id: 10,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/yfDYsGH/Medina-Liliana.jpg',
+    short_description: '9 de junio',
+  },
+  {
+    id: 11,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/ZGPCfXn/Morales-Eduardo.jpg',
+    short_description: '9 de junio',
+  },
+  {
+    id: 12,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/zskW8B4/Lopez-Arias-Antonio.jpg',
+    short_description: '10 de junio',
+  },
+  {
+    id: 13,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/fqcrz86/Abella-Antonio.jpg',
+    short_description: '11 de junio',
+  },
+  {
+    id: 14,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/x7scpVG/Quiroga-Rene-12-de-Junio.jpg',
+    short_description: '12 de junio',
+  },
+  {
+    id: 15,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/Pwhhw4q/Iba-ez-Eugenia-15-de-junio.jpg',
+    short_description: '15 de junio',
+  },
+  {
+    id: 16,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/zskW8B4/Lopez-Arias-Antonio.jpg',
+    short_description: '10 de junio',
+  },
+  {
+    id: 17,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/cr0P6h8/Paez-de-Silva-16-de-Junio.jpg',
+    short_description: '16 de junio',
+  },
+  {
+    id: 18,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/1QKmXkN/Petray-Gustavo-16-de-Junio.jpg',
+    short_description: '16 de junio',
+  },
+  {
+    id: 19,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/FgTR70d/Quino-e-Maria-16-de-junio.jpg',
+    short_description: '16 de junio',
+  },
+  {
+    id: 20,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/z8nDyFP/Vilca-Jorge-20-de-Junio.jpg',
+    short_description: '20 de junio',
+  },
+  {
+    id: 21,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/gvYkDM0/Cambareri-Sara-20-de-Junio.jpg',
+    short_description: '20 de junio',
+  },
+  {
+    id: 22,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/dPNHyvZ/Gallardo-Cruz-Maria-22-de-Junio.jpg',
+    short_description: '22 de junio',
+  },
+  {
+    id: 23,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/R91mDBd/Valdecantos-Angel-Jose-23-de-Junio.jpg',
+    short_description: '23 de junio',
+  },
+  {
+    id: 24,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/3rPmrtM/Adaro-Gaston-23-de-Junio.jpg',
+    short_description: '23 de junio',
+  },
+  {
+    id: 25,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/vhm5HbB/Batallan-Cortes.jpg',
+    short_description: '21 de junio',
+  },
+  {
+    id: 26,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/FKNcB5Q/Hidalgo-Carlos-24-de-Junio.jpg',
+    short_description: '24 de junio',
+  },
+  {
+    id: 27,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/bFwPbXN/Lefortt-Sonia-26-de-Junio.jpg',
+    short_description: '26 de junio',
+  },
+  {
+    id: 28,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/3BD4JRT/Ruiz-Ramires-Mercedes.jpg',
+    short_description: '26 de junio',
+  },
+  {
+    id: 29,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/h9RF8YF/Sandelowsky-Maximiliano.jpg',
+    short_description: '26 de junio',
+  },
+  {
+    id: 30,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/cLR7ZpD/Vallejos-Ramon-26-de-Junio.jpg',
+    short_description: '26 de junio',
+  },
+  {
+    id: 31,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/C8mWc6H/Guzman-Ernesto-26-de-Junio.jpg',
+    short_description: '26 de junio',
+  },
+  {
+    id: 32,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/H2CQ9JM/Gomez-Maximiliano-27-de-Junio.jpg',
+    short_description: '27 de junio',
+  },
+  {
+    id: 33,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/fX3kBzx/Bisdorff-Patricia-27-de-Junio.jpg',
+    short_description: '27 de junio',
+  },
+  {
+    id: 34,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/7vr1N8q/Basbus-Jose-29-de-Junio.jpg',
+    short_description: '29 de junio',
+  },
+  {
+    id: 35,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/KFkd0Vp/Cuello-Mariano-29-de-Junio.jpg',
+    short_description: '29 de junio',
+  },
+  {
+    id: 36,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/zQ3cQxJ/Chocobar-Jorge-30-de-Junio.jpg',
+    short_description: '30 de junio',
+  },
+  {
+    id: 37,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/862XG2B/More-Daniel-30-de-Junio.jpg',
+    short_description: '30 de junio',
+  },
+
+
   //Mantener el short_description a una linea, maximo de 30 caracteres, inlcuidos espacios
 ];
 
 export default dataCarusel;
+
+/*Carusel Banner sección Afiliados */
+export const dataCaruselBanner = [
+  {
+    id: 1,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/QDvS76T/Banner-dia-del-trabajador-pagina.jpg',
+    short_description: '',
+  },
+  
+];
+
+
+
+
 
 /*Pestaña Beneficios */
 export const dataBeneficios = [
