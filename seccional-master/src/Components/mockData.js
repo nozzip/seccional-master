@@ -523,10 +523,10 @@ export const dataBeneficios = [
 export const dataServicios = [
   {
     id: 1,
-    title: 'MOLLAR',
+    title: 'CABAÑAS WARMI',
     thumbnail:
       'https://www.welcomeargentina.com/paseos/dique-la-angostura-el-mollar/dique-la-angostura-el-mollar-4.jpg',
-    short_description: 'Tafí del Valle, Tucumán',
+    short_description: 'Mollar, Tucumán',
   },
   {
     id: 2,
@@ -770,17 +770,17 @@ export const dataNoticias = [
 
 export const photosServiciosMollar = [
   {
-    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/133182811_826063868241401_6068563398621084171_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGgWN8j7NX3BGz2QicS8IqGILfKakAdNwQgt8pqQB03BHmQ63U6ectuJ7oeJb_2oAADDkedkbXAox-c1alU2pwx&_nc_ohc=cgBVJ2VGUXgAX8YQb_s&_nc_ht=scontent.faep7-1.fna&oh=00_AT9d91Au8K2ZVbtAqXnIloE3Ido4s0T-OQ2vTve7VkSq6Q&oe=62AC3796",
+    src: "https://i.ibb.co/W04xyW6/image.png",
     width: 1,
     height: 1
   },
   {
-    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/138346697_834354324079022_941313134606046863_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGtWEhuQ8gq5duTsL6Bj9qQ2x8wPhAlZKfbHzA-ECVkp4iyeiljVRQImdYeZME2P-vKGEuiRkjoRAaEqxJcCcTQ&_nc_ohc=y7FGqafxf30AX8Fz6Aw&_nc_ht=scontent.faep7-1.fna&oh=00_AT8XYIBUkKJWYL4uC3vAy5U8wEJZxuYwYPvsDRUM6MQoBQ&oe=62AC87D8",
+    src: "https://i.ibb.co/sCcpTLc/image.png",
     width: 0,
     height: 0
   },
   {
-    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/137348179_834354434079011_3901741534237519203_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFfyTZIY5waLjIHuzMderxY2GkJzv1RBULYaQnO_VEFQq61MPidKyBRxWptDgGPmtfsjOZ5qkwO_CqFGgbN37AL&_nc_ohc=cTLTrDTB2kYAX8cG5hz&_nc_ht=scontent.faep7-1.fna&oh=00_AT-ClFM1qq71a41Rt7nf84-9bxtK1uRB-ZdRiKhn5Si4Xg&oe=62AC508C",
+    src: "https://i.ibb.co/QDbZ0zq/image.png",
     width: 0,
     height: 0
   },
@@ -790,71 +790,109 @@ export const photosServiciosMollar = [
     height: 0
   },
   {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
+    src: "https://i.ibb.co/5GNNs9q/image.png",
     width: 0,
     height: 0
   },
   {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
+    src: "https://i.ibb.co/CKbXpgf/image.png",
     width: 0,
     height: 0
   },
   {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
+    src: "https://i.ibb.co/bJ8VHs1/image.png",
     width: 0,
     height: 0
   },
-  {
-    src: "https://store-images.s-microsoft.com/image/apps.64444.14416131676512756.a4895ce9-cd8d-4c80-a13c-dd63cf1980f1.4fa73540-3bb6-4190-b96c-fc69bf560940?mode=scale&q=90&h=720&w=1280",
-    width: 0,
-    height: 0
-  },
+  
 ];
 
 export const photosServiciosSanLorenzo = [
   {
-    src: "http://donnumas.com.ar/wp-content/uploads/2020/12/dsc_6166-1.jpg",
+    src: "https://i.ibb.co/kxNNVht/image.png",
     width: 1,
     height: 1
   },
   {
-    src: "http://donnumas.com.ar/wp-content/uploads/2020/12/dsc_6166-1.jpg",
+    src: "https://i.ibb.co/Px8yxrM/image.png",
     width: 0,
     height: 0
   },
+  {
+    src: "https://i.ibb.co/dJkGmCn/image.png",
+    width: 0,
+    height: 0
+  },
+  {
+    src: "https://i.ibb.co/s35Cwft/image.png",
+    width: 0,
+    height: 0
+  },
+  {
+    src: "https://i.ibb.co/CzC2Z0M/image.png",
+    width: 0,
+    height: 0
+  },
+
+  
 ];
 
 export const photosServiciosAzucena = [
   {
-    src: "https://scontent.ftuc1-2.fna.fbcdn.net/v/t39.30808-6/254552735_407883704152842_833389622039478071_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE5e9SrwRD7ydODy6Yz1BP8DghTWLv8A6cOCFNYu_wDp9hJ4MkboybqKQesCCxfrrY&_nc_ohc=Y3WA4hF-2TAAX-sUybT&_nc_ht=scontent.ftuc1-2.fna&oh=00_AT8RfTeaSc3rVYabGs1pyIG1TomIP7S-WU9jyDZi_eKaTg&oe=629464FC",
+    src: "https://i.ibb.co/7g3Wmg7/image.png",
     width: 1,
     height: 1
   },
   {
-    src: "https://scontent.ftuc1-2.fna.fbcdn.net/v/t39.30808-6/254552735_407883704152842_833389622039478071_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE5e9SrwRD7ydODy6Yz1BP8DghTWLv8A6cOCFNYu_wDp9hJ4MkboybqKQesCCxfrrY&_nc_ohc=Y3WA4hF-2TAAX-sUybT&_nc_ht=scontent.ftuc1-2.fna&oh=00_AT8RfTeaSc3rVYabGs1pyIG1TomIP7S-WU9jyDZi_eKaTg&oe=629464FC",
+    src: "https://i.ibb.co/7g3Wmg7/image.png",
     width: 1,
     height: 1
   },
 
   {
-    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/182826302_292232395717974_1922318036092758223_n.jpg?_nc_cat=100&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeFOC6yKphi7ci7jQ577Is_0xFotQFY4pnPEWi1AVjimcy_mhQz4et7cd4OFATQmRW2D8nWIDq9Ge0lba_lnGglN&_nc_ohc=Rx-ufVOSUOYAX9RR71k&_nc_ht=scontent.faep7-1.fna&oh=00_AT89z7EsW2rkRy3irRjbb3P0lte-nMBbTCmUTva_0qwdAQ&oe=62A83F03",
+    src: "https://i.ibb.co/mbm52N6/image.png",
     width: 1,
     height: 1
   },
   {
-    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/182575717_292232345717979_5057480786581940716_n.jpg?_nc_cat=110&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeFwEdZoV2TDkZk1_DAUTGhmUaNFyNBiJABRo0XI0GIkAJoUo-5Erj2vgZgOZWLhfsmaoHjdicaz2cIib1ErcWou&_nc_ohc=vw6NWrZuwrQAX8JxKYJ&_nc_ht=scontent.faep7-1.fna&oh=00_AT8ScoUQo8wfq8sUe07VxAsMgEIr1u3UDDcVCHAAh3eFOw&oe=62A9C916",
+    src: "https://i.ibb.co/BTS7ZgJ/image.png",
     width: 1,
     height: 1
   },
   {
-    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/182524079_292232335717980_3762911808105202552_n.jpg?_nc_cat=108&ccb=1-6&_nc_sid=8bfeb9&_nc_eui2=AeFXyvixHyQmUg-YY3s6T-zMg848ZD9TJGeDzjxkP1MkZxadsvLcCnf8iJs18GEONDbRfTo515ZSBjj5V00gKeeV&_nc_ohc=TD4lccKf8N8AX_UWL2f&tn=LryXJ_9wP_-TvCqU&_nc_ht=scontent.faep7-1.fna&oh=00_AT8tGTGRdTm_9oWIVHRvi3mmYMETLB3FVCy0Ab16mTRZ-g&oe=62A7C7BE",
+    src: "https://i.ibb.co/r47TqhD/image.png",
     width: 1,
     height: 1
   },
   {
-    src: "https://scontent.faep7-1.fna.fbcdn.net/v/t1.6435-9/124413055_792816168232838_6978802438471234602_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGCySlxtHavvoAvH2Biu85UO_-7f0onk_U7_7t_SieT9UcAkJB3hOAlzVUf3PAvurorE-iHw_8JMR95i_I-i4A4&_nc_ohc=8fL2E_Qjne8AX8ko2EA&_nc_ht=scontent.faep7-1.fna&oh=00_AT-75AHud9rJ8_lZ5nGjZGqGoDnDPogY7uDEsO-j0AHcxg&oe=62AE6026",
+    src: "https://i.ibb.co/zfGC0JV/image.png",
     width: 1,
     height: 1
   },
+  {
+    src: "https://i.ibb.co/sv9mrJm/image.png",
+    width: 1,
+    height: 1
+  },
+  {
+    src: "https://i.ibb.co/2SShwc8/image.png",
+    width: 1,
+    height: 1
+  },
+
+  {
+    src: "https://i.ibb.co/bLWbW11/image.png",
+    width: 1,
+    height: 1
+  },
+  {
+    src: "https://i.ibb.co/F3fMx2K/image.png",
+    width: 1,
+    height: 1
+  },
+
+  
+  
+
 
 ];

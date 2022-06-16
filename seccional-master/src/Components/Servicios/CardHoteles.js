@@ -87,29 +87,27 @@ function Mollar() {
         <Grid item xs={8} md={8}>
           <Card className={classes.card2}>
             <Typography variant="h5" align="center" className={classes.titulo}>
-              MOLLAR
+              CABAÑAS WARMI
             </Typography>
             <Typography
               variant="subtitle1"
               align="center"
               className={classes.subtitulo}
             >
-              El Mollar, Tucumán - Tel:{' '}
+              El Mollar, Tucumán - Cel:
               <a href="https://wa.me/+5493816844462" target="_blank" rel="noreferrer">
                 <WhatsAppIcon style={{ fontSize: '20px', color: '#25D366' }} />
               </a>
-              / 381 435-2805
+              / Cel: 381 459-7971
             </Typography>
             <Typography
-              variant="body2"
-              align="center"
+              variant="body1"
+              align="left"
               className={classes.texto}
             >
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown
+              Ubicado entre medio de cerros y con una vista hermosa, nuestros afiliados y su familia pueden disfrutar y relajarse con la naturaleza durante todo el año
               <br />
-              {'Lorem Ipsum is simply dummy text of the printing and typesetting              industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown'}
+              {'Tenemos cabañas para 4, 5 y 7 personas y cada una cuenta con las comodidades de cocina, calefacciòn, ropa de cama, wifi, asador.'}
             </Typography>
           </Card>
         </Grid>
@@ -140,22 +138,20 @@ export function SanLorenzo() {
               align="center"
               className={classes.subtitulo}
             >
-              San Lorenzo, Salta - Tel:
-              <a href="https://wa.me/+5493816844462" target="_blank" rel="noreferrer">
+              San Lorenzo, Salta - Cel:
+              <a href="https://wa.me/+5493874099071" target="_blank" rel="noreferrer">
                 <WhatsAppIcon style={{ fontSize: '20px', color: '#25D366' }} />
               </a>
-              / 381 435-2805
+            
             </Typography>
             <Typography
-              variant="body2"
+              variant="body1"
               align="left"
               className={classes.texto}
             >
-             Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown
+             Recientemente remodelado, el salon San Lorenzo, le ofrece un sitio ideal para nuestros afiliados y sus familias para disfrutar de reuniones sociales,
               <br />
-              {'Lorem Ipsum is simply dummy text of the printing and typesetting              industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown'}
+              {''}
             </Typography>
           </Card>
         </Grid>
@@ -184,19 +180,17 @@ export function Azucena() {
               align="center"
               className={classes.subtitulo}
             >
-              Sarmiento 480, Yerba Buena, Tucumán - Tel:
-              <a href="https://wa.me/+5493816844462" target="_blank" rel="noreferrer">
+              Sarmiento 480, Yerba Buena, Tucumán - Cel:
+              <a href="https://wa.me/+5493813545911" target="_blank" rel="noreferrer">
                 <WhatsAppIcon style={{ fontSize: '20px', color: '#25D366' }} />
               </a>
-              / 381 435-2805
+              / Tel: 381 435-2805
             </Typography>
-            <Typography variant="body2" align="left" className={classes.texto}>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown
+            <Typography variant="body1" align="left" className={classes.texto}>
+              A través de años de reapropiación, condicionamiento y arduo trabajo, hoy podemos ofrecerles a nuestros afiliados y su familia un lugar de recreación y actividades deportivas.
               <br />{' '}
               {
-                'printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic                printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic                printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic'
+                'El club cuenta con actividades deportivas como PILETA climatizada, canchas de PADDLE, SQUASH, fútbol 5. Como también la posibilidad de utilizar nuestro salón para eventos, y quinchos con asador para reuniones sociales'
               }
             </Typography>
           </Card>

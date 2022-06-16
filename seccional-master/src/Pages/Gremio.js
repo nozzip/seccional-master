@@ -206,10 +206,10 @@ function Gremio() {
         <Card className={classes.card3}>
           <CardContent>
             <Typography className={classes.texto2}>
-              Ruiz, María Virginia
+              
             </Typography>
             <Typography className={classes.subtexto2}>
-              Secretario de Asuntos Sociales
+              
             </Typography>
           </CardContent>
         </Card>
@@ -225,8 +225,8 @@ function Gremio() {
         </Card>
         <Card className={classes.card3}>
           <CardContent>
-            <Typography className={classes.texto2}>Aguierre, Rita Noemí</Typography>
-            <Typography className={classes.subtexto2}>Secretario de Organización</Typography>
+            <Typography className={classes.texto2}></Typography>
+            <Typography className={classes.subtexto2}></Typography>
           </CardContent>
         </Card>
         <Card className={classes.card4}>
@@ -273,8 +273,8 @@ function Gremio() {
         </Card>
         <Card className={classes.card4}>
           <CardContent>
-            <Typography className={classes.texto2}>Ortiz, Javier Alejandro</Typography>
-            <Typography className={classes.subtexto2}>Deleg. Tit. Consejo Directivo Superior</Typography>
+            {/* <Typography className={classes.texto2}></Typography> */}
+            {/* <Typography className={classes.subtexto2}>Deleg. Tit. Consejo Directivo Superior</Typography> */}
           </CardContent>
         </Card>
         <Card className={classes.card4}>
@@ -303,8 +303,8 @@ function Gremio() {
         </Card>
         <Card className={classes.card4}>
           <CardContent>
-            <Typography className={classes.texto2}>Martinez, Silvia del Carmen</Typography>
-            <Typography className={classes.subtexto2}>Deleg. Supl. Consejo Directivo Superior</Typography>
+            {/* <Typography className={classes.texto2}>Martinez, Silvia del Carmen</Typography>
+            <Typography className={classes.subtexto2}>Deleg. Supl. Consejo Directivo Superior</Typography> */}
           </CardContent>
         </Card>
         <Card className={classes.card4}>
@@ -351,8 +351,8 @@ function Gremio() {
         </Card>
         <Card className={classes.card4}>
           <CardContent>
-            <Typography className={classes.texto2}>Chavez, Raúl Daniel</Typography>
-            <Typography className={classes.subtexto2}>Deleg. Supl. Asamblea General</Typography>
+            {/* <Typography className={classes.texto2}>Chavez, Raúl Daniel</Typography>
+            <Typography className={classes.subtexto2}>Deleg. Supl. Asamblea General</Typography> */}
           </CardContent>
         </Card>
         <Card className={classes.card4}>
