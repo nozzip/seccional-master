@@ -15,18 +15,13 @@ const useStyles = makeStyles((theme) => ({
     display: 'flex',
     alignItems: 'center',
     flexDirection: 'column',
-    maxHeight: '750px',
+    maxHeight: 'auto',
   },
   img: {
-    height: '500px',
+    height: 'auto',
+    width:'100%',
   },
-  title: {
-    width: '150px',
-  },
-  text: {
-    fontSize: '3vw',
-    paddingBottom: '20px',
-  },
+ 
 }));
 
 function Carusel(props) {
@@ -59,11 +54,9 @@ function Item(props) {
   const classes = useStyles();
   return (
     <Paper className={classes.paper}>
-      <img className={classes.img} src={props.item.thumbnail} alt="imgfront" />
-      {/* <img className={classes.title} src={props.item.title} />
-      <Typography variant='body1' align="center"  className={classes.text}>
-        {props.item.short_description}
-      </Typography> */}
+      <img className={classes.img} src={props.item.thumbnail} alt="imgfront"
+       />
+      
     </Paper>
   );
 }

@@ -273,9 +273,19 @@ export const dataCaruselBanner = [
     id: 1,
     title: '',
     thumbnail:
-      'https://i.ibb.co/QDvS76T/Banner-dia-del-trabajador-pagina.jpg',
+      'https://i.ibb.co/R6pdXsb/imagen-2022-06-23-134757640.webp',
+    short_description: 'banner dia del trabajador',
+  },
+ 
+  {
+    id: 2,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/12PKT4q/Vacunaciones-Seccional-Noroeste.webp',
     short_description: '',
   },
+
+  
   
 ];
 
@@ -517,6 +527,32 @@ export const dataBeneficios = [
     mail: '20% descuento  ',
     telephone: 'Moreno Sur 677, Santiago - 421 8888',
   },
+  {
+    id: 22,
+    title: 'Hipercell',
+    category: 'Santiago',
+    thumbnail:
+      'https://i.ibb.co/yfP1wd3/Hipercell-logo.webp',
+    short_description:
+      'Accesorios para celulares, reparaciones y tecnología',
+    mail: 'www.fb.com/Hipercell-SGO - 10% efectivo. ',
+    telephone: 'Av Belgrano 188 - 3854254330',
+  },
+  {
+    id: 23,
+    title: 'Cortassa Perfumerias',
+    category: 'Santiago',
+    thumbnail:
+      'https://i.ibb.co/MRB2X2S/Cortassa-logo.webp',
+    short_description:
+      'Cortassa Mayorista es la unidad de negocio más antigua del grupo Cortassa, esta desarrolla sus actividades desde hace más de 60 años y ha experimentado desde la década del 90 un importante crecimiento.',
+    mail: '15% efectivo - 10% debito',
+    telephone: 'Independencia N° 235 - 3856992170',
+  },
+
+  
+
+  
 ];
 
 /*Tarjetas Final de Pagina*/

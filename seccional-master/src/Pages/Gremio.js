@@ -196,7 +196,7 @@ function Gremio() {
         <Card className={classes.card3}>
           <CardContent>
             <Typography className={classes.texto2}>
-              Laud, Jorge Eduardo
+              Rodriguez, Ariel
             </Typography>
             <Typography className={classes.subtexto2}>
               Secretario Administrativo
@@ -206,10 +206,10 @@ function Gremio() {
         <Card className={classes.card3}>
           <CardContent>
             <Typography className={classes.texto2}>
-              
+              Bocoy, Carolina
             </Typography>
             <Typography className={classes.subtexto2}>
-              
+              Secretaria de Asuntos Sociales
             </Typography>
           </CardContent>
         </Card>
@@ -225,16 +225,10 @@ function Gremio() {
         </Card>
         <Card className={classes.card3}>
           <CardContent>
-            <Typography className={classes.texto2}></Typography>
-            <Typography className={classes.subtexto2}></Typography>
+            <Typography className={classes.texto2}>Garamendi, Miguel</Typography>
+            <Typography className={classes.subtexto2}>Secretaria de Organización</Typography>
           </CardContent>
-        </Card>
-        <Card className={classes.card4}>
-          <CardContent>
-            <Typography className={classes.texto2}>Garamendi, Miguel Enrique</Typography>
-            <Typography className={classes.subtexto2}>Vocal Titular</Typography>
-          </CardContent>
-        </Card>
+        </Card>        
         <Card className={classes.card4}>
           <CardContent>
             <Typography className={classes.texto2}>Matheus, David Arthur</Typography>
@@ -246,19 +240,13 @@ function Gremio() {
             <Typography className={classes.texto2}>Marchetti, María Marcela</Typography>
             <Typography className={classes.subtexto2}>Vocal Titular</Typography>
           </CardContent>
-        </Card>
+        </Card>  
         <Card className={classes.card4}>
           <CardContent>
-            <Typography className={classes.texto2}>Rodriguez, Edgardo Ariel</Typography>
-            <Typography className={classes.subtexto2}>Vocal Suplente</Typography>
+            <Typography className={classes.texto2}>Alvarez, Roberto Marcelo</Typography>
+            <Typography className={classes.subtexto2}>Vocal Titular</Typography>
           </CardContent>
-        </Card>
-        <Card className={classes.card4}>
-          <CardContent>
-            <Typography className={classes.texto2}>Bocoy, Carolina</Typography>
-            <Typography className={classes.subtexto2}>Vocal Suplente</Typography>
-          </CardContent>
-        </Card>
+        </Card>   
         <Card className={classes.card4}>
           <CardContent>
             <Typography className={classes.texto2}>Nuñez Ingrao, Manuel Antonio</Typography>
@@ -270,13 +258,7 @@ function Gremio() {
             <Typography className={classes.texto2}>Tejerina, Marcela Alejandro</Typography>
             <Typography className={classes.subtexto2}>Deleg. Tit. Consejo Directivo Superior</Typography>
           </CardContent>
-        </Card>
-        <Card className={classes.card4}>
-          <CardContent>
-            {/* <Typography className={classes.texto2}></Typography> */}
-            {/* <Typography className={classes.subtexto2}>Deleg. Tit. Consejo Directivo Superior</Typography> */}
-          </CardContent>
-        </Card>
+        </Card>        
         <Card className={classes.card4}>
           <CardContent>
             <Typography className={classes.texto2}>Fatum, Orlando</Typography>
@@ -300,13 +282,7 @@ function Gremio() {
             <Typography className={classes.texto2}>Araoz Vallejo, Miguel Alejandro</Typography>
             <Typography className={classes.subtexto2}>Deleg. Supl. Consejo Directivo Superior</Typography>
           </CardContent>
-        </Card>
-        <Card className={classes.card4}>
-          <CardContent>
-            {/* <Typography className={classes.texto2}>Martinez, Silvia del Carmen</Typography>
-            <Typography className={classes.subtexto2}>Deleg. Supl. Consejo Directivo Superior</Typography> */}
-          </CardContent>
-        </Card>
+        </Card>       
         <Card className={classes.card4}>
           <CardContent>
             <Typography className={classes.texto2}>Jalile, Luis Marcelo</Typography>
@@ -348,13 +324,7 @@ function Gremio() {
             <Typography className={classes.texto2}>Miranda, Celesta Natalia</Typography>
             <Typography className={classes.subtexto2}>Deleg. Supl. Asamblea General</Typography>
           </CardContent>
-        </Card>
-        <Card className={classes.card4}>
-          <CardContent>
-            {/* <Typography className={classes.texto2}>Chavez, Raúl Daniel</Typography>
-            <Typography className={classes.subtexto2}>Deleg. Supl. Asamblea General</Typography> */}
-          </CardContent>
-        </Card>
+        </Card>      
         <Card className={classes.card4}>
           <CardContent>
             <Typography className={classes.texto2}>Mercado, Griselda del Transito</Typography>
