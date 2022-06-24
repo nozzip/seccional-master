@@ -630,6 +630,20 @@ export const dataNovedades = [
 
 /*PRENSA*/
 export const dataNoticias = [
+ 
+  {
+    id: 3,
+    title: <p style={{color:'#263050'}}>ACUERDO PARITARIO 2022</p>,
+    subtitle: '',
+    thumbnail:
+      'https://i.imgur.com/uDz3VqV.png',
+    titulo: '',
+    subtitulo: '',
+    texto: <img width='75%' src='https://aefip.org.ar/images/COMUNICADOS/2022/06_23_2022_comunicado.png' alt='banner comunicado'></img>
+      ,
+    date: '23 de Junio, 2022',
+  },
+ 
   {
     id: 2,
     title: <p style={{color:'#263050'}}>AVANCES NECESARIOS EN EL CAMINO QUE QUEDA POR RECORRER</p>,

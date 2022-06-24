@@ -39,7 +39,19 @@ function Carusel(props) {
             borderRadius: '40px',
           },
         }}
-        indicators={true}
+        indicators={true}        
+        activeIndicatorIconButtonProps={{
+            style: {
+            color:'#ff8b14',
+          },
+        }}
+        indicatorIconButtonProps={{
+          style: {
+              width:'20px',
+              color: 'grey'       
+          }
+      }}
+
         animation="slide"
       >
         {dataCarusel.map((item, i) => (
