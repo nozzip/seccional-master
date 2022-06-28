@@ -107,7 +107,7 @@ export default function FooterElements() {
           <Grid item xs={12} className={classes.socialMedia}>
             <Grid item xs={12} className={classes.socialMediaWrap}>
               <Link to="/" className={classes.socialLogo}>
-                A.E.F.I.P Seccional Noroeste @ 2021
+                A.E.F.I.P Seccional Noroeste @ 2022
               </Link>
             </Grid>
           </Grid>

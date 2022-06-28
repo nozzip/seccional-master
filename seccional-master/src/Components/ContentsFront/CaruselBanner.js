@@ -7,8 +7,6 @@ import { Grid } from '@material-ui/core';
 const useStyles = makeStyles((theme) => ({
   carousel: {
     borderRadius: '10px',
-    
-
   },
 
   paper: {
@@ -18,8 +16,8 @@ const useStyles = makeStyles((theme) => ({
     maxHeight: 'auto',
   },
   img: {
-      height:'auto',
-      width:'100%',
+    height: 'auto',
+    width: '100%',
   },
   title: {
     width: '150px',

@@ -289,10 +289,6 @@ export const dataCaruselBanner = [
 
 ];
 
-
-
-
-
 /*Pestaña Beneficios */
 export const dataBeneficios = [
   {
@@ -300,7 +296,7 @@ export const dataBeneficios = [
     title: 'San Cristobal Seguros',
     category: 'Tucuman',
     thumbnail:
-      'https://i.ibb.co/DMCtJG2/San-Cristobal.png',
+      'https://i.ibb.co/Bchs5YH/San-Cristobal.webp',
     short_description:
       'Somos una empresa de seguros argentina nacida en Rosario, hace más de 80 años, con un origen mutualista. Hoy formamos parte del Grupo San Cristóbal, aseguramos a más de 725.000 personas y tenemos presencia en Argentina y Uruguay. El crecimiento permanente, la eficaz administración de nuestros recursos y la gestión de nuestros negocios basada en los valores mutualistas que nos identifican, nos convirtieron en una empresa líder, caracterizada por honrar sus acuerdos, generar un impacto positivo en la comunidad y con el foco en escuchar y dar respuesta a las necesidades de nuestros clientes. Brindamos un amplio portfolio de coberturas para individuos, productores agropecuarios, comercios, pymes y grandes empresas. Año tras año, somos una de las aseguradoras con mayor patrimonio neto de la Argentina, lo que demuestra la calidad de nuestros profesionales y la capacidad de afrontar nuestros compromisos.',
     mail: 'sancristobal@sancristobal',
@@ -311,7 +307,7 @@ export const dataBeneficios = [
     title: 'Posada y Spa - Don Numas',
     category: 'Salta',
     thumbnail:
-      'https://i.ibb.co/FYQ14wJ/Don-Numas-Posada.png',
+      'https://i.ibb.co/cLsgwT8/Don-Numas-Posada.webp',
     short_description:
       'Rodeada de la majestuosidad de las montañas de Villa San Lorenzo, la frescura y el verde de la “Selva de Yungas”, nuestra Posada es una invitación a disfrutar de la naturaleza, acompañado de la comodidad de nuestras instalaciones, una atención personalizada y la calidez de un ambiente familiar.',
     mail: 'donnumas.com.ar - 10% descuento',
@@ -323,7 +319,7 @@ export const dataBeneficios = [
     title: 'Hotel La Linda',
     category: 'Salta',
     thumbnail:
-      'https://i.ibb.co/7G7TZph/Hotel-La-linda.png',
+      'https://i.ibb.co/TR2wddf/Hotel-La-linda.webp',
     short_description:
       'El Hotel de la Linda se encuentra en Salta, es una encantadora casa de estilo colonial con dos patios interiores, y ofrece habitaciones con conexión WiFi gratuita, TV por cable, aire acondicionado frio calor y baño privados, es un Hotel económico, en pleno centro y con las comodidades necesarias. Fue refaccionado siguiendo los parámetros que se exigen para conservar el patrimonio arquitectónico en la Provincia de Salta. Cuenta con 21 habitaciones en planta baja y cuatro habitaciones nuevas en planta alta.',
     mail: 'hoteldelalinda.com.ar - 12% descuento ',
@@ -334,7 +330,7 @@ export const dataBeneficios = [
     title: 'Hotel Mirador del Cerro',
     category: 'Salta',
     thumbnail:
-      'https://i.ibb.co/R0gTJNV/Mirador-del-cerro.png',
+      'https://i.ibb.co/wB31YX9/Mirador-del-cerro.webp',
     short_description:
       'De marcado estilo colonial en su arquitectura sobresale el trabajo artesanal en la herrería de sus puertas, ventanas, rejas y muebles, asi como sus techos realizados en fina madera de quina y quebracho. La combinacion de laja y los objetos típicos de las culturas precolombinas crean un ambiente calido y confotable donde disfrutar de su estadía.',
     mail: 'hotelmiradordelcerro.com - 25% descuento',
@@ -345,7 +341,7 @@ export const dataBeneficios = [
     title: 'Hotel Boutique Plaza de las Aljabas',
     category: 'Salta',
     thumbnail:
-      'https://i.ibb.co/sj0drBB/Hotel-plaza-de-las-aljabas.png',
+      'https://i.ibb.co/GRPQMyT/Hotel-plaza-de-las-aljabas.webp',
     short_description:
       'Con una piscina, una sauna y un campo de golf, el Plaza De Las Aljabas Hotel Salta está situado cerca de la Plaza Güemes. Este hotel está situado en el centro de Salta, a 1.2 km del Museo Arqueológico de Alta Montaña.Este hotel está situado a menos de 0.3 km del Museo Pajcha Arte Etnico. La cercanía de una estación de tren permite explorar el Palacio de la Legislatura de Salta. sin dificultades. Todas las habitaciones están amuebladas con un teléfono directo, climatización individual y un escritorio. El cuarto de baño privado también dispone de toallas, un secador de pelo y un gorro de ducha. Los huéspedes de Plaza De Las Aljabas Hotel disfrutarán de un desayuno continental diario durante su estancia. Se puede encontrar la Macacha y La Vieja Estacion a 125 metros. El Plaza De Las Aljabas Hotel ofrece una masoterapia y terapia de spa gratis. Las otras instalaciones incluyen una piscina exterior.',
     mail: '20% Efectivo - 15% Tarjeta',
@@ -356,7 +352,7 @@ export const dataBeneficios = [
     title: 'Hotel Bo Encanto & Spa',
     category: 'Salta',
     thumbnail:
-      'https://i.ibb.co/28vjCbf/Hotel-de-encanto.png',
+      'https://i.ibb.co/F3tgkwf/Hotel-bo.webp',
     short_description:
       'Hotel Bo Encanto & Spa es un pequeño hotel que brinda calidad y confort para las vacaciones soñadas',
     mail: 'facebook.com/bodechicoanahotelsalta - 20% Efectivo - 15% Tarjeta',
@@ -367,7 +363,7 @@ export const dataBeneficios = [
     title: 'Hotel Termas de Rosario de la Frontera',
     category: 'Salta',
     thumbnail:
-      'https://i.ibb.co/M96TBTP/Hotel-termas-rosario-de-la-frontera.png',
+      'https://i.ibb.co/J5pBYPw/Hotel-termas-rosario-de-la-frontera.webp',
     short_description:
       'El Hotel Termas se encuentra en obras de noviembre de 2017 siendo esta la última etapa de la puesta en valor y recuperación total del histórico edificio. La inversión que está realizando el Gobierno de la Provincia es de $ 30 millones, correspondiente al Plan Bicentenario,',
     mail: 'hoteltermasalta.com.ar',
@@ -378,7 +374,7 @@ export const dataBeneficios = [
     title: 'Cabañas Tia Moca',
     category: 'Salta',
     thumbnail:
-      'https://i.ibb.co/WVx6fms/Caba-as-T-a-Moca.png',
+      'https://i.ibb.co/WFgvFT2/Caba-as-tia-moca.webp',
     short_description:
       'A metros del aeropuerto, un lugar tranquilo para disfrutar de la naturaleza y descansar.podes disfrutar de un lugar lleno de paisajes y de excursiones cercanas, cabalgatas cerca del dique cabra corral campo quijano. Brindamos la comodidades a nuestros huespedes para que puedan disfrutar de la tranquilidad.',
     mail: '20% descuento',
@@ -389,7 +385,7 @@ export const dataBeneficios = [
     title: 'Cabañas Portal de San Lorenzo',
     category: 'Salta',
     thumbnail:
-      'https://i.ibb.co/syyXY7s/image.png',
+      'https://i.ibb.co/r4M1T5K/Caba-as-del-portal.webp',
     short_description:
       '',
     mail: '15% descuento',
@@ -400,7 +396,7 @@ export const dataBeneficios = [
     title: 'Terrazas del Lago',
     category: 'Salta',
     thumbnail:
-      'https://i.ibb.co/9y1f9Xn/image.png',
+      'https://i.ibb.co/F681WK4/Hotel-terrazas-del-lago.webp',
     short_description:
       'A orillas del dique Cabra Corral, enclavado entre los cerros y el lago, en un lugar privilegiado por la naturaleza, se encuentra Terrazas del Lago, posada y restaurant.',
     mail: 'terrazasdel-lago.com.ar - 10% descuento ',
@@ -411,7 +407,7 @@ export const dataBeneficios = [
     title: 'Hostal Finca las Margaritas',
     category: 'Salta',
     thumbnail:
-      'https://i.ibb.co/SfVgXGD/Hostal-Finca-las-Margaritas.png',
+      'https://i.ibb.co/4Fy6Lq3/Hostal-Finca-las-Margaritas.webp',
     short_description:
       'Finca Las Margaritas es una casa solariega con encanto y de estilo rural, equipada con pileta climatizada y rodeada de un jardín . El alojamiento facilita estacionamiento gratuito. El centro de Chicoana está a 8 km. Las habitaciones de la Finca Las Margaritas presentan una decoración inspirada en diversas temáticas agrícolas e incluyen wifi gratis y chimenea. Además, disponen de baño privado. El alojamiento ofrece clases de cocina regional y proporciona préstamo de bicicletas. La Finca Las Margaritas queda a 48 km de Salta y a 49 km del aeropuerto Martín Miguel de Güemes.',
     mail: 'fincalasmargaritas.com.ar',
@@ -422,7 +418,7 @@ export const dataBeneficios = [
     title: 'Hotel Alto del Viña',
     category: 'Jujuy',
     thumbnail:
-      'https://i.ibb.co/ssxBNxz/Hotel-Alto-del-Vi-a.png',
+      'https://i.ibb.co/2d2DKhd/Altos-del-vi-a.webp',
     short_description:
       'El hotel se encuentra en un lugar privilegiado aprovechando el paisaje, con balcones de hermosas visuales sobre la ciudad, el valle de Xibi Xibi y su acceso a la Quebrada de Humahuaca. Rodeado de montañas, en un sitio pintoresco y residencial, próximo al centro de S.S. de Jujuy, ofrece un paisaje que ejercita el puro contacto con la naturaleza. 60 habitaciones equipadas con la ultima tecnología: DDN, DDI, TV por cable, Secador de cabellos, Frigobar, A/A y calefacción central, Cofres de seguridad digitales; la decoración cálida, los muebles de época y su vista lo harán sentir en un lugar único e inolvidable. Además contamos con salones para realizar cualquier tipo de evento empresarial o social, con el servicio acorde a las exigencias de nuestros Clientes.',
     mail: 'hotelaltosdelavina.com.ar - 20% s/tarifa de mostrador',
@@ -433,7 +429,7 @@ export const dataBeneficios = [
     title: 'Hotel Alvear',
     category: 'Jujuy',
     thumbnail:
-      'https://i.ibb.co/L8ChrxL/image.png',
+      'https://i.ibb.co/b3nVgwq/Hotel-Alvear.webp',
     short_description:
       'facebook.com/HotelAlvearJujuy',
     mail: '10% descuento',
@@ -444,7 +440,7 @@ export const dataBeneficios = [
     title: 'Hotel Spa Termas de Reyes',
     category: 'Jujuy',
     thumbnail:
-      '',
+      'https://i.ibb.co/Yk0vsh6/ezgif-com-gif-maker.webp',
     short_description:
       'facebook.com/termasdereyes',
     mail: '20% a partir de la 3ra noche',
@@ -455,7 +451,7 @@ export const dataBeneficios = [
     title: 'La Posada del Rio',
     category: 'Jujuy',
     thumbnail:
-      'https://i.ibb.co/y5SGnvL/image.png',
+      'https://i.ibb.co/HKh5VwS/La-posada-del-rio.webp',
     short_description:
       'La Posada del Rio es uno de los mas bellos lugares en el mundo, la Quebrada de Humahuca fue declarada patrimonio del Mundo por la UNESCO. Las posadas están situadas en la provincia de Jujuy alberga una serie de antiguos pueblos que han sabido mantener sus tradiciones y costumbres en estado puro',
     mail: 'laposadadelrio.com - 20% efectivo 5% tarjeta (temporada*)',
@@ -466,7 +462,7 @@ export const dataBeneficios = [
     title: 'Hostal de Altura',
     category: 'Jujuy',
     thumbnail:
-      'https://i.ibb.co/8ctj3j9/image.png',
+      'https://i.ibb.co/FwzBFHm/Hostal-de-altura.webp',
     short_description:
       'Hostal de Altura es un hospedaje que abrió sus puertas en julio del 2019. Se encuentra a 900 metros del centro de Tilcara en la falda del cerro negro. Esto permite que si bien el camino para llegar sea en subida, cuente con unas de las mejores vistas del pueblo desde su terraza, ideal para relajarse y descansar luego de días completos de excursión.',
     mail: 'www.fb.com/Hostal-de-Altura - 15% descuento',
@@ -477,7 +473,7 @@ export const dataBeneficios = [
     title: 'Hotel el Colonial',
     category: 'Tucuman',
     thumbnail:
-      'https://i.ibb.co/X5Yg168/image.png',
+      'https://i.ibb.co/BGr4F84/Hotel-colonial.webp',
     short_description:
       'Con una importante remodelación, Hotel Colonial Tafi del Valle by DOT Tradition fusiona lo autóctono con lo moderno, dando como resultado una arquitectura exquisita. Situado a 40 mts. de la plaza principal y a 60 mts. del principal centro gastronómico y social de la ciudad de Tafí del Valle. Una ubicación realmente privilegiada para disfrutar el corazón de Tafí del valle. Hotel Colonial Tafi del Valle by DOT Tradition ofrece el servicio de desayuno y media pensión incluido en todas sus tarifas. Cuenta con pileta en temporada de verano, parrillas y terraza con vista panorámica del valle. Habitaciones de primer nivel con servicios de excelencia, para una estadía inigualable con familias y amigos. Nuestro personal altamente capacitado y competente, estará para asistirlo en lo que necesite. Hotel Colonial Tafi del Valle by DOT Tradition, su lugar en el norte argentino.',
     mail: 'hotelcolonialtafi.com.ar - 15% descuento  ',
@@ -488,7 +484,7 @@ export const dataBeneficios = [
     title: 'Cabañas Los Carolinos',
     category: 'Tucuman',
     thumbnail:
-      'https://i.ibb.co/WvmFRR5/image.png',
+      'https://i.ibb.co/9HJKfzd/Los-carolinos.webp',
     short_description:
       'Los Carolinos by DOT Cabana, ubicado en la provincia de Tucumán, a 1,8 km de la quebradita de Tafí del Valle y a 3km del centro de la ciudad es la opción ideal para  parejas, familias y grupos de amigos que buscan el contacto con la naturaleza. Ofrece vistas a la montaña, WiFi gratuito y aparcamiento privado gratuito y se encuentra en Tafí del Valle. El lodge ofrece un gran parque, zona de estar, TV de pantalla plana vía satélite, cocina totalmente equipada con microondas y nevera, y baño privado con artículos de aseo gratuitos. Después de un día de senderismo o ciclismo, los huéspedes pueden relajarse en el jardín, la piscina o en la zona de estar compartida. El alojamiento está a 105 km de Yerba Buena y a 70 km de Famaillá. El aeropuerto internacional Teniente General Benjamín Matienzo, es el más cercano, está a 115 km de Los Carolinos.',
     mail: 'loscarolinostafi.com.ar - 15% descuento  ',
@@ -499,7 +495,7 @@ export const dataBeneficios = [
     title: 'Hotel Bicentenario Suite & Spa',
     category: 'Tucuman',
     thumbnail:
-      'https://i.ibb.co/J5bNKD7/image.png',
+      'https://i.ibb.co/mHGgf3R/Bicentenario.webp',
     short_description:
       'Hace doscientos años, hombres y mujeres que buscaban la libertad, recorrían los caminos del Virreinato del Río de la Plata, de sur a norte, de este a oeste, para reunirse en la provincia de Tucumán y firmar la carta que declaraba su independencia del Corona española y dio a luz a una nueva nación. Doscientos años después, abre el Hotel Bicentenario, hogar de los nuevos líderes argentinos y extranjeros que visitan esta histórica provincia. A 150 metros de la Plaza de la Independencia, en la calle 21 de Las Heras, el edificio de 8 plantas y 70 habitaciones cuentan con todas las comodidades de un hotel de primer nivel. Diseñado con modernos conceptos de diseño y funcionalidad, el hotel cuenta con restaurante, garaje(sujeto a disponibilidad), gimnasio, spa completo y solárium entre algunos de sus destacados servicios.',
     mail: 'www.hotelbicentenario.com.ar - 15% descuento  ',
@@ -510,7 +506,7 @@ export const dataBeneficios = [
     title: 'Hotel Termal Los Cardones & Spa',
     category: 'Santiago',
     thumbnail:
-      'https://i.ibb.co/JtgHqJ8/image.png',
+      'https://i.ibb.co/TWYhGfF/Los-cardones.webp',
     short_description:
       'Descubra nuestros servicios. Los mas altos standares de servicio en Las Termas de Río Hondo...',
     mail: 'loscardonestrh.com.ar/es - 15% descuento  ',
@@ -521,7 +517,7 @@ export const dataBeneficios = [
     title: 'Nuevo Hotel Bristol',
     category: 'Santiago',
     thumbnail:
-      'https://i.ibb.co/VMN41f7/image.png',
+      'https://i.ibb.co/WPTScRG/hotel-bristol.webp',
     short_description:
       'El Nuevo Hotel Bristol Santiago del Estero se encuentra a 400 metros del Museo de la Imprenta y cuenta con un patio y un bar en el sitio. El Centro Cultural del Bicentenario está a solo 450 metros de la propiedad.',
     mail: '20% descuento  ',
@@ -568,14 +564,14 @@ export const dataServicios = [
     id: 2,
     title: 'AZUCENA',
     thumbnail:
-      'https://i.imgur.com/m1FMXls.png',
+      'https://i.ibb.co/mbpmgZS/Azucena-frente.webp',
     short_description: 'Yerba Buena, Tucumán',
   },
   {
     id: 3,
     title: 'SALON SAN LORENZO',
     thumbnail:
-      'https://i.ibb.co/r2nSZPz/image.png',
+      'https://i.ibb.co/Hq06GbX/San-Lorenzo-1.webp',
     short_description: 'Salta',
   },
 ];
@@ -630,26 +626,26 @@ export const dataNovedades = [
 
 /*PRENSA*/
 export const dataNoticias = [
- 
+
   {
     id: 3,
     title: <p style={{color:'#263050'}}>ACUERDO PARITARIO 2022</p>,
     subtitle: '',
     thumbnail:
-      'https://i.imgur.com/uDz3VqV.png',
+      'https://i.ibb.co/LtVjkKZ/Banner-noticia-webp.webp',
     titulo: '',
     subtitulo: '',
     texto: <img width='75%' src='https://aefip.org.ar/images/COMUNICADOS/2022/06_23_2022_comunicado.png' alt='banner comunicado'></img>
       ,
     date: '23 de Junio, 2022',
   },
- 
+
   {
     id: 2,
     title: <p style={{color:'#263050'}}>AVANCES NECESARIOS EN EL CAMINO QUE QUEDA POR RECORRER</p>,
     subtitle: '',
     thumbnail:
-      'https://i.imgur.com/uDz3VqV.png',
+      'https://i.ibb.co/LtVjkKZ/Banner-noticia-webp.webp',
     titulo: '',
     subtitulo: '',
     texto: <img width='75%' src='https://aefip.org.ar/images/COMUNICADOS/2022/05_16_2022_comunicado.png' alt='banner comunicado'></img>
@@ -661,7 +657,7 @@ export const dataNoticias = [
     title: <p style={{color:'#263050'}}>ES MOMENTO DE RESPUESTAS ACORDE CON LA REALIDAD</p>,
     subtitle: '',
     thumbnail:
-      'https://i.imgur.com/uDz3VqV.png',
+      'https://i.ibb.co/LtVjkKZ/Banner-noticia-webp.webp',
     titulo: '',
     subtitulo: '',
     texto: <img width='75%' src='https://aefip.org.ar/images/COMUNICADOS/2022/05_12_2022.jpeg' alt='banner comunicado'></img>
@@ -703,112 +699,112 @@ export const dataNoticias = [
 /* GALERIA DE FOTOS */
  export const photos = [
   {
-    src: "https://i.ibb.co/2yV0j0K/image.png",
+    src: "https://i.ibb.co/nMStN9L/1-logo-1.webp",
     width: 1,
     height: 1
   },
   {
-    src: "https://i.ibb.co/Xt5whjh/image.png",
+    src: "https://i.ibb.co/GCVyMqB/2-placas-2.webp",
     width: 1,
     height: 1
   },
   {
-    src: "https://i.ibb.co/Bz9rC2r/image.png",
+    src: "https://i.ibb.co/N9xzqV9/3-placas.webp",
     width: 3,
     height: 2
   },
   {
-    src: "https://i.ibb.co/DWn2YtQ/image.png",
+    src: "https://i.ibb.co/270MSQQ/4-Fiesta-fin-de-a-o-2022.webp",
     width: 3,
     height: 2
   },
   {
-    src: "https://i.ibb.co/KbxPB9T/image.png",
-    width: 2,
-    height: 1
-  },
-  {
-    src: "https://i.ibb.co/Khf92t6/image.png",
-    width: 2,
-    height: 1
-  },
-  {
-    src: "https://i.ibb.co/wQDRp3w/image.png",
-    width: 1,
-    height: 1
-  },
-  {
-    src: "https://i.ibb.co/yqWdt32/image.png",
-    width: 1,
-    height: 1
-  },
-  {
-    src: "https://i.ibb.co/bdBLQfY/image.png",
-    width: 2,
-    height: 1
-  },
-  {
-    src: "https://i.ibb.co/R2VvgpX/image.png",
-    width: 1,
-    height: 1
-  },
-  {
-    src: "https://i.ibb.co/2FgNpx0/image.png",
-    width: 2,
-    height: 2
-  },
-  {
-    src: "https://i.ibb.co/F8ytZhk/image.png",
+    src: "https://i.ibb.co/Nj8dH5J/5-Oficina-salta.webp",
     width: 3,
     height: 2
   },
   {
-    src: "https://i.ibb.co/CByN5L0/image.png",
+    src: "https://i.ibb.co/g7myr0V/6-General-y-sub-secretario.webp",
     width: 2,
     height: 2
   },
   {
-    src: "https://i.ibb.co/SBTrTBJ/image.png",
+    src: "https://i.ibb.co/XkZcjSZ/7-Placa-malvinas.webp",
+    width: 1,
+    height: 1
+  },
+  {
+    src: "https://i.ibb.co/zHdjnhJ/8-Flyer-gracias-por-estar.webp",
+    width: 1,
+    height: 1
+  },
+  {
+    src: "https://i.ibb.co/Wn0tvT1/9Miguel.webp",
+    width: 6,
+    height: 4,
+  },
+  {
+    src: "https://i.ibb.co/k9XgbCg/10-Utiles-2022.webp",
+    width: 1,
+    height: 1
+  },
+  {
+    src: "https://i.ibb.co/fdkJdtt/11-Utiles-2022-2.webp",
+    width: 2,
+    height: 2
+  },
+  {
+    src: "https://i.ibb.co/vmTCYDV/12-Reunion-1.webp",
+    width: 3,
+    height: 2
+  },
+  {
+    src: "https://i.ibb.co/pfSpggJ/13-Reunion-2.webp",
+    width: 2,
+    height: 2
+  },
+  {
+    src: "https://i.ibb.co/VvbsF5z/14-65-a-os.webp",
     width: 4,
     height: 3
   },
   {
-    src: "https://i.ibb.co/nnSVz8g/image.png",
+    src: "https://i.ibb.co/1RK8QSC/15-Viejo.webp",
     width: 4,
     height: 3
   },
   {
-    src: "https://i.ibb.co/nzvtj9V/image.png",
+    src: "https://i.ibb.co/2P1hbGx/16-Reunion-3.webp",
     width: 3,
     height: 2
   },
   {
-    src: "https://i.ibb.co/MgLJZ7z/image.png",
+    src: "https://i.ibb.co/9NVN395/17-Convocatoria-buenos-aires.webp",
     width: 2,
     height: 1
   },
   {
-    src: "https://i.ibb.co/QKWbj3x/image.png",
+    src: "https://i.ibb.co/bQBkPmt/18-explotacion-laboral.webp",
     width: 3,
     height: 2
    },
   {
-    src: "https://i.ibb.co/7WvsySt/image.png",
+    src: "https://i.ibb.co/kKsrw9G/20-Banner-aefip.webp",
     width: 1,
     height: 1
   },
   {
-    src: "https://i.ibb.co/vVfNTd5/image.png",
-    width: 1,
+    src: "https://i.ibb.co/d2hQydf/19-Aden.webp",
+    width: 2,
     height: 2
   },
   {
-    src: "https://i.ibb.co/JkPgLXk/image.png",
+    src: "https://i.ibb.co/z654Y9B/22-mate-de-luna-2.webp",
     width: 3,
     height: 2
   },
   {
-    src: "https://i.ibb.co/wdzKRSp/image.png",
+    src: "https://i.ibb.co/kmz6R1S/21-Mate-de-luna.webp",
     width: 10,
     height: 6
   },
