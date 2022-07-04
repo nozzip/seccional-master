@@ -56,7 +56,7 @@ function DrawerComponent() {
   const [openDrawer, setOpenDrawer] = useState(false);
   return (
     <>
-      <Drawer open={openDrawer} onClose={() => setOpenDrawer(false)}>
+      <Drawer anchor='right' open={openDrawer} onClose={() => setOpenDrawer(false)}>
         <Link to="/">
           <img
             src="https://i.imgur.com/GdXnW3A.png"

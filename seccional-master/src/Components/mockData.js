@@ -300,7 +300,7 @@ export const dataBeneficios = [
     short_description:
       'Somos una empresa de seguros argentina nacida en Rosario, hace más de 80 años, con un origen mutualista. Hoy formamos parte del Grupo San Cristóbal, aseguramos a más de 725.000 personas y tenemos presencia en Argentina y Uruguay. El crecimiento permanente, la eficaz administración de nuestros recursos y la gestión de nuestros negocios basada en los valores mutualistas que nos identifican, nos convirtieron en una empresa líder, caracterizada por honrar sus acuerdos, generar un impacto positivo en la comunidad y con el foco en escuchar y dar respuesta a las necesidades de nuestros clientes. Brindamos un amplio portfolio de coberturas para individuos, productores agropecuarios, comercios, pymes y grandes empresas. Año tras año, somos una de las aseguradoras con mayor patrimonio neto de la Argentina, lo que demuestra la calidad de nuestros profesionales y la capacidad de afrontar nuestros compromisos.',
     mail: 'sancristobal@sancristobal',
-    telephone: '381-4-458780',
+    telephone: '3814458780',
   },
   {
     id: 2,
@@ -311,7 +311,7 @@ export const dataBeneficios = [
     short_description:
       'Rodeada de la majestuosidad de las montañas de Villa San Lorenzo, la frescura y el verde de la “Selva de Yungas”, nuestra Posada es una invitación a disfrutar de la naturaleza, acompañado de la comodidad de nuestras instalaciones, una atención personalizada y la calidez de un ambiente familiar.',
     mail: 'donnumas.com.ar - 10% descuento',
-    telephone: 'Guzman Pompillio 1470, San Lorenzo - 3874 020957',
+    telephone: 'Guzman Pompillio 1470, San Lorenzo - 3874020957',
   },
 
   {
@@ -323,7 +323,7 @@ export const dataBeneficios = [
     short_description:
       'El Hotel de la Linda se encuentra en Salta, es una encantadora casa de estilo colonial con dos patios interiores, y ofrece habitaciones con conexión WiFi gratuita, TV por cable, aire acondicionado frio calor y baño privados, es un Hotel económico, en pleno centro y con las comodidades necesarias. Fue refaccionado siguiendo los parámetros que se exigen para conservar el patrimonio arquitectónico en la Provincia de Salta. Cuenta con 21 habitaciones en planta baja y cuatro habitaciones nuevas en planta alta.',
     mail: 'hoteldelalinda.com.ar - 12% descuento ',
-    telephone: 'Dean Funes 80, Salta - 387 4319141',
+    telephone: 'Dean Funes 80, Salta - 3874319141',
   },
   {
     id: 4,
@@ -334,7 +334,7 @@ export const dataBeneficios = [
     short_description:
       'De marcado estilo colonial en su arquitectura sobresale el trabajo artesanal en la herrería de sus puertas, ventanas, rejas y muebles, asi como sus techos realizados en fina madera de quina y quebracho. La combinacion de laja y los objetos típicos de las culturas precolombinas crean un ambiente calido y confotable donde disfrutar de su estadía.',
     mail: 'hotelmiradordelcerro.com - 25% descuento',
-    telephone: 'Alvarado 48, Salta - 387 4228627',
+    telephone: 'Alvarado 48, Salta - 3874228627',
   },
   {
     id: 5,
@@ -345,7 +345,7 @@ export const dataBeneficios = [
     short_description:
       'Con una piscina, una sauna y un campo de golf, el Plaza De Las Aljabas Hotel Salta está situado cerca de la Plaza Güemes. Este hotel está situado en el centro de Salta, a 1.2 km del Museo Arqueológico de Alta Montaña.Este hotel está situado a menos de 0.3 km del Museo Pajcha Arte Etnico. La cercanía de una estación de tren permite explorar el Palacio de la Legislatura de Salta. sin dificultades. Todas las habitaciones están amuebladas con un teléfono directo, climatización individual y un escritorio. El cuarto de baño privado también dispone de toallas, un secador de pelo y un gorro de ducha. Los huéspedes de Plaza De Las Aljabas Hotel disfrutarán de un desayuno continental diario durante su estancia. Se puede encontrar la Macacha y La Vieja Estacion a 125 metros. El Plaza De Las Aljabas Hotel ofrece una masoterapia y terapia de spa gratis. Las otras instalaciones incluyen una piscina exterior.',
     mail: '20% Efectivo - 15% Tarjeta',
-    telephone: 'Mitre 910, Salta - 387 4219455',
+    telephone: 'Mitre 910 - 3874219455',
   },
   {
     id: 6,
@@ -356,7 +356,7 @@ export const dataBeneficios = [
     short_description:
       'Hotel Bo Encanto & Spa es un pequeño hotel que brinda calidad y confort para las vacaciones soñadas',
     mail: 'facebook.com/bodechicoanahotelsalta - 20% Efectivo - 15% Tarjeta',
-    telephone: '25 de Mayo 25, Chicoana - 387 4907068',
+    telephone: '25 de Mayo 25, Chicoana - 3874907068',
   },
   {
     id: 7,
@@ -367,7 +367,7 @@ export const dataBeneficios = [
     short_description:
       'El Hotel Termas se encuentra en obras de noviembre de 2017 siendo esta la última etapa de la puesta en valor y recuperación total del histórico edificio. La inversión que está realizando el Gobierno de la Provincia es de $ 30 millones, correspondiente al Plan Bicentenario,',
     mail: 'hoteltermasalta.com.ar',
-    telephone: 'Rosario de la Frontera, Salta - 387 5728101 3876 481004/204',
+    telephone: 'Rosario de la Frontera - 3875728101 3876481004/204',
   },
   {
     id: 8,
@@ -378,7 +378,7 @@ export const dataBeneficios = [
     short_description:
       'A metros del aeropuerto, un lugar tranquilo para disfrutar de la naturaleza y descansar.podes disfrutar de un lugar lleno de paisajes y de excursiones cercanas, cabalgatas cerca del dique cabra corral campo quijano. Brindamos la comodidades a nuestros huespedes para que puedan disfrutar de la tranquilidad.',
     mail: '20% descuento',
-    telephone: 'Pasaje Luis S/N, Villa Violeta, San Luis - 387 4262265 387 5065329',
+    telephone: 'Pasaje Luis S/N, Villa Violeta, San Luis - 3874262265 3875065329',
   },
   {
     id: 9,
@@ -389,7 +389,7 @@ export const dataBeneficios = [
     short_description:
       '',
     mail: '15% descuento',
-    telephone: 'J M Castilla 20, San Lorenzo - 11 30927733 ',
+    telephone: 'J M Castilla 20, San Lorenzo - 1130927733',
   },
   {
     id: 10,
@@ -400,7 +400,7 @@ export const dataBeneficios = [
     short_description:
       'A orillas del dique Cabra Corral, enclavado entre los cerros y el lago, en un lugar privilegiado por la naturaleza, se encuentra Terrazas del Lago, posada y restaurant.',
     mail: 'terrazasdel-lago.com.ar - 10% descuento ',
-    telephone: 'Camino al Dique km 9.5, Cabra Corral - 387 5538464',
+    telephone: 'Camino al Dique km 9.5, Cabra Corral - 3875538464',
   },
   {
     id: 11,
@@ -411,7 +411,7 @@ export const dataBeneficios = [
     short_description:
       'Finca Las Margaritas es una casa solariega con encanto y de estilo rural, equipada con pileta climatizada y rodeada de un jardín . El alojamiento facilita estacionamiento gratuito. El centro de Chicoana está a 8 km. Las habitaciones de la Finca Las Margaritas presentan una decoración inspirada en diversas temáticas agrícolas e incluyen wifi gratis y chimenea. Además, disponen de baño privado. El alojamiento ofrece clases de cocina regional y proporciona préstamo de bicicletas. La Finca Las Margaritas queda a 48 km de Salta y a 49 km del aeropuerto Martín Miguel de Güemes.',
     mail: 'fincalasmargaritas.com.ar',
-    telephone: 'Bella Vista, Chicoana - 387 4154781',
+    telephone: 'Bella Vista, Chicoana - 3874154781',
   },
   {
     id: 12,
@@ -422,7 +422,7 @@ export const dataBeneficios = [
     short_description:
       'El hotel se encuentra en un lugar privilegiado aprovechando el paisaje, con balcones de hermosas visuales sobre la ciudad, el valle de Xibi Xibi y su acceso a la Quebrada de Humahuaca. Rodeado de montañas, en un sitio pintoresco y residencial, próximo al centro de S.S. de Jujuy, ofrece un paisaje que ejercita el puro contacto con la naturaleza. 60 habitaciones equipadas con la ultima tecnología: DDN, DDI, TV por cable, Secador de cabellos, Frigobar, A/A y calefacción central, Cofres de seguridad digitales; la decoración cálida, los muebles de época y su vista lo harán sentir en un lugar único e inolvidable. Además contamos con salones para realizar cualquier tipo de evento empresarial o social, con el servicio acorde a las exigencias de nuestros Clientes.',
     mail: 'hotelaltosdelavina.com.ar - 20% s/tarifa de mostrador',
-    telephone: 'Av. Pasquini 50, B° Alto La Viña - Jujuy  388 4791077 388 4262626',
+    telephone: 'Av. Pasquini 50, B° Alto La Viña - Jujuy  3884791077 3884262626',
   },
   {
     id: 13,
@@ -433,7 +433,7 @@ export const dataBeneficios = [
     short_description:
       'facebook.com/HotelAlvearJujuy',
     mail: '10% descuento',
-    telephone: 'Senador Pérez 398, Jujuy - 388 4244580',
+    telephone: 'Senador Pérez 398, Jujuy - 3884244580',
   },
   {
     id: 14,
@@ -444,7 +444,7 @@ export const dataBeneficios = [
     short_description:
       'facebook.com/termasdereyes',
     mail: '20% a partir de la 3ra noche',
-    telephone: '388 4922522',
+    telephone: '3884922522',
   },
   {
     id: 15,
@@ -455,7 +455,7 @@ export const dataBeneficios = [
     short_description:
       'La Posada del Rio es uno de los mas bellos lugares en el mundo, la Quebrada de Humahuca fue declarada patrimonio del Mundo por la UNESCO. Las posadas están situadas en la provincia de Jujuy alberga una serie de antiguos pueblos que han sabido mantener sus tradiciones y costumbres en estado puro',
     mail: 'laposadadelrio.com - 20% efectivo 5% tarjeta (temporada*)',
-    telephone: 'Av. Costanera 625, Tilcara, Jujuy - 388 524 5829',
+    telephone: 'Av. Costanera 625, Tilcara, Jujuy - 3885245829',
   },
   {
     id: 16,
@@ -466,7 +466,7 @@ export const dataBeneficios = [
     short_description:
       'Hostal de Altura es un hospedaje que abrió sus puertas en julio del 2019. Se encuentra a 900 metros del centro de Tilcara en la falda del cerro negro. Esto permite que si bien el camino para llegar sea en subida, cuente con unas de las mejores vistas del pueblo desde su terraza, ideal para relajarse y descansar luego de días completos de excursión.',
     mail: 'www.fb.com/Hostal-de-Altura - 15% descuento',
-    telephone: '388 470 8915',
+    telephone: '3884708915',
   },
   {
     id: 17,
@@ -477,7 +477,7 @@ export const dataBeneficios = [
     short_description:
       'Con una importante remodelación, Hotel Colonial Tafi del Valle by DOT Tradition fusiona lo autóctono con lo moderno, dando como resultado una arquitectura exquisita. Situado a 40 mts. de la plaza principal y a 60 mts. del principal centro gastronómico y social de la ciudad de Tafí del Valle. Una ubicación realmente privilegiada para disfrutar el corazón de Tafí del valle. Hotel Colonial Tafi del Valle by DOT Tradition ofrece el servicio de desayuno y media pensión incluido en todas sus tarifas. Cuenta con pileta en temporada de verano, parrillas y terraza con vista panorámica del valle. Habitaciones de primer nivel con servicios de excelencia, para una estadía inigualable con familias y amigos. Nuestro personal altamente capacitado y competente, estará para asistirlo en lo que necesite. Hotel Colonial Tafi del Valle by DOT Tradition, su lugar en el norte argentino.',
     mail: 'hotelcolonialtafi.com.ar - 15% descuento  ',
-    telephone: '  Los Faroles esq. Belgrano, Tafí del Valle - 386 742 0140',
+    telephone: '  Los Faroles esq. Belgrano, Tafí del Valle - 3867420140',
   },
   {
     id: 18,
@@ -488,7 +488,7 @@ export const dataBeneficios = [
     short_description:
       'Los Carolinos by DOT Cabana, ubicado en la provincia de Tucumán, a 1,8 km de la quebradita de Tafí del Valle y a 3km del centro de la ciudad es la opción ideal para  parejas, familias y grupos de amigos que buscan el contacto con la naturaleza. Ofrece vistas a la montaña, WiFi gratuito y aparcamiento privado gratuito y se encuentra en Tafí del Valle. El lodge ofrece un gran parque, zona de estar, TV de pantalla plana vía satélite, cocina totalmente equipada con microondas y nevera, y baño privado con artículos de aseo gratuitos. Después de un día de senderismo o ciclismo, los huéspedes pueden relajarse en el jardín, la piscina o en la zona de estar compartida. El alojamiento está a 105 km de Yerba Buena y a 70 km de Famaillá. El aeropuerto internacional Teniente General Benjamín Matienzo, es el más cercano, está a 115 km de Los Carolinos.',
     mail: 'loscarolinostafi.com.ar - 15% descuento  ',
-    telephone: 'Km 66, Tafí del Valle - 381 477 1696',
+    telephone: 'Km 66, Tafí del Valle - 3814771696',
   },
   {
     id: 19,
@@ -499,7 +499,7 @@ export const dataBeneficios = [
     short_description:
       'Hace doscientos años, hombres y mujeres que buscaban la libertad, recorrían los caminos del Virreinato del Río de la Plata, de sur a norte, de este a oeste, para reunirse en la provincia de Tucumán y firmar la carta que declaraba su independencia del Corona española y dio a luz a una nueva nación. Doscientos años después, abre el Hotel Bicentenario, hogar de los nuevos líderes argentinos y extranjeros que visitan esta histórica provincia. A 150 metros de la Plaza de la Independencia, en la calle 21 de Las Heras, el edificio de 8 plantas y 70 habitaciones cuentan con todas las comodidades de un hotel de primer nivel. Diseñado con modernos conceptos de diseño y funcionalidad, el hotel cuenta con restaurante, garaje(sujeto a disponibilidad), gimnasio, spa completo y solárium entre algunos de sus destacados servicios.',
     mail: 'www.hotelbicentenario.com.ar - 15% descuento  ',
-    telephone: 'Las Heras 21, Tucumán - 381 431 9119',
+    telephone: 'Las Heras 21, Tucumán - 3814319119',
   },
   {
     id: 20,
@@ -510,7 +510,7 @@ export const dataBeneficios = [
     short_description:
       'Descubra nuestros servicios. Los mas altos standares de servicio en Las Termas de Río Hondo...',
     mail: 'loscardonestrh.com.ar/es - 15% descuento  ',
-    telephone: 'San Martin 759, Termas del Rio Hondo - 3858 4 24169',
+    telephone: 'San Martin 759, Termas del Rio Hondo - 3858424169',
   },
   {
     id: 21,
@@ -521,7 +521,7 @@ export const dataBeneficios = [
     short_description:
       'El Nuevo Hotel Bristol Santiago del Estero se encuentra a 400 metros del Museo de la Imprenta y cuenta con un patio y un bar en el sitio. El Centro Cultural del Bicentenario está a solo 450 metros de la propiedad.',
     mail: '20% descuento  ',
-    telephone: 'Moreno Sur 677, Santiago - 421 8888',
+    telephone: 'Moreno Sur 677, Santiago - 3854218888',
   },
   {
     id: 22,
@@ -544,6 +544,96 @@ export const dataBeneficios = [
       'Cortassa Mayorista es la unidad de negocio más antigua del grupo Cortassa, esta desarrolla sus actividades desde hace más de 60 años y ha experimentado desde la década del 90 un importante crecimiento.',
     mail: '15% efectivo - 10% debito',
     telephone: 'Independencia N° 235 - 3856992170',
+  },
+  {
+    id: 25,
+    title: 'Optica Yanuzzi',
+    category: 'Santiago',
+    thumbnail:
+      'https://i.ibb.co/FBk8JdK/Yanuzzi-optica.webp',
+    short_description:
+      'Les ofrecemos la oportunidad de disfrutar este convenio a los afiliados de Santiago del Estero',
+    mail: 'www.fb.com/yanuzzi.opticas.1 - Plan 75',
+    telephone: '9 de Julio N° 42 - 3856992202',
+  },
+  {
+    id: 24,
+    title: 'REMA Autocare',
+    category: 'Santiago',
+    thumbnail:
+      'https://i.ibb.co/fGH8KCJ/Rema-autocare.webp',
+    short_description:
+      '#RapidOilChangeSDE es un taller especializado en servicios rápidos de cambio de lubricantes, aditivos y accesorios automotrices. En los #ROC, ofrecemos un servicio rápido, de alta calidad y eficiente, brindado por equipos capacitados y profesional',
+    mail: 'www.fb.com/RemaAutoCare - 10% Descuento',
+    telephone: 'Av. Belgrano N° 188 - 3856001057',
+  },
+  {
+    id: 24,
+    title: 'MONITOR Servicio integral de seguridad',
+    category: 'Santiago',
+    thumbnail:
+      'https://i.ibb.co/6FC8N9W/Monitor-servicio-de-seguridad.webp',
+    short_description:
+      'Servicio de alarmas monitoreada con respuesta inmediata, las 24 horas los 365 días del año. Somos una empresa Santiagueña que brinda, hace más de 15 años, Servicios Integrales de Seguridad de máxima calidad, operando con tecnología de punta y personal calificado para proteger a nuestros abonados',
+    mail: 'http://monitorseguridad.com/ - 20% Descuento efectivo',
+    telephone: 'H. Yrigoyen N° 436 - 3854225505',
+  },
+
+  {
+    id: 25,
+    title: 'Hotel CH Loreto',
+    category: 'Santiago',
+    thumbnail:
+      'https://i.ibb.co/CmyRQfz/CH-loreto.webp',
+    short_description:
+      'Les ofrecemos la oportunidad de disfrutar este convenio a los afiliados de Santiago del Estero',
+    mail: 'www.fb.com/hotelchloreto - 15% Descuento efectivo',
+    telephone: '9 de Julio N° 160 – Loreto - 3845420865',
+  },
+  {
+    id: 26,
+    title: 'Tuluka',
+    category: 'Santiago',
+    thumbnail:
+      'https://i.ibb.co/QMrPWkG/tuluka.webp',
+    short_description:
+      'PORQUE CREEMOS EN LO QUE HACEMOS, Sabemos en que no somos un gimnasio, ni una forma de entrenar, sino un estilo de vida. Un estilo de vida que tiene un objetivo claro: ser la mejor versión de uno mismo. LOGRAMOS MANTENERNOS, nos mantenemos a lo largo del tiempo y no conformes con eso, seguimos creciendo tanto en el país como en el exterior: 40 Sucursales en ARGENTINA y 2 en el Exterior (Miami, USA y Tulum, MEXICO). SOMOS INNOVADORES, eso nos llevó a crear EAC (Escuela Argentina de Coaches) para formar los profesionales más destacados y, a la vez, aprender de ellos. También nos motivó a crear la primer competencia oficial de CrossFit en Latinoamérica: SOUTHFIT CHALLENGE, reconocida dentro de los 14 eventos oficiales en el circuito mundial. Somos líderes porque compartimos tu mismo deseo, de tener un lugar donde el mundo pasa a un segundo plano y lo único que importa sos vos, y tus ganas.',
+    mail: 'www.tulukafitness.com/ - 20% Descuento efectivo',
+    telephone: 'Brown 75 - 3854818773',
+  },
+  {
+    id: 27,
+    title: 'Don Ponciano - Parrilla y Marisqueria',
+    category: 'Santiago',
+    thumbnail:
+      'https://i.ibb.co/kM017NR/Don-Ponciano.webp',
+    short_description:
+      'Don Ponciano - Sinonimo del Buen Comer. Desde hace mas de una decada brindando a sus clientes distintas exquisiteces y una excelente atención.',
+    mail: '10% Descuento efectivo',
+    telephone: 'Sarmiento N° 69 - Termas de Rio Hondo - 3858422627',
+  },
+  {
+    id: 28,
+    title: 'GULA club',
+    category: 'Santiago',
+    thumbnail:
+      'https://i.ibb.co/WzGq07t/Gula-club.webp',
+    short_description:
+      'Fast Food en Termas de Río Hondo, Hamburguesas y Shawarma',
+    mail: 'www.fb.com/GulaclubBurgers - 10% Descuento efectivo',
+    telephone: 'Sarmiento N° 212 – Termas de Rio Hondo- 3854305923',
+  },
+
+  {
+    id: 29,
+    title: 'Dra.Graciela del Valle Robuschi',
+    category: 'Santiago',
+    thumbnail:
+      'https://i.ibb.co/WzGq07t/Gula-club.webp',
+    short_description:
+      'TRATAMIENTO INTEGRAL DEL DOLOR. Dra Graciela Robuschi. TOB alternativa. OZONOTERAPIA. TERAPIA NEURAL. PLASMA RICO EN PLAQUETAS. Tratamientos sin efectos colaterales de enfermedades agudas y crónicas',
+    mail: 'www.fb.com/GulaclubBurgers - 10% Descuento efectivo',
+    telephone: 'Sarmiento N° 212 – Termas de Rio Hondo- 3854305923',
   },
 
 

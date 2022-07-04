@@ -12,7 +12,7 @@ const useStyles = makeStyles((theme) => ({
     display: 'flex',
     flexWrap: 'wrap',
     justifyContent: 'center',
-    height: '100vh',
+    height: 'auto',
   },
 
   chip: {
@@ -42,7 +42,7 @@ const useStyles = makeStyles((theme) => ({
     margin: theme.spacing(1),
     backgroundColor: '#ff9e1c',
     width: '25vw',
-    height: 'auto',
+    height: '25vh',
     overflow: 'hidden',
     boxShadow: '2px 2px 5px 2px #888888',
     '&:hover': {       
@@ -208,6 +208,7 @@ function Item(props) {
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',
+          
         }}
       >
         <Button className={classes.button} onClick={handleClick}>
