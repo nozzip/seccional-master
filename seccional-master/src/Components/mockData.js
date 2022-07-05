@@ -5,15 +5,15 @@ const dataCarusel = [
     id: 1,
     title: '',
     thumbnail:
-      'https://i.ibb.co/txf6vq6/1-Melo-Walter.webp',
-    short_description: '2 de junio',
+      'https://i.ibb.co/0txzvdW/Abraham-2.webp',
+    short_description: '2 de julio',
   },
   {
     id: 2,
     title: '',
     thumbnail:
-      'https://i.ibb.co/sg4sSFV/2-Palavecino-Luisa.webp',
-    short_description: '2 de junio',
+      'https://i.ibb.co/x29rRPy/Alcocer-2.webp',
+    short_description: '2 de julio',
   },
   {
     id: 3,
@@ -40,8 +40,8 @@ const dataCarusel = [
     id: 6,
     title: '',
     thumbnail:
-      'https://i.ibb.co/cv59vMD/6-Laud-Jorge-Eduardo.webp',
-    short_description: '5 de junio',
+      'https://i.ibb.co/ngZtKgL/Derwiduee-5.webp',
+    short_description: '5 de julio',
   },
   {
     id: 7,
@@ -75,8 +75,8 @@ const dataCarusel = [
     id: 11,
     title: '',
     thumbnail:
-      'https://i.ibb.co/bdWy1Xy/10-Medina-Liliana.webp',
-    short_description: '9 de junio',
+      'https://i.ibb.co/945Y3R0/Fernandez-9.webp',
+    short_description: '9 de julio',
   },
   {
     id: 12,
@@ -89,8 +89,8 @@ const dataCarusel = [
     id: 13,
     title: '',
     thumbnail:
-      'https://i.ibb.co/Pcrb2vW/12-Lopez-Arias-Antonio.webp',
-    short_description: '10 de junio',
+      'https://i.ibb.co/VH9sQX4/Bobba-10.webp',
+    short_description: '10 de julio',
   },
   {
     id: 14,
@@ -99,69 +99,81 @@ const dataCarusel = [
       'https://i.ibb.co/hR94CZm/13-Abella-Antonio.webp',
     short_description: '11 de junio',
   },
+ 
   {
     id: 15,
     title: '',
     thumbnail:
-      'https://i.ibb.co/ZL0Fwhg/14-Quiroga-Rene-12-de-Junio.webp',
-    short_description: '12 de junio',
+      'https://i.ibb.co/JdbW5HC/Abdo-13.webp',
+    short_description: '13 de julio',
   },
   {
     id: 16,
     title: '',
     thumbnail:
-      'https://i.ibb.co/sscpZCK/15-Iba-ez-Eugenia-15-de-junio.webp',
-    short_description: '15 de junio',
+      'https://i.ibb.co/9qMMKd8/Fedyszyn-14.webp',
+    short_description: '14 de julio',
   },
   {
     id: 17,
     title: '',
     thumbnail:
-      'https://i.ibb.co/LgZ10tf/17-Paez-de-Silva-16-de-Junio.webp',
-    short_description: '16 de junio',
+      'https://i.ibb.co/3snFyn4/Fraida-15.webp',
+    short_description: '15 de julio',
   },
   {
     id: 18,
     title: '',
     thumbnail:
-      'https://i.ibb.co/jVYqWxB/18-Petray-Gustavo-16-de-Junio.webp',
-    short_description: '16 de junio',
+      'https://i.ibb.co/192tF5g/Erazu-15.webp',
+    short_description: '16 de julio',
   },
+  
   {
     id: 19,
     title: '',
     thumbnail:
-      'https://i.ibb.co/1n3vwbm/19-Quino-e-Maria-16-de-junio.webp',
-    short_description: '16 de junio',
+      'https://i.ibb.co/djJDcKs/Belmont-18.webp',
+    short_description: '18 de julio',
   },
   {
     id: 20,
     title: '',
     thumbnail:
-      'https://i.ibb.co/LYHbpZh/20-Vilca-Jorge-20-de-Junio.webp',
-    short_description: '20 de junio',
+      'https://i.ibb.co/LzRGHh2/Aguierre-18.webp',
+    short_description: '18 de julio',
   },
   {
     id: 21,
     title: '',
     thumbnail:
-      'https://i.ibb.co/SX5QwM8/21-Cambareri-Sara-20-de-Junio.webp',
-    short_description: '20 de junio',
+      'https://i.ibb.co/w62kb1J/Garcia-18.webp',
+    short_description: '18 de julio',
   },
+  {
+    id: 21,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/SVVLGJJ/Lopez-18.webp',
+    short_description: '18 de julio',
+  },
+  
   {
     id: 22,
     title: '',
     thumbnail:
-      'https://i.ibb.co/SftjHDn/22-Gallardo-Cruz-Maria-22-de-Junio.webp',
-    short_description: '22 de junio',
+      'https://i.ibb.co/Mgfj1tM/Delli-carpini-19.webp',
+    short_description: '19 de julio',
   },
   {
     id: 23,
     title: '',
     thumbnail:
-      'https://i.ibb.co/Lpb0R3b/23-Valdecantos-Angel-Jose-23-de-Junio.webp',
-    short_description: '23 de junio',
+      'https://i.ibb.co/nzrgX6G/delgado-20.webp',
+    short_description: '20 de julio',
   },
+ 
+  
   {
     id: 24,
     title: '',
@@ -173,36 +185,36 @@ const dataCarusel = [
     id: 25,
     title: '',
     thumbnail:
-      'https://i.ibb.co/bWKvJqr/25-Batallan-Cortes.webp',
-    short_description: '21 de junio',
+      'https://i.ibb.co/LC310TG/Diaz-Gomez-22.webp',
+    short_description: '22 de julio',
   },
   {
     id: 26,
     title: '',
     thumbnail:
-      'https://i.ibb.co/NYfXqW2/26-Hidalgo-Carlos-24-de-Junio.webp',
-    short_description: '24 de junio',
+      'https://i.ibb.co/Rgv28Df/Cueva-24.webp',
+    short_description: '24 de julio',
   },
   {
     id: 27,
     title: '',
     thumbnail:
-      'https://i.ibb.co/dDW1wLR/27-Lefortt-Sonia-26-de-Junio.webp',
-    short_description: '26 de junio',
+      'https://i.ibb.co/4fvDhhF/Caceres-26.webp',
+    short_description: '26 de julio',
   },
   {
     id: 28,
     title: '',
     thumbnail:
-      'https://i.ibb.co/y8ksY13/28-Ruiz-Ramires-Mercedes.webp',
-    short_description: '26 de junio',
+      'https://i.ibb.co/qFCvv9x/Flores-25.webp',
+    short_description: '25 de julio',
   },
   {
     id: 29,
     title: '',
     thumbnail:
-      'https://i.ibb.co/Wcrpg3t/29-Sandelowsky-Maximiliano.webp',
-    short_description: '26 de junio',
+      'https://i.ibb.co/SfF98JT/Ibarra-25.webp',
+    short_description: '25 de julio',
   },
   {
     id: 30,
@@ -229,22 +241,22 @@ const dataCarusel = [
     id: 33,
     title: '',
     thumbnail:
-      'https://i.ibb.co/CWD44vr/33-Bisdorff-Patricia-27-de-Junio.webp',
-    short_description: '27 de junio',
+      'https://i.ibb.co/j6xCmZ9/Alvares-27.webp',
+    short_description: '27 de julio',
   },
   {
     id: 34,
     title: '',
     thumbnail:
-      'https://i.ibb.co/fYpdKfP/34-Basbus-Jose-29-de-Junio.webp',
-    short_description: '29 de junio',
+      'https://i.ibb.co/pJZ5QF0/Dieguez-29.webp',
+    short_description: '29 de julio',
   },
   {
     id: 35,
     title: '',
     thumbnail:
-      'https://i.ibb.co/rdGGHPW/35-Cuello-Mariano-29-de-Junio.webp',
-    short_description: '29 de junio',
+      'https://i.ibb.co/HVSx0vL/Alu-29.webp',
+    short_description: '29 de julio',
   },
   {
     id: 36,
@@ -257,8 +269,8 @@ const dataCarusel = [
     id: 37,
     title: '',
     thumbnail:
-      'https://i.ibb.co/JQvJdkL/37-More-Daniel-30-de-Junio.webp',
-    short_description: '30 de junio',
+      'https://i.ibb.co/tsPNJqT/Ledesma-30.webp',
+    short_description: '30 de julio',
   },
 
 
@@ -629,11 +641,33 @@ export const dataBeneficios = [
     title: 'Dra.Graciela del Valle Robuschi',
     category: 'Santiago',
     thumbnail:
-      'https://i.ibb.co/WzGq07t/Gula-club.webp',
+      'https://i.ibb.co/P5MdZqM/tob-1.webp',
     short_description:
       'TRATAMIENTO INTEGRAL DEL DOLOR. Dra Graciela Robuschi. TOB alternativa. OZONOTERAPIA. TERAPIA NEURAL. PLASMA RICO EN PLAQUETAS. Tratamientos sin efectos colaterales de enfermedades agudas y crónicas',
-    mail: 'www.fb.com/GulaclubBurgers - 10% Descuento efectivo',
-    telephone: 'Sarmiento N° 212 – Termas de Rio Hondo- 3854305923',
+    mail: 'www.fb.com/TNdolor/ - 10% Descuento efectivo',
+    telephone: 'Achaval N° 376 - 3854292236',
+  },
+  {
+    id: 30,
+    title: 'Progresar Créditos',
+    category: 'Santiago',
+    thumbnail:
+      'https://i.ibb.co/6Dzq1q2/Progresar-creditos.webp',
+    short_description:
+      'En #Progresar te ofrecemos la mejor opción para capitalizar tus ahorros. ¡No pierdas la oportunidad!',
+    mail: 'www.fb.com/progresarinversiones/',
+    telephone: '24 de Septiembre N° 408, 5to piso - 3856998759',
+  },
+  {
+    id: 31,
+    title: 'Cable Express TV',
+    category: 'Santiago',
+    thumbnail:
+      'https://i.ibb.co/b224Sd8/logo-express.webp',
+    short_description:
+      'La mejor programación. Disfrutá en tu hogar el mejor y más variado entretenimiento. Sumá nuestros Pack Plus por mes o por día: HBO, Pack Fútbol y Hotpack. Accedé a NOW Express, nuestra app para ver TV en vivo y contenido On Demand en diferentes dispositivos.',
+    mail: 'www.express.com.ar/ - 200MB, servicio HD y telefonía gratis',
+    telephone: 'Av. Belgrano Sur 623- 3854735797',
   },
 
 

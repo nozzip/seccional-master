@@ -41,13 +41,13 @@ const useStyles = makeStyles((theme) => ({
   paper: {
     margin: theme.spacing(1),
     backgroundColor: '#ff9e1c',
-    width: '25vw',
+    width: '20vw',
     height: '25vh',
     overflow: 'hidden',
-    boxShadow: '2px 2px 5px 2px #888888',
+    boxShadow: '3px 3px 3px 2px #888888',
     '&:hover': {       
       transition: 'transform .5s',
-      transform: 'scale(1.2)',      
+      transform: 'scale(1.1)',      
     },
 
   },
