@@ -19,22 +19,22 @@ const dataCarusel = [
     id: 3,
     title: '',
     thumbnail:
-      'https://i.ibb.co/p2PWvdz/3-Nicoloff-Liliana.webp',
-    short_description: '3 de junio',
+      'https://i.ibb.co/vvFNXzF/Quiroga-2.webp',
+    short_description: '2 de julio',
   },
-  {
-    id: 4,
-    title: '',
-    thumbnail:
-      'https://i.ibb.co/wh4VNhc/4-Maidana-Juan-Carlos.webp',
-    short_description: '3 de junio',
-  },
+  // {
+  //   id: 4,
+  //   title: '',
+  //   thumbnail:
+  //     '',
+  //   short_description: '',
+  // },
   {
     id: 5,
     title: '',
     thumbnail:
-      'https://i.ibb.co/wh4VNhc/4-Maidana-Juan-Carlos.webp',
-    short_description: '4 de junio',
+      'https://i.ibb.co/yfc4KLK/Lopez-4.webp',
+    short_description: '4 de julio',
   },
   {
     id: 6,
@@ -47,44 +47,45 @@ const dataCarusel = [
     id: 7,
     title: '',
     thumbnail:
-      'https://i.ibb.co/7Vcvhf5/7-Orellana-Edgardo.webp',
-    short_description: '6 de junio',
+      'https://i.ibb.co/hHJDT9S/Mercado-6.webp',
+    short_description: '6 de julio',
   },
   {
     id: 8,
     title: '',
     thumbnail:
-      'https://i.ibb.co/N1tZvX7/8-Costilla-Campero-Gonzalo.webp',
-    short_description: '7 de junio',
+      'https://i.ibb.co/vhGNWz1/Rojas-7.webp',
+    short_description: '7 de julio',
   },
   {
     id: 9,
     title: '',
     thumbnail:
-      'https://i.ibb.co/DGkJZWw/9-Romero-Jose-Martin.webp',
-    short_description: '8 de junio',
+      'https://i.ibb.co/4mx4Jgq/Valdez-7.webp',
+    short_description: '7 de julio',
   },
   {
     id: 10,
     title: '',
     thumbnail:
-      'https://i.ibb.co/yfDYsGH/Medina-Liliana.jpg',
-    short_description: '9 de junio',
+      ' https://i.ibb.co/3CJMkPC/Vera-7.webp',
+    short_description: '7 de julio',
   },
   {
     id: 11,
     title: '',
     thumbnail:
-      'https://i.ibb.co/945Y3R0/Fernandez-9.webp',
+      'https://i.ibb.co/tKdMX3n/Lopez-9.webp',
     short_description: '9 de julio',
   },
   {
     id: 12,
     title: '',
     thumbnail:
-      'https://i.ibb.co/Rjxp3bx/11-Morales-Eduardo.webp',
-    short_description: '10 de junio',
+      'https://i.ibb.co/945Y3R0/Fernandez-9.webp',
+    short_description: '9 de julio',
   },
+  
   {
     id: 13,
     title: '',
@@ -92,184 +93,240 @@ const dataCarusel = [
       'https://i.ibb.co/VH9sQX4/Bobba-10.webp',
     short_description: '10 de julio',
   },
+
   {
     id: 14,
     title: '',
     thumbnail:
-      'https://i.ibb.co/hR94CZm/13-Abella-Antonio.webp',
-    short_description: '11 de junio',
+      'https://i.ibb.co/dbg1DSj/Mendoza-12.webp',
+    short_description: '12 de julio',
+  },
+  {
+    id: 15,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/DMQSRtk/Peralta-12.webp',
+    short_description: '12 de julio',
   },
  
   {
-    id: 15,
+    id: 16,
     title: '',
     thumbnail:
       'https://i.ibb.co/JdbW5HC/Abdo-13.webp',
     short_description: '13 de julio',
   },
   {
-    id: 16,
+    id: 17,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/nj9grfd/Yudi-13.webp',
+    short_description: '13 de julio',
+  },
+  
+  {
+    id: 18,
     title: '',
     thumbnail:
       'https://i.ibb.co/9qMMKd8/Fedyszyn-14.webp',
     short_description: '14 de julio',
   },
   {
-    id: 17,
+    id: 19,
     title: '',
     thumbnail:
       'https://i.ibb.co/3snFyn4/Fraida-15.webp',
     short_description: '15 de julio',
   },
   {
-    id: 18,
+    id: 20,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/YXfTgKR/Mattalia-15.webp',
+    short_description: '15 de julio',
+  },
+  {
+    id: 21,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/YXfTgKR/Mattalia-15.webp',
+    short_description: '15 de julio',
+  },
+  {
+    id: 22,
     title: '',
     thumbnail:
       'https://i.ibb.co/192tF5g/Erazu-15.webp',
     short_description: '16 de julio',
-  },
-  
+  },  
   {
-    id: 19,
+    id: 23,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/Jzq4TqJ/Nahuz-16.webp',
+    short_description: '16 de julio',
+  },
+  {
+    id: 24,
     title: '',
     thumbnail:
       'https://i.ibb.co/djJDcKs/Belmont-18.webp',
     short_description: '18 de julio',
   },
   {
-    id: 20,
+    id: 25,
     title: '',
     thumbnail:
       'https://i.ibb.co/LzRGHh2/Aguierre-18.webp',
     short_description: '18 de julio',
   },
   {
-    id: 21,
+    id: 26,
     title: '',
     thumbnail:
       'https://i.ibb.co/w62kb1J/Garcia-18.webp',
     short_description: '18 de julio',
   },
   {
-    id: 21,
+    id: 27,
     title: '',
     thumbnail:
       'https://i.ibb.co/SVVLGJJ/Lopez-18.webp',
     short_description: '18 de julio',
-  },
-  
+  },  
   {
-    id: 22,
+    id: 28,
     title: '',
     thumbnail:
       'https://i.ibb.co/Mgfj1tM/Delli-carpini-19.webp',
     short_description: '19 de julio',
   },
   {
-    id: 23,
+    id: 29,
     title: '',
     thumbnail:
       'https://i.ibb.co/nzrgX6G/delgado-20.webp',
     short_description: '20 de julio',
-  },
- 
-  
+  }, 
   {
-    id: 24,
+    id: 30,
     title: '',
     thumbnail:
-      'https://i.ibb.co/sCFNsSb/24-Adaro-Gaston-23-de-Junio.webp',
-    short_description: '23 de junio',
+      'https://i.ibb.co/YpKJwn5/Pfeiffer-20.webp',
+    short_description: '20 de julio',
   },
+
   {
-    id: 25,
+    id: 31,
     title: '',
     thumbnail:
       'https://i.ibb.co/LC310TG/Diaz-Gomez-22.webp',
     short_description: '22 de julio',
   },
   {
-    id: 26,
+    id: 32,
     title: '',
     thumbnail:
       'https://i.ibb.co/Rgv28Df/Cueva-24.webp',
     short_description: '24 de julio',
   },
   {
-    id: 27,
+    id: 33,
     title: '',
     thumbnail:
       'https://i.ibb.co/4fvDhhF/Caceres-26.webp',
     short_description: '26 de julio',
   },
   {
-    id: 28,
+    id: 34,
     title: '',
     thumbnail:
       'https://i.ibb.co/qFCvv9x/Flores-25.webp',
     short_description: '25 de julio',
   },
   {
-    id: 29,
+    id: 35,
     title: '',
     thumbnail:
       'https://i.ibb.co/SfF98JT/Ibarra-25.webp',
     short_description: '25 de julio',
   },
   {
-    id: 30,
+    id: 36,
     title: '',
     thumbnail:
-      'https://i.ibb.co/r5xrzkJ/30-Vallejos-Ramon-26-de-Junio.webp',
-    short_description: '26 de junio',
+      'https://i.ibb.co/MV4802k/Salomon-25.webp',
+    short_description: '25 de julio',
   },
+  // {
+  //   id: 37,
+  //   title: '',
+  //   thumbnail:
+  //     '',
+  //   short_description: '',
+  // },
+  
   {
-    id: 31,
+    id: 38,
     title: '',
     thumbnail:
-      'https://i.ibb.co/5n3JBTM/31-Guzman-Ernesto-26-de-Junio.webp',
-    short_description: '26 de junio',
+      'https://i.ibb.co/2hF9QVd/Michel-27.webp',
+    short_description: '27 de julio',
   },
   {
-    id: 32,
-    title: '',
-    thumbnail:
-      'https://i.ibb.co/sPgM616/32-Gomez-Maximiliano-27-de-Junio.webp',
-    short_description: '27 de junio',
-  },
-  {
-    id: 33,
+    id: 39,
     title: '',
     thumbnail:
       'https://i.ibb.co/j6xCmZ9/Alvares-27.webp',
     short_description: '27 de julio',
   },
   {
-    id: 34,
+    id: 40,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/qR4rR5n/Corvalan-28.webp',
+    short_description: '28 de julio',
+  },
+  {
+    id: 41,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/0mC4Jzn/Miranda-28.webp',
+    short_description: '28 de julio',
+  },
+  {
+    id: 42,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/1TMNYQw/Rivera-28.webp',
+    short_description: '28 de julio',
+  },
+  {
+    id: 43,
     title: '',
     thumbnail:
       'https://i.ibb.co/pJZ5QF0/Dieguez-29.webp',
     short_description: '29 de julio',
   },
   {
-    id: 35,
+    id: 44,
     title: '',
     thumbnail:
       'https://i.ibb.co/HVSx0vL/Alu-29.webp',
     short_description: '29 de julio',
   },
   {
-    id: 36,
-    title: '',
-    thumbnail:
-      'https://i.ibb.co/GJfnZnP/36-Chocobar-Jorge-30-de-Junio.webp',
-    short_description: '30 de junio',
-  },
-  {
-    id: 37,
+    id: 45,
     title: '',
     thumbnail:
       'https://i.ibb.co/tsPNJqT/Ledesma-30.webp',
+    short_description: '30 de julio',
+  },
+  {
+    id: 46,
+    title: '',
+    thumbnail:
+      'https://i.ibb.co/Fn3K7dD/Presa-30.webp',
     short_description: '30 de julio',
   },
 
@@ -285,17 +342,10 @@ export const dataCaruselBanner = [
     id: 1,
     title: '',
     thumbnail:
-      'https://i.ibb.co/R6pdXsb/imagen-2022-06-23-134757640.webp',
-    short_description: 'banner dia del trabajador',
+      'https://i.ibb.co/hXmpjXc/Nueva-oficina-gremial-catamarca.webp',
+    short_description: 'nueva oficina gremial',
   },
 
-  {
-    id: 2,
-    title: '',
-    thumbnail:
-      'https://i.ibb.co/12PKT4q/Vacunaciones-Seccional-Noroeste.webp',
-    short_description: '',
-  },
 
 
 
