@@ -353,17 +353,17 @@ export const dataCaruselBanner = [
 
 /*Pestaña Beneficios */
 export const dataBeneficios = [
-  {
-    id: 1,
-    title: 'San Cristobal Seguros',
-    category: 'Tucuman',
-    thumbnail:
-      'https://i.ibb.co/Bchs5YH/San-Cristobal.webp',
-    short_description:
-      'Somos una empresa de seguros argentina nacida en Rosario, hace más de 80 años, con un origen mutualista. Hoy formamos parte del Grupo San Cristóbal, aseguramos a más de 725.000 personas y tenemos presencia en Argentina y Uruguay. El crecimiento permanente, la eficaz administración de nuestros recursos y la gestión de nuestros negocios basada en los valores mutualistas que nos identifican, nos convirtieron en una empresa líder, caracterizada por honrar sus acuerdos, generar un impacto positivo en la comunidad y con el foco en escuchar y dar respuesta a las necesidades de nuestros clientes. Brindamos un amplio portfolio de coberturas para individuos, productores agropecuarios, comercios, pymes y grandes empresas. Año tras año, somos una de las aseguradoras con mayor patrimonio neto de la Argentina, lo que demuestra la calidad de nuestros profesionales y la capacidad de afrontar nuestros compromisos.',
-    mail: 'sancristobal@sancristobal',
-    telephone: '3814458780',
-  },
+  // {
+  //   id: 1,
+  //   title: 'San Cristobal Seguros',
+  //   category: 'Tucuman',
+  //   thumbnail:
+  //     'https://i.ibb.co/Bchs5YH/San-Cristobal.webp',
+  //   short_description:
+  //     'Somos una empresa de seguros argentina nacida en Rosario, hace más de 80 años, con un origen mutualista. Hoy formamos parte del Grupo San Cristóbal, aseguramos a más de 725.000 personas y tenemos presencia en Argentina y Uruguay. El crecimiento permanente, la eficaz administración de nuestros recursos y la gestión de nuestros negocios basada en los valores mutualistas que nos identifican, nos convirtieron en una empresa líder, caracterizada por honrar sus acuerdos, generar un impacto positivo en la comunidad y con el foco en escuchar y dar respuesta a las necesidades de nuestros clientes. Brindamos un amplio portfolio de coberturas para individuos, productores agropecuarios, comercios, pymes y grandes empresas. Año tras año, somos una de las aseguradoras con mayor patrimonio neto de la Argentina, lo que demuestra la calidad de nuestros profesionales y la capacidad de afrontar nuestros compromisos.',
+  //   mail: 'sancristobal@sancristobal',
+  //   telephone: '3814458780',
+  // },
   {
     id: 2,
     title: 'Posada y Spa - Don Numas',
@@ -405,7 +405,7 @@ export const dataBeneficios = [
     thumbnail:
       'https://i.ibb.co/GRPQMyT/Hotel-plaza-de-las-aljabas.webp',
     short_description:
-      'Con una piscina, una sauna y un campo de golf, el Plaza De Las Aljabas Hotel Salta está situado cerca de la Plaza Güemes. Este hotel está situado en el centro de Salta, a 1.2 km del Museo Arqueológico de Alta Montaña.Este hotel está situado a menos de 0.3 km del Museo Pajcha Arte Etnico. La cercanía de una estación de tren permite explorar el Palacio de la Legislatura de Salta. sin dificultades. Todas las habitaciones están amuebladas con un teléfono directo, climatización individual y un escritorio. El cuarto de baño privado también dispone de toallas, un secador de pelo y un gorro de ducha. Los huéspedes de Plaza De Las Aljabas Hotel disfrutarán de un desayuno continental diario durante su estancia. Se puede encontrar la Macacha y La Vieja Estacion a 125 metros. El Plaza De Las Aljabas Hotel ofrece una masoterapia y terapia de spa gratis. Las otras instalaciones incluyen una piscina exterior.',
+      'CERRADO TEMPORALMENTE.Con una piscina, una sauna y un campo de golf, el Plaza De Las Aljabas Hotel Salta está situado cerca de la Plaza Güemes. Este hotel está situado en el centro de Salta, a 1.2 km del Museo Arqueológico de Alta Montaña.Este hotel está situado a menos de 0.3 km del Museo Pajcha Arte Etnico. La cercanía de una estación de tren permite explorar el Palacio de la Legislatura de Salta. sin dificultades. Todas las habitaciones están amuebladas con un teléfono directo, climatización individual y un escritorio. El cuarto de baño privado también dispone de toallas, un secador de pelo y un gorro de ducha. Los huéspedes de Plaza De Las Aljabas Hotel disfrutarán de un desayuno continental diario durante su estancia. Se puede encontrar la Macacha y La Vieja Estacion a 125 metros. El Plaza De Las Aljabas Hotel ofrece una masoterapia y terapia de spa gratis. Las otras instalaciones incluyen una piscina exterior.',
     mail: '20% Efectivo - 15% Tarjeta',
     telephone: 'Mitre 910 - 3874219455',
   },
@@ -527,8 +527,8 @@ export const dataBeneficios = [
       'https://i.ibb.co/FwzBFHm/Hostal-de-altura.webp',
     short_description:
       'Hostal de Altura es un hospedaje que abrió sus puertas en julio del 2019. Se encuentra a 900 metros del centro de Tilcara en la falda del cerro negro. Esto permite que si bien el camino para llegar sea en subida, cuente con unas de las mejores vistas del pueblo desde su terraza, ideal para relajarse y descansar luego de días completos de excursión.',
-    mail: 'www.fb.com/Hostal-de-Altura - 15% descuento',
-    telephone: '3884708915',
+    mail: 'Facebook: Hostal de Altura - 15% descuento',
+    telephone: 'hostaldealtura@gmail.com - 3884708915',
   },
   {
     id: 17,
@@ -719,6 +719,96 @@ export const dataBeneficios = [
     mail: 'www.express.com.ar/ - 200MB, servicio HD y telefonía gratis',
     telephone: 'Av. Belgrano Sur 623- 3854735797',
   },
+  {
+    id: 32,
+    title: 'Cine Atlas',
+    category: 'Tucuman',
+    thumbnail:
+      'https://i.ibb.co/RS6bk0n/cine-atlas-2x1.webp',
+    short_description:
+      'Celebramos un nuevo convenio con los Cines Atlas!, buscando tu voucher de la oficina gremial, 24 de septiembre 918, podes disfrutar del beneficio de 2x1, valido los días Jueves y Viernes.',
+    mail: 'www.cineatlasweb.com.ar - 2x1 Jueves y Viernes',
+    telephone: 'Monteagudo-Via 24-Terminal-Cosquín',
+  },
+  {
+    id: 33,
+    title: 'Asispre',
+    category: 'Tucuman',
+    thumbnail:
+      'https://i.ibb.co/G5H9sqD/asispre.webp',
+    short_description:
+      'Les informamos que tenemos vigente un convenio con AEFIP para que aquellas personas que quieran contratar una cobertura de Sepelio Integral con Cremación o Inhumación, puedan hacerlo abonando una cuota diferencial y con mínimos requisitos. Este ofrecimiento es comercializado con la marca ASISPRE, empresa de Servicios Sociales que pertenece al GRUPO FLORES, con más de 35 años de sólida trayectoria y excelencia en nuestro medio y con una cartera de más de 100.000 Afiliados. El ofrecimiento que acompañamos está pensado para todas aquellas personas que buscan anticiparse a situaciones inevitables, otorgándoles la tranquilidad de saber que su familia está protegida por una amplia cobertura, brindada con la calidad y seriedad que caracterizan a nuestra Empresa. Los pagos de las cuotas mensuales se realizarán a través de un débito en sus haberes y tendrán un descuento especial del 12% sobre el precio normal de venta.',
+    mail: '',
+    telephone: 'Alicia Martínez 3815472636 / 3815617512 Alberto Cavanna',
+  },
+  {
+    id: 34,
+    title: 'Hotel Embajador',
+    category: 'Tucuman',
+    thumbnail:
+      'https://i.ibb.co/ZXq87sx/hotel-embajador.webp',
+    short_description:
+      'El Hotel Embajador está situado en la zona centrica suroeste. Nuestro estilo Clasico y Superior de un nivel de prestigio tanto así como nuestros servicios reconocidos en la provincia. Un lugar placentero, tranquilo, con habitaciones para todos los gustos con vista hacia Parque 9 de Julio y hacía el otro extremo, vista primordial al Cerro San Javier. Los esperamos...',
+    mail: 'www.hotelembajadortuc.com.ar/',
+    telephone: 'Las Heras 221 - 3814311264',
+  },
+  {
+    id: 35,
+    title: 'Farmacia Inca',
+    category: 'Santiago',
+    thumbnail:
+      'https://i.ibb.co/5rwt1Lw/Farmacia-inca.webp',
+    short_description:
+      'Le informamos a nuestros afiliados de Santiago del Estero que pueden disfrutar de este beneficio',
+    mail: 'Facebook: Farmacia El Inca - 10% descuento efectivo',
+    telephone: 'Alvear 1198 - 3884082688',
+  },
+  {
+    id: 36,
+    title: 'Carniceria El Malik',
+    category: 'Tucuman',
+    thumbnail:
+      'https://i.ibb.co/fxVLzsW/el-malik.webp',
+    short_description:
+      'El Malik Carnicerías brinda productos de calidad. Contamos con terneros PREMIUM para garantizar el MEJOR ASADO de Tucumán y la variedad necesaria en Carne Vacuna, Pollos, Pescados y Verduras para que encuentres todo en el mismo lugar. ¡Te esperamos!',
+    mail: 'Facebook: Farmacia El Inca - 10% descuento efectivo',
+    telephone: 'Alvear 1198 - 3884082688',
+  },
+  {
+    id: 37,
+    title: 'Universidad de San Pablo T',
+    category: 'Tucuman',
+    thumbnail:
+      'https://i.ibb.co/WkNswmK/logo-san-pablo-T.webp',
+    short_description:
+      'Le informamos a nuestros afiliados de Tucumán que pueden disfrutar de este beneficio. Presentando constancia expedida en oficina gremial, podrán presentar en la universidad para gozaar de este beneficio',
+    mail: 'uspt.edu.ar/home - 10% de descuento',
+    telephone: 'Sede Central -  3814530630',
+  },
+  {
+    id: 37,
+    title: 'Universidad Siglo XXI',
+    category: 'Tucuman',
+    thumbnail:
+      'https://i.ibb.co/Gvr6jcc/siglo-21-logo.webp',
+    short_description:
+      'Le informamos a nuestros afiliados de Tucumán que pueden disfrutar de este beneficio. Presentando constancia expedida en oficina gremial, podrán presentar en la universidad para gozaar de este beneficio',
+    mail: '21.edu.ar/ - 10% de descuento',
+    telephone: 'Ituzaingo  484 - 35126029447',
+  },
+  {
+    id: 38,
+    title: 'Universidad Santo Tomas de Aquino',
+    category: 'Tucuman',
+    thumbnail:
+      'https://i.ibb.co/4J6fNxg/unsta-logo.webp',
+    short_description:
+      'Le informamos a nuestros afiliados de Tucumán que pueden disfrutar de este beneficio. Presentando constancia expedida en oficina gremial, podrán presentar en la universidad para gozaar de este beneficio',
+    mail: 'www.unsta.edu.ar - 20% de descuento',
+    telephone: '9 de julio 165 - 3816295976',
+  },
+
+  
 
 
 
@@ -800,7 +890,34 @@ export const dataNovedades = [
 
 /*PRENSA*/
 export const dataNoticias = [
-
+ 
+ 
+  {
+    id: 4,
+    title: <p style={{color:'#ff9e1c'}}>CALIFICACIONES</p>,
+    subtitle: '',
+    thumbnail:
+      'https://i.ibb.co/1sX3Ndt/comunicado-de-prensa-NOROESTE.webp',
+    titulo: '',
+    subtitulo: '',
+    texto: <img width='75%' src='https://i.ibb.co/phn0JLs/CALIFICACIONES.webp' alt='banner comunicado'></img>
+    
+      ,
+    date: '18 de Julio, 2022',
+  },
+  {
+    id: 3,
+    title: <p style={{color:'#263050'}}>CUMPLIMOS UNA REVINDICACION HISTORICA</p>,
+    subtitle: '',
+    thumbnail:
+      'https://i.ibb.co/LtVjkKZ/Banner-noticia-webp.webp',
+    titulo: '',
+    subtitulo: '',
+    texto: <img width='75%' src='https://i.ibb.co/rt6JzMN/07-02-2022-comunicados.png' alt='banner comunicado'></img>
+      ,
+    date: '2 de Julio, 2022',
+  },
+  
   {
     id: 3,
     title: <p style={{color:'#263050'}}>ACUERDO PARITARIO 2022</p>,
@@ -1024,6 +1141,25 @@ export const photosServiciosMollar = [
     width: 0,
     height: 0
   },
+  {
+    src: "https://i.ibb.co/xDhGw7D/Mollar-2.webp",
+    width: 0,
+    height: 0
+  },
+  {
+    src: "https://i.ibb.co/ZKGv5rX/Mollar-1.webp",
+    width: 0,
+    height: 0
+  },
+  {
+    src: "https://i.ibb.co/wBhLGrM/Mollar-3.webp",
+    width: 0,
+    height: 0
+  },
+  
+
+
+
 
 ];
 
